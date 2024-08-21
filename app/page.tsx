@@ -1,95 +1,63 @@
-import Image from "next/image";
-import styles from "./page.module.css";
+"use client";
+
+import { parse } from "@plussub/srt-vtt-parser";
+import { useState, ReactEventHandler, useRef, useEffect } from "react";
 
 export default function Home() {
+  const [displayTime, setDisplayTime] = useState<number>(0);
+  const [subText, setSubText] = useState<ReturnType<typeof parse>["entries"]>(
+    []
+  );
+  const [subTextCurrentLine, setSubTextCurrentLine] = useState<string>("subs");
+
+  const videoRef = useRef<HTMLVideoElement>(null);
+
+  const onTimeUpdate: ReactEventHandler<HTMLVideoElement> = (e) => {
+    const time = (videoRef.current?.currentTime ?? 0) * 1000;
+    setDisplayTime(Math.floor(time ?? 0));
+
+    let l = 0;
+    let r = subText.length - 1;
+
+    while (l <= r) {
+      const m = Math.floor((l + r) / 2);
+
+      if (time >= subText[m].from && time < subText[m].to) {
+        setSubTextCurrentLine(subText[m].text);
+        break;
+      } else if (time > subText[m].to) {
+        l = m + 1;
+      } else {
+        r = m - 1;
+      }
+    }
+  };
+
+  useEffect(() => {
+    fetch("/vidd.srt").then((value) => {
+      value
+        .text()
+        .then((text) => {
+          const parsed = parse(text).entries;
+          setSubText(parsed);
+        })
+        .catch((e) => alert("error"));
+    });
+  }, []);
+
   return (
-    <main className={styles.main}>
-      <div className={styles.description}>
-        <p>
-          Get started by editing&nbsp;
-          <code className={styles.code}>app/page.tsx</code>
-        </p>
-        <div>
-          <a
-            href="https://vercel.com?utm_source=create-next-app&utm_medium=appdir-template&utm_campaign=create-next-app"
-            target="_blank"
-            rel="noopener noreferrer"
-          >
-            By{" "}
-            <Image
-              src="/vercel.svg"
-              alt="Vercel Logo"
-              className={styles.vercelLogo}
-              width={100}
-              height={24}
-              priority
-            />
-          </a>
-        </div>
-      </div>
-
-      <div className={styles.center}>
-        <Image
-          className={styles.logo}
-          src="/next.svg"
-          alt="Next.js Logo"
-          width={180}
-          height={37}
-          priority
-        />
-      </div>
-
-      <div className={styles.grid}>
-        <a
-          href="https://nextjs.org/docs?utm_source=create-next-app&utm_medium=appdir-template&utm_campaign=create-next-app"
-          className={styles.card}
-          target="_blank"
-          rel="noopener noreferrer"
-        >
-          <h2>
-            Docs <span>-&gt;</span>
-          </h2>
-          <p>Find in-depth information about Next.js features and API.</p>
-        </a>
-
-        <a
-          href="https://nextjs.org/learn?utm_source=create-next-app&utm_medium=appdir-template&utm_campaign=create-next-app"
-          className={styles.card}
-          target="_blank"
-          rel="noopener noreferrer"
-        >
-          <h2>
-            Learn <span>-&gt;</span>
-          </h2>
-          <p>Learn about Next.js in an interactive course with&nbsp;quizzes!</p>
-        </a>
-
-        <a
-          href="https://vercel.com/templates?framework=next.js&utm_source=create-next-app&utm_medium=appdir-template&utm_campaign=create-next-app"
-          className={styles.card}
-          target="_blank"
-          rel="noopener noreferrer"
-        >
-          <h2>
-            Templates <span>-&gt;</span>
-          </h2>
-          <p>Explore starter templates for Next.js.</p>
-        </a>
-
-        <a
-          href="https://vercel.com/new?utm_source=create-next-app&utm_medium=appdir-template&utm_campaign=create-next-app"
-          className={styles.card}
-          target="_blank"
-          rel="noopener noreferrer"
-        >
-          <h2>
-            Deploy <span>-&gt;</span>
-          </h2>
-          <p>
-            Instantly deploy your Next.js site to a shareable URL with Vercel.
-          </p>
-        </a>
-      </div>
-    </main>
+    <div>
+      <video
+        id="video"
+        ref={videoRef}
+        controls
+        style={{ minHeight: 400, minWidth: 500 }}
+        onTimeUpdate={onTimeUpdate}
+      >
+        <source src="/vid.mp4" type="video/mp4" />
+      </video>
+      <h3>{subTextCurrentLine}</h3>
+      <h5>{displayTime}</h5>
+    </div>
   );
 }
