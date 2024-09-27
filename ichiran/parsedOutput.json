@@ -1,0 +1,9866 @@
+[
+  {
+    "count": 100,
+    "reading": "だから"
+  },
+  {
+    "count": 84,
+    "reading": "みたい"
+  },
+  {
+    "count": 74,
+    "reading": "あの"
+  },
+  {
+    "count": 61,
+    "reading": "ちょっと",
+    "gloss": [
+      "a little; a bit; slightly",
+      "just a minute; for a moment; briefly",
+      "somewhat; rather; fairly; pretty; quite",
+      "(not) easily; (not) readily",
+      "hey!; come on; excuse me",
+      "thanks, but no; not feasible; not possible"
+    ]
+  },
+  {
+    "count": 57,
+    "reading": "いや"
+  },
+  {
+    "count": 55,
+    "reading": "だけど",
+    "gloss": [
+      "however"
+    ]
+  },
+  {
+    "count": 54,
+    "reading": "思う 【おもう】"
+  },
+  {
+    "count": 52,
+    "reading": "人 【ひと】",
+    "gloss": [
+      "person; someone; somebody",
+      "human beings; mankind; man; people; humans",
+      "human (Homo sapiens)",
+      "(other) people; others",
+      "character; personality; nature",
+      "capable person; competent person; suitable person; right person",
+      "adult; grown-up",
+      "I; me; one"
+    ]
+  },
+  {
+    "count": 52,
+    "reading": "イオ",
+    "gloss": [
+      "Io (moon of Jupiter)"
+    ]
+  },
+  {
+    "count": 49,
+    "reading": "ニコ"
+  },
+  {
+    "count": 47,
+    "reading": "本当に 【ほんとうに】",
+    "gloss": [
+      "really; truly"
+    ]
+  },
+  {
+    "count": 46,
+    "reading": "い"
+  },
+  {
+    "count": 44,
+    "reading": "ある"
+  },
+  {
+    "count": 43,
+    "reading": "生 【なま】",
+    "gloss": [
+      "raw; uncooked; fresh",
+      "natural; as it is; unedited; unprocessed",
+      "unprotected (sex); raw; bareback",
+      "live (i.e. not recorded)",
+      "inexperienced; unpolished; green; crude",
+      "impudence; sauciness",
+      "unpasteurized beer; draft beer; draught beer",
+      "blank (e.g. disk); unused",
+      "just a little; somehow; vaguely; partially; somewhat; half-; semi-",
+      "insufficient; incomplete; half-baked; half-hearted; perfunctory",
+      "cash",
+      "tipsiness"
+    ]
+  },
+  {
+    "count": 43,
+    "reading": "為る 【する】"
+  },
+  {
+    "count": 41,
+    "reading": "配信 【はいしん】",
+    "gloss": [
+      "distribution (of information, news, etc.); broadcast; delivery; transmission; streaming (over the Internet)"
+    ]
+  },
+  {
+    "count": 38,
+    "reading": "え",
+    "gloss": [
+      "eh?; what?; oh?",
+      "yes; that's correct",
+      "strengthens a question, assertion, etc.",
+      "hey"
+    ]
+  },
+  {
+    "count": 36,
+    "reading": "もう",
+    "gloss": [
+      "already; yet; by now; now; (not) any more; (not) any longer",
+      "soon; shortly; before long; presently",
+      "further; more; again; another; the other",
+      "jeez; geez; gee; boy; come on; damn; seriously"
+    ]
+  },
+  {
+    "count": 36,
+    "reading": "言う 【いう】"
+  },
+  {
+    "count": 34,
+    "reading": "こと"
+  },
+  {
+    "count": 31,
+    "reading": "メール",
+    "gloss": [
+      "email",
+      "mail (usu. in compound words); post",
+      "message (sent over a chat application); instant message; IM; (SMS) text",
+      "male"
+    ]
+  },
+  {
+    "count": 31,
+    "reading": "見る 【みる】"
+  },
+  {
+    "count": 31,
+    "reading": "これ",
+    "gloss": [
+      "this; this one",
+      "this person",
+      "now; this point (in time)",
+      "here",
+      "used to stress the subject of a sentence",
+      "I; me"
+    ]
+  },
+  {
+    "count": 30,
+    "reading": "人 【にん】"
+  },
+  {
+    "count": 30,
+    "reading": "人 【じん】"
+  },
+  {
+    "count": 27,
+    "reading": "でしょ",
+    "gloss": [
+      "it seems; I think; I guess; I wonder",
+      "right?; don't you agree?"
+    ]
+  },
+  {
+    "count": 25,
+    "reading": "そう"
+  },
+  {
+    "count": 23,
+    "reading": "いい",
+    "gloss": [
+      "good; excellent; fine; nice; pleasant; agreeable",
+      "sufficient; enough; ready; prepared",
+      "profitable (deal, business offer, etc.); beneficial",
+      "OK; all right; fine; no problem"
+    ]
+  },
+  {
+    "count": 23,
+    "reading": "外 【そと】"
+  },
+  {
+    "count": 23,
+    "reading": "在る 【ある】"
+  },
+  {
+    "count": 22,
+    "reading": "外 【がい】"
+  },
+  {
+    "count": 22,
+    "reading": "居る 【いる】"
+  },
+  {
+    "count": 22,
+    "reading": "来る 【くる】"
+  },
+  {
+    "count": 21,
+    "reading": "届く 【とどく】"
+  },
+  {
+    "count": 21,
+    "reading": "入る 【はいる】"
+  },
+  {
+    "count": 21,
+    "reading": "お",
+    "gloss": [
+      "honorific/polite/humble prefix"
+    ]
+  },
+  {
+    "count": 21,
+    "reading": "ない"
+  },
+  {
+    "count": 20,
+    "reading": "パスワード",
+    "gloss": [
+      "password"
+    ]
+  },
+  {
+    "count": 20,
+    "reading": "かなって"
+  },
+  {
+    "count": 19,
+    "reading": "めっちゃ",
+    "gloss": [
+      "very; extremely; excessively"
+    ]
+  },
+  {
+    "count": 19,
+    "reading": "感じる 【かんじる】",
+    "gloss": [
+      "feeling; sense; impression"
+    ]
+  },
+  {
+    "count": 18,
+    "reading": "遣る 【やる】"
+  },
+  {
+    "count": 18,
+    "reading": "っていう",
+    "gloss": [
+      "meaning; called; said"
+    ]
+  },
+  {
+    "count": 18,
+    "reading": "とき"
+  },
+  {
+    "count": 17,
+    "reading": "入れる 【いれる】"
+  },
+  {
+    "count": 17,
+    "reading": "今 【いま】",
+    "gloss": [
+      "now; the present time; just now; soon; immediately",
+      "another; more"
+    ]
+  },
+  {
+    "count": 17,
+    "reading": "時 【とき】"
+  },
+  {
+    "count": 17,
+    "reading": "そういう",
+    "gloss": [
+      "such; like that; that sort of"
+    ]
+  },
+  {
+    "count": 17,
+    "reading": "イオン",
+    "gloss": [
+      "ion"
+    ]
+  },
+  {
+    "count": 16,
+    "reading": "あ"
+  },
+  {
+    "count": 16,
+    "reading": "ガチ",
+    "gloss": [
+      "serious; earnest; honest; real; legit"
+    ]
+  },
+  {
+    "count": 16,
+    "reading": "結構 【けっこう】",
+    "gloss": [
+      "splendid; nice; wonderful; delightful; lovely; excellent; fine",
+      "sufficient; satisfactory; enough; fine; all right; OK",
+      "not needing (any more of something); (already) having enough; fine (as in \"I'm fine\"); no, thank you",
+      "rather; quite; fairly; pretty; surprisingly; quite a bit; fairly well",
+      "structure; construction; framework; architecture"
+    ]
+  },
+  {
+    "count": 16,
+    "reading": "あと"
+  },
+  {
+    "count": 15,
+    "reading": "出来る 【できる】"
+  },
+  {
+    "count": 15,
+    "reading": "成る 【なる】"
+  },
+  {
+    "count": 15,
+    "reading": "何 【なに】"
+  },
+  {
+    "count": 15,
+    "reading": "何 【なん】"
+  },
+  {
+    "count": 15,
+    "reading": "やばい",
+    "gloss": [
+      "dangerous; risky",
+      "awful; terrible; crap",
+      "terrific; amazing; cool",
+      "crazy; insane; not normal; unhinged; extreme"
+    ]
+  },
+  {
+    "count": 15,
+    "reading": "料理 【りょうり】",
+    "gloss": [
+      "cooking; cookery; cuisine; meal; food; dish; item on a menu",
+      "(easily) dealing with something; handling (well)"
+    ]
+  },
+  {
+    "count": 14,
+    "reading": "なんで",
+    "gloss": [
+      "why?; what for?",
+      "how?; by what means?"
+    ]
+  },
+  {
+    "count": 14,
+    "reading": "わかんない",
+    "gloss": [
+      "not understanding; not knowing"
+    ]
+  },
+  {
+    "count": 14,
+    "reading": "なんて"
+  },
+  {
+    "count": 14,
+    "reading": "お前 【おまえ】",
+    "gloss": [
+      "you",
+      "before (a god, nobleman, etc.); in front of"
+    ]
+  },
+  {
+    "count": 14,
+    "reading": "兄ちゃん 【にいちゃん】",
+    "gloss": [
+      "(one's) older brother",
+      "young man; sonny; lad"
+    ]
+  },
+  {
+    "count": 14,
+    "reading": "待つ 【まつ】",
+    "gloss": [
+      "to wait",
+      "to await; to look forward to; to anticipate",
+      "to depend on; to need"
+    ]
+  },
+  {
+    "count": 14,
+    "reading": "全 【ぜん】",
+    "gloss": [
+      "all; whole; entire; complete; total; pan-",
+      "complete (set); in total"
+    ]
+  },
+  {
+    "count": 13,
+    "reading": "その",
+    "gloss": [
+      "that; the",
+      "part (as in \"part two\")",
+      "um ...; er ...; uh ..."
+    ]
+  },
+  {
+    "count": 13,
+    "reading": "無理 【むり】",
+    "gloss": [
+      "unreasonable; unnatural; unjustifiable",
+      "impossible",
+      "forcible; forced; compulsory",
+      "excessive (work, etc.); immoderate",
+      "to work too hard; to try too hard",
+      "no way; not a chance; never; dream on",
+      "irrational"
+    ]
+  },
+  {
+    "count": 13,
+    "reading": "怖い 【こわい】",
+    "gloss": [
+      "scary; frightening; eerie; dreadful"
+    ]
+  },
+  {
+    "count": 13,
+    "reading": "ギリ",
+    "gloss": [
+      "duty; sense of duty; honor; honour; decency; courtesy; debt of gratitude; social obligation",
+      "in-law; relation by marriage"
+    ]
+  },
+  {
+    "count": 12,
+    "reading": "ありがとう",
+    "gloss": [
+      "thank you; thanks"
+    ]
+  },
+  {
+    "count": 12,
+    "reading": "いる",
+    "gloss": [
+      "to be (of animate objects); to exist",
+      "to stay",
+      "to be ...-ing; to have been ...-ing"
+    ]
+  },
+  {
+    "count": 12,
+    "reading": "あれ",
+    "gloss": [
+      "that; that thing",
+      "that person",
+      "then; that time",
+      "that place (over there)",
+      "down there (i.e. one's genitals)",
+      "period; menses"
+    ]
+  },
+  {
+    "count": 12,
+    "reading": "じゃあ",
+    "gloss": [
+      "then; well; so; well then"
+    ]
+  },
+  {
+    "count": 12,
+    "reading": "マジ",
+    "gloss": [
+      "serious; not joking; straight"
+    ]
+  },
+  {
+    "count": 12,
+    "reading": "ツイキャス",
+    "gloss": [
+      "TwitCasting (live streaming service)"
+    ]
+  },
+  {
+    "count": 12,
+    "reading": "メールアドレス",
+    "gloss": [
+      "email address"
+    ]
+  },
+  {
+    "count": 12,
+    "reading": "絶対 【ぜったい】",
+    "gloss": [
+      "absolutely; definitely; unconditionally",
+      "absolute; unconditional; unmistakable",
+      "absoluteness"
+    ]
+  },
+  {
+    "count": 11,
+    "reading": "警察 【けいさつ】",
+    "gloss": [
+      "police",
+      "police officer",
+      "police station"
+    ]
+  },
+  {
+    "count": 11,
+    "reading": "多分 【たぶん】",
+    "gloss": [
+      "probably; likely; perhaps; maybe",
+      "a lot of; much; many; considerable; large (amount); generous"
+    ]
+  },
+  {
+    "count": 11,
+    "reading": "どう",
+    "gloss": [
+      "how; in what way; how about"
+    ]
+  },
+  {
+    "count": 11,
+    "reading": "吐く 【つく】"
+  },
+  {
+    "count": 11,
+    "reading": "してる"
+  },
+  {
+    "count": 11,
+    "reading": "戻る 【もどる】",
+    "gloss": [
+      "to turn back (e.g. half-way)",
+      "to return; to go back",
+      "to recover (e.g. something lost); to be returned",
+      "to rebound; to spring back"
+    ]
+  },
+  {
+    "count": 11,
+    "reading": "解く 【とく】"
+  },
+  {
+    "count": 11,
+    "reading": "電話番号 【でんわばんごう】",
+    "gloss": [
+      "telephone number"
+    ]
+  },
+  {
+    "count": 11,
+    "reading": "ゲスト",
+    "gloss": [
+      "guest"
+    ]
+  },
+  {
+    "count": 11,
+    "reading": "食べる 【たべる】",
+    "gloss": [
+      "to eat",
+      "to live on (e.g. a salary); to live off; to subsist on"
+    ]
+  },
+  {
+    "count": 10,
+    "reading": "うん"
+  },
+  {
+    "count": 10,
+    "reading": "ゆき"
+  },
+  {
+    "count": 10,
+    "reading": "行く 【ゆく】"
+  },
+  {
+    "count": 10,
+    "reading": "リスナー",
+    "gloss": [
+      "(radio) listener"
+    ]
+  },
+  {
+    "count": 10,
+    "reading": "依る 【よる】"
+  },
+  {
+    "count": 10,
+    "reading": "好く 【すく】",
+    "gloss": [
+      "liking; being fond of; to one's liking; to one's taste; preferred; favourite",
+      "liking (romantically); being in love with; beloved",
+      "faddism; eccentricity",
+      "as one likes; as it suits one",
+      "lecherous; lustful; salacious"
+    ]
+  },
+  {
+    "count": 10,
+    "reading": "嫌 【いや】",
+    "gloss": [
+      "disliking; not wanting; unwilling (to do); reluctant",
+      "unpleasant; disagreeable; nasty; horrible; disgusting; undesirable; unwelcome",
+      "no!; quit it!; stop!"
+    ]
+  },
+  {
+    "count": 10,
+    "reading": "やつ",
+    "gloss": [
+      "fellow; guy; chap",
+      "thing; object",
+      "he; she; him; her"
+    ]
+  },
+  {
+    "count": 10,
+    "reading": "コメント",
+    "gloss": [
+      "comment"
+    ]
+  },
+  {
+    "count": 10,
+    "reading": "違う 【ちがう】",
+    "gloss": [
+      "to differ (from); to be different; to be distinct; to be unlike; to vary; to disagree (with)",
+      "to be wrong; to be incorrect; to be mistaken",
+      "to become abnormal; to go wrong",
+      "isn't it?; wasn't it?"
+    ]
+  },
+  {
+    "count": 10,
+    "reading": "そうそう"
+  },
+  {
+    "count": 9,
+    "reading": "聞く 【きく】"
+  },
+  {
+    "count": 9,
+    "reading": "なんかい"
+  },
+  {
+    "count": 9,
+    "reading": "にも",
+    "gloss": [
+      "also; too; not ... either; as well; even",
+      "(it's not possible) no matter what; although one might wish otherwise"
+    ]
+  },
+  {
+    "count": 9,
+    "reading": "知る 【しる】"
+  },
+  {
+    "count": 9,
+    "reading": "それ",
+    "gloss": [
+      "that; it",
+      "then; that point (in time); that time",
+      "there",
+      "you"
+    ]
+  },
+  {
+    "count": 9,
+    "reading": "説く 【とく】"
+  },
+  {
+    "count": 9,
+    "reading": "溶く 【とく】"
+  },
+  {
+    "count": 9,
+    "reading": "ログイン",
+    "gloss": [
+      "login"
+    ]
+  },
+  {
+    "count": 9,
+    "reading": "さい"
+  },
+  {
+    "count": 9,
+    "reading": "吐く 【はく】"
+  },
+  {
+    "count": 9,
+    "reading": "酒 【さけ】",
+    "gloss": [
+      "alcohol; sake"
+    ]
+  },
+  {
+    "count": 8,
+    "reading": "連絡 【れんらく】",
+    "gloss": [
+      "contacting; (making) contact; getting in touch; communication; correspondence; call; message",
+      "connection (with a train, bus, etc.); joining (a railway line, etc.); meeting",
+      "connection (between matters, incidents, etc.); relation; link"
+    ]
+  },
+  {
+    "count": 8,
+    "reading": "みんな",
+    "gloss": [
+      "everyone; everybody; all",
+      "everything; all"
+    ]
+  },
+  {
+    "count": 8,
+    "reading": "あのさ",
+    "gloss": [
+      "look here; I say; well; I know what; I'll tell you what; just a minute; hold on"
+    ]
+  },
+  {
+    "count": 8,
+    "reading": "後 【あと】",
+    "gloss": [
+      "behind; rear",
+      "after; later",
+      "remainder; the rest",
+      "more (e.g. five more minutes); left",
+      "also; in addition",
+      "descendant; successor; heir",
+      "after one's death",
+      "past; previous"
+    ]
+  },
+  {
+    "count": 8,
+    "reading": "すごい",
+    "gloss": [
+      "terrible; dreadful",
+      "amazing (e.g. of strength); great (e.g. of skills); wonderful; terrific",
+      "to a great extent; vast (in numbers)",
+      "awfully; very; immensely"
+    ]
+  },
+  {
+    "count": 8,
+    "reading": "やった"
+  },
+  {
+    "count": 8,
+    "reading": "一回 【いっかい】",
+    "gloss": [
+      "once; one time; one round; one game; one bout; one heat; one inning"
+    ]
+  },
+  {
+    "count": 8,
+    "reading": "名前 【なまえ】",
+    "gloss": [
+      "name",
+      "given name; first name"
+    ]
+  },
+  {
+    "count": 8,
+    "reading": "入る 【いる】"
+  },
+  {
+    "count": 8,
+    "reading": "わかる",
+    "gloss": [
+      "to understand; to comprehend; to grasp; to see; to get; to follow",
+      "to become clear; to be known; to be discovered; to be realized; to be realised; to be found out",
+      "I know!; I think so too!"
+    ]
+  },
+  {
+    "count": 8,
+    "reading": "全然 【ぜんぜん】",
+    "gloss": [
+      "(not) at all; (not) in the slightest",
+      "wholly; entirely; completely; totally",
+      "extremely; very"
+    ]
+  },
+  {
+    "count": 8,
+    "reading": "そんな",
+    "gloss": [
+      "such; that sort of; that kind of; like that",
+      "no way!; never!"
+    ]
+  },
+  {
+    "count": 8,
+    "reading": "押す 【おす】"
+  },
+  {
+    "count": 8,
+    "reading": "かさ"
+  },
+  {
+    "count": 8,
+    "reading": "カレー",
+    "gloss": [
+      "curry (esp. Japanese curry)",
+      "rice and curry"
+    ]
+  },
+  {
+    "count": 8,
+    "reading": "マヨネーズ",
+    "gloss": [
+      "mayonnaise"
+    ]
+  },
+  {
+    "count": 8,
+    "reading": "まじ",
+    "gloss": [
+      "serious; not joking; straight",
+      "cannot; should not; will not; must not"
+    ]
+  },
+  {
+    "count": 7,
+    "reading": "無い 【ない】"
+  },
+  {
+    "count": 7,
+    "reading": "痛い 【いたい】"
+  },
+  {
+    "count": 7,
+    "reading": "分かんない 【わかんない】",
+    "gloss": [
+      "not understanding; not knowing"
+    ]
+  },
+  {
+    "count": 7,
+    "reading": "女 【おんな】",
+    "gloss": [
+      "female; woman; female sex",
+      "female lover; girlfriend; mistress; (someone's) woman"
+    ]
+  },
+  {
+    "count": 7,
+    "reading": "最初 【さいしょ】",
+    "gloss": [
+      "beginning; outset; first; onset"
+    ]
+  },
+  {
+    "count": 7,
+    "reading": "配信者 【はいしんしゃ】",
+    "gloss": [
+      "distributor (of information, content, etc.)",
+      "(online) streamer"
+    ]
+  },
+  {
+    "count": 7,
+    "reading": "突 【とっ】",
+    "gloss": [
+      "very; much"
+    ]
+  },
+  {
+    "count": 7,
+    "reading": "行く 【いく】"
+  },
+  {
+    "count": 7,
+    "reading": "しかも",
+    "gloss": [
+      "moreover; furthermore",
+      "nevertheless; and yet"
+    ]
+  },
+  {
+    "count": 7,
+    "reading": "ぶっちゃける",
+    "gloss": [
+      "frankly; honestly speaking; to tell the truth; to put it bluntly",
+      "speaking one's mind and holding nothing back",
+      "really; extremely; super"
+    ]
+  },
+  {
+    "count": 7,
+    "reading": "思ってた 【おもってた】"
+  },
+  {
+    "count": 7,
+    "reading": "どういう",
+    "gloss": [
+      "what kind of; what sort of; what"
+    ]
+  },
+  {
+    "count": 7,
+    "reading": "アカウント",
+    "gloss": [
+      "account"
+    ]
+  },
+  {
+    "count": 7,
+    "reading": "ダメ",
+    "gloss": [
+      "no good; not serving its purpose; useless; broken",
+      "hopeless; wasted; in vain; purposeless",
+      "cannot; must not; not allowed",
+      "neutral point; intersection owned by neither player at the end of a game",
+      "no!; stop!"
+    ]
+  },
+  {
+    "count": 7,
+    "reading": "なに",
+    "gloss": [
+      "what",
+      "you-know-what; that thing",
+      "whatsit; whachamacallit; what's-his-name; what's-her-name",
+      "penis; (one's) thing; dick",
+      "(not) at all; (not) in the slightest",
+      "what?; huh?",
+      "hey!; come on!",
+      "oh, no (it's fine); why (it's nothing); oh (certainly not)"
+    ]
+  },
+  {
+    "count": 7,
+    "reading": "さすがに",
+    "gloss": [
+      "as one would expect; naturally; indeed",
+      "still; all the same; after all"
+    ]
+  },
+  {
+    "count": 7,
+    "reading": "おは",
+    "gloss": [
+      "good morning"
+    ]
+  },
+  {
+    "count": 7,
+    "reading": "登録した 【とうろく した】"
+  },
+  {
+    "count": 7,
+    "reading": "同じ 【おなじ】"
+  },
+  {
+    "count": 7,
+    "reading": "同じる 【どうじる】"
+  },
+  {
+    "count": 7,
+    "reading": "ミュート",
+    "gloss": [
+      "mute"
+    ]
+  },
+  {
+    "count": 7,
+    "reading": "食中毒 【しょくちゅうどく】",
+    "gloss": [
+      "food poisoning"
+    ]
+  },
+  {
+    "count": 7,
+    "reading": "強い 【つよい】",
+    "gloss": [
+      "strong; potent; competent; domineering; tough",
+      "strong; brawny; powerful; healthy; rugged",
+      "good (at); skilled; knowledgeable",
+      "being able to handle; know how to deal (with); durable (against); resistant (to); resilient",
+      "firm; rigid; solid",
+      "intense; strong; fierce; high",
+      "dependable; trustworthy"
+    ]
+  },
+  {
+    "count": 7,
+    "reading": "世界 【せかい】",
+    "gloss": [
+      "the world; society; the universe",
+      "sphere; circle; world",
+      "world-renowned; world-famous",
+      "realm governed by one Buddha; space"
+    ]
+  },
+  {
+    "count": 7,
+    "reading": "発泡 【はっぽう】",
+    "gloss": [
+      "foaming"
+    ]
+  },
+  {
+    "count": 7,
+    "reading": "菜 【な】",
+    "gloss": [
+      "greens; vegetables",
+      "rape (Brassica napus); rapeseed"
+    ]
+  },
+  {
+    "count": 6,
+    "reading": "再設定 【さいせってい】",
+    "gloss": [
+      "reestablish; reset (a password)"
+    ]
+  },
+  {
+    "count": 6,
+    "reading": "迷惑メール 【めいわくメール】",
+    "gloss": [
+      "spam; unsolicited email"
+    ]
+  },
+  {
+    "count": 6,
+    "reading": "帰る 【かえる】"
+  },
+  {
+    "count": 6,
+    "reading": "奥 【おく】",
+    "gloss": [
+      "inner part; interior; back (of a drawer, one's throat, etc.); depths (e.g. of a forest); recesses (e.g. of a cave); heart; end (of a road, garden, etc.)",
+      "living quarters (at the back of a house); inner room",
+      "recesses (of one's mind); bottom (of one's heart); behind (someone's words); mysteries (of an art)"
+    ]
+  },
+  {
+    "count": 6,
+    "reading": "大丈夫 【だいじょうぶ】",
+    "gloss": [
+      "safe; secure; sound; problem-free; without fear; all right; alright; OK; okay",
+      "certainly; surely; undoubtedly",
+      "no thanks; I'm good; that's alright",
+      "great man; fine figure of a man"
+    ]
+  },
+  {
+    "count": 6,
+    "reading": "からい",
+    "gloss": [
+      "spicy; hot",
+      "salty",
+      "harsh (criticism); severe (punishment); strict",
+      "painful; bitter; difficult; tough"
+    ]
+  },
+  {
+    "count": 6,
+    "reading": "一番 【いちばん】",
+    "gloss": [
+      "number one; first; first place",
+      "best; most",
+      "game; round; bout",
+      "as a test; as an experiment; by way of experiment; by way of trial; tentatively",
+      "song (e.g. in noh); piece"
+    ]
+  },
+  {
+    "count": 6,
+    "reading": "コラボ",
+    "gloss": [
+      "collaboration; collab"
+    ]
+  },
+  {
+    "count": 6,
+    "reading": "ずっと",
+    "gloss": [
+      "continuously; the whole time; all the way; throughout",
+      "much (more); (by) far; far and away; a lot; a great deal",
+      "far (away); long (ago, before, after)",
+      "straight; directly"
+    ]
+  },
+  {
+    "count": 6,
+    "reading": "とする",
+    "gloss": [
+      "as (i.e. in the role of); for (i.e. from the viewpoint of)",
+      "apart from... (used to change the topic)",
+      "even (e.g. \"not even a single person\")",
+      "thinking that...; trying to..."
+    ]
+  },
+  {
+    "count": 6,
+    "reading": "かな",
+    "gloss": [
+      "kana; Japanese syllabary (i.e. hiragana, katakana)"
+    ]
+  },
+  {
+    "count": 6,
+    "reading": "1時間 【いちじかん】",
+    "gloss": [
+      "hours (period of)"
+    ]
+  },
+  {
+    "count": 6,
+    "reading": "対策 【たいさく】",
+    "gloss": [
+      "measure; step; countermeasure; counterplan; countermove; strategy; preparation (e.g. for a test)"
+    ]
+  },
+  {
+    "count": 6,
+    "reading": "家 【いえ】"
+  },
+  {
+    "count": 6,
+    "reading": "家 【うち】"
+  },
+  {
+    "count": 6,
+    "reading": "ここ",
+    "gloss": [
+      "here; this place",
+      "this point; here; now",
+      "these past ... (e.g. three years); these last ...",
+      "the next ... (e.g. few days); these next ..."
+    ]
+  },
+  {
+    "count": 6,
+    "reading": "分かる 【わかる】"
+  },
+  {
+    "count": 6,
+    "reading": "やっぱり",
+    "gloss": [
+      "as expected; sure enough; just as one thought",
+      "after all (is said and done); in the end; as one would expect; in any case",
+      "too; also; as well; likewise; (not) either",
+      "still; as before",
+      "all the same; even so; still; nonetheless"
+    ]
+  },
+  {
+    "count": 6,
+    "reading": "ほんと",
+    "gloss": [
+      "truth; reality; actuality; fact",
+      "proper; right; correct; official",
+      "genuine; authentic; real; natural; veritable"
+    ]
+  },
+  {
+    "count": 6,
+    "reading": "してん"
+  },
+  {
+    "count": 6,
+    "reading": "あのね",
+    "gloss": [
+      "look here; I say; well; I know what; I'll tell you what; just a minute; hold on"
+    ]
+  },
+  {
+    "count": 6,
+    "reading": "栗 【くり】",
+    "gloss": [
+      "Japanese chestnut (Castanea crenata)"
+    ]
+  },
+  {
+    "count": 6,
+    "reading": "メアド",
+    "gloss": [
+      "email address"
+    ]
+  },
+  {
+    "count": 6,
+    "reading": "キャス"
+  },
+  {
+    "count": 6,
+    "reading": "普通 【ふつう】",
+    "gloss": [
+      "normal; ordinary; regular; usual; common; average",
+      "normally; ordinarily; usually; generally; commonly",
+      "local train; train that stops at every station"
+    ]
+  },
+  {
+    "count": 6,
+    "reading": "だよね",
+    "gloss": [
+      "it is, isn't it?; I know, right?; innit?"
+    ]
+  },
+  {
+    "count": 6,
+    "reading": "刺す 【さす】"
+  },
+  {
+    "count": 6,
+    "reading": "数 【かず】"
+  },
+  {
+    "count": 6,
+    "reading": "数 【すう】"
+  },
+  {
+    "count": 6,
+    "reading": "話 【はなし】",
+    "gloss": [
+      "talk; speech; chat; conversation",
+      "topic; subject",
+      "discussions; negotiation; argument",
+      "rumor; talk; hearsay",
+      "tale; story; fable",
+      "circumstances; particulars"
+    ]
+  },
+  {
+    "count": 6,
+    "reading": "だろ",
+    "gloss": [
+      "seems; I think; I guess; I wonder; I hope",
+      "right?; don't you agree?; I thought you'd say that!"
+    ]
+  },
+  {
+    "count": 6,
+    "reading": "間違えてる 【まちがえてる】"
+  },
+  {
+    "count": 6,
+    "reading": "勢 【いきおい】"
+  },
+  {
+    "count": 6,
+    "reading": "勢 【せい】"
+  },
+  {
+    "count": 6,
+    "reading": "冷蔵庫 【れいぞうこ】",
+    "gloss": [
+      "refrigerator; fridge"
+    ]
+  },
+  {
+    "count": 6,
+    "reading": "お腹 【おなか】",
+    "gloss": [
+      "belly; abdomen; stomach"
+    ]
+  },
+  {
+    "count": 6,
+    "reading": "使う 【つかう】"
+  },
+  {
+    "count": 6,
+    "reading": "鼻 【はな】",
+    "gloss": [
+      "nose"
+    ]
+  },
+  {
+    "count": 6,
+    "reading": "痛む 【いたむ】",
+    "gloss": [
+      "pain; ache; soreness; grief; distress",
+      "damage; injury; wear; bruise; break"
+    ]
+  },
+  {
+    "count": 6,
+    "reading": "飲む 【のむ】"
+  },
+  {
+    "count": 6,
+    "reading": "免許 【めんきょ】",
+    "gloss": [
+      "license; licence; permission; permit; certificate"
+    ]
+  },
+  {
+    "count": 6,
+    "reading": "臭い 【くさい】"
+  },
+  {
+    "count": 6,
+    "reading": "臭う 【におう】"
+  },
+  {
+    "count": 6,
+    "reading": "醤油 【しょうゆ】",
+    "gloss": [
+      "soy sauce; shoyu"
+    ]
+  },
+  {
+    "count": 6,
+    "reading": "やっちまった"
+  },
+  {
+    "count": 6,
+    "reading": "ホーラ",
+    "gloss": [
+      "winning (of a hand); declaring a win; going mahjong; going out"
+    ]
+  },
+  {
+    "count": 6,
+    "reading": "イ"
+  },
+  {
+    "count": 6,
+    "reading": "大文字 【おおもじ】",
+    "gloss": [
+      "uppercase letter; capital letter",
+      "large character; large writing",
+      "the (kanji) character \"dai\" meaning \"big\"",
+      "huge character \"dai\" formed by fires lit on the side of a mountain in Kyoto on August 16 each year"
+    ]
+  },
+  {
+    "count": 6,
+    "reading": "小文字 【こもじ】",
+    "gloss": [
+      "lowercase letter",
+      "small letter"
+    ]
+  },
+  {
+    "count": 5,
+    "reading": "ログインできない"
+  },
+  {
+    "count": 5,
+    "reading": "普通に 【ふつうに】",
+    "gloss": [
+      "normally; ordinarily; usually; generally; commonly",
+      "by anyone's standards; by normal standards; sufficiently; actually; genuinely; truly",
+      "without any issues; without any difficulty; (surprisingly) well; just fine; naturally"
+    ]
+  },
+  {
+    "count": 5,
+    "reading": "有る 【ある】"
+  },
+  {
+    "count": 5,
+    "reading": "どうしよう",
+    "gloss": [
+      "what to do"
+    ]
+  },
+  {
+    "count": 5,
+    "reading": "っていうか",
+    "gloss": [
+      "or rather (say); or better (say); or perhaps I should say; or, how should I put it; I mean"
+    ]
+  },
+  {
+    "count": 5,
+    "reading": "男 【おとこ】",
+    "gloss": [
+      "man; male",
+      "fellow; guy; chap; bloke",
+      "male lover; boyfriend; man",
+      "manliness; manly honor; manly honour; manly reputation"
+    ]
+  },
+  {
+    "count": 5,
+    "reading": "つけても"
+  },
+  {
+    "count": 5,
+    "reading": "としても",
+    "gloss": [
+      "even if ...; even supposing that ...",
+      "also as ...; also for ...; also from the position of ..."
+    ]
+  },
+  {
+    "count": 5,
+    "reading": "つけてくる"
+  },
+  {
+    "count": 5,
+    "reading": "なる",
+    "gloss": [
+      "to become; to get; to grow; to turn; to reach; to attain",
+      "to result in; to turn out; to end up; to prove (to be)",
+      "to consist of; to be composed of; to be made up of",
+      "to be completed; to be realized; to succeed; to be attained; to be accomplished",
+      "to change (into); to turn (into); to transform",
+      "to come (to do); to begin (to do); to grow (to do)",
+      "to come to; to amount to; to add up to; to make",
+      "to play (the part of); to act as",
+      "to be used for; to be useful for; to serve as",
+      "to be promoted",
+      "to do ..."
+    ]
+  },
+  {
+    "count": 5,
+    "reading": "配信する 【はいしん する】"
+  },
+  {
+    "count": 5,
+    "reading": "本当 【ほんとう】",
+    "gloss": [
+      "truth; reality; actuality; fact",
+      "proper; right; correct; official",
+      "genuine; authentic; real; natural; veritable"
+    ]
+  },
+  {
+    "count": 5,
+    "reading": "会う 【あう】"
+  },
+  {
+    "count": 5,
+    "reading": "いう",
+    "gloss": [
+      "to say; to utter; to declare",
+      "to name; to call",
+      "to go (e.g. \"the alarm went ping\"); to make a noise"
+    ]
+  },
+  {
+    "count": 5,
+    "reading": "情報漏洩 【じょうほうろうえい】",
+    "gloss": [
+      "information leak; data breach"
+    ]
+  },
+  {
+    "count": 5,
+    "reading": "リスト",
+    "gloss": [
+      "list"
+    ]
+  },
+  {
+    "count": 5,
+    "reading": "顔 【かお】",
+    "gloss": [
+      "face; visage",
+      "look; expression; countenance",
+      "honor; honour; face",
+      "influence; notoriety"
+    ]
+  },
+  {
+    "count": 5,
+    "reading": "飛行機 【ひこうき】",
+    "gloss": [
+      "airplane; aeroplane; plane; aircraft"
+    ]
+  },
+  {
+    "count": 5,
+    "reading": "悔しい 【くやしい】",
+    "gloss": [
+      "frustrated (over a failure, humiliation or injustice); annoyed; chagrined; (bitterly) disappointed; bitter; vexed; frustrating; annoying; regrettable"
+    ]
+  },
+  {
+    "count": 5,
+    "reading": "作る 【つくる】"
+  },
+  {
+    "count": 5,
+    "reading": "甘い 【あまい】",
+    "gloss": [
+      "sweet-tasting; sweet; sugary; sugared",
+      "fragrant (smelling); sweet (music)",
+      "lightly salted; light in salt; not spicy",
+      "naive; overly optimistic; soft on; generous; indulgent; easy-going; lenient",
+      "half-hearted; not finished properly",
+      "insufficient; not satisfactory; inadequate; loose",
+      "mild",
+      "tempting; enticing; luring"
+    ]
+  },
+  {
+    "count": 5,
+    "reading": "田 【た】",
+    "gloss": [
+      "rice field"
+    ]
+  },
+  {
+    "count": 5,
+    "reading": "ニコニコ",
+    "gloss": [
+      "with a friendly grin; smilingly"
+    ]
+  },
+  {
+    "count": 5,
+    "reading": "ツイッター",
+    "gloss": [
+      "Twitter"
+    ]
+  },
+  {
+    "count": 5,
+    "reading": "要は 【よう​‌は】",
+    "gloss": [
+      "in short; the point is; the important thing is; in a word; basically"
+    ]
+  },
+  {
+    "count": 5,
+    "reading": "どっち",
+    "gloss": [
+      "which way; which direction; where",
+      "which one (esp. of two alternatives)",
+      "who"
+    ]
+  },
+  {
+    "count": 5,
+    "reading": "言える 【いえる】"
+  },
+  {
+    "count": 5,
+    "reading": "視聴者 【しちょうしゃ】",
+    "gloss": [
+      "viewer; (television) audience"
+    ]
+  },
+  {
+    "count": 5,
+    "reading": "同説 【どうせつ】",
+    "gloss": [
+      "the same opinion"
+    ]
+  },
+  {
+    "count": 5,
+    "reading": "恐怖 【きょうふ】",
+    "gloss": [
+      "fear; dread; dismay; terror; horror; scare; panic"
+    ]
+  },
+  {
+    "count": 5,
+    "reading": "匂う 【におう】",
+    "gloss": [
+      "odour; odor; scent; smell; stench",
+      "aura; whiff; smacks of ...; sense; flavour; flavor"
+    ]
+  },
+  {
+    "count": 5,
+    "reading": "安心した 【あんしん した】"
+  },
+  {
+    "count": 5,
+    "reading": "アドレス",
+    "gloss": [
+      "address",
+      "email address"
+    ]
+  },
+  {
+    "count": 5,
+    "reading": "あー",
+    "gloss": [
+      "ah!; oh!; alas!",
+      "yes; indeed; that is correct",
+      "aah; gah; argh",
+      "hey!; yo!",
+      "uh huh; yeah yeah; right; gotcha"
+    ]
+  },
+  {
+    "count": 5,
+    "reading": "勢 【ぜい】"
+  },
+  {
+    "count": 5,
+    "reading": "今日 【きょう】",
+    "gloss": [
+      "today; this day",
+      "these days; recently; nowadays"
+    ]
+  },
+  {
+    "count": 5,
+    "reading": "常温 【じょうおん】",
+    "gloss": [
+      "normal temperature; room temperature",
+      "constant temperature; fixed temperature"
+    ]
+  },
+  {
+    "count": 5,
+    "reading": "肉 【にく】",
+    "gloss": [
+      "flesh",
+      "meat",
+      "flesh (of a fruit); pulp",
+      "the physical body (as opposed to the spirit); flesh",
+      "thickness",
+      "content; substance; flesh",
+      "ink pad"
+    ]
+  },
+  {
+    "count": 5,
+    "reading": "カビる"
+  },
+  {
+    "count": 5,
+    "reading": "カビ"
+  },
+  {
+    "count": 5,
+    "reading": "つけてない"
+  },
+  {
+    "count": 5,
+    "reading": "ご飯 【ごはん】",
+    "gloss": [
+      "cooked rice",
+      "meal"
+    ]
+  },
+  {
+    "count": 5,
+    "reading": "たい"
+  },
+  {
+    "count": 5,
+    "reading": "ゲロ",
+    "gloss": [
+      "vomit; spew; puke; vomiting",
+      "confessing"
+    ]
+  },
+  {
+    "count": 5,
+    "reading": "拒絶反応 【きょぜつはんのう】",
+    "gloss": [
+      "(organ) rejection",
+      "unthinking dismissal; strong reaction (against)"
+    ]
+  },
+  {
+    "count": 5,
+    "reading": "記憶 【きおく】",
+    "gloss": [
+      "memory; recollection; remembrance",
+      "memory; storage"
+    ]
+  },
+  {
+    "count": 5,
+    "reading": "ウナ"
+  },
+  {
+    "count": 5,
+    "reading": "味 【あじ】",
+    "gloss": [
+      "flavor; flavour; taste",
+      "charm; appeal; uniqueness; attractiveness",
+      "experience; taste (e.g. of victory)",
+      "smart; clever; witty; strange"
+    ]
+  },
+  {
+    "count": 5,
+    "reading": "刺し 【さし】"
+  },
+  {
+    "count": 5,
+    "reading": "せうゆ"
+  },
+  {
+    "count": 5,
+    "reading": "イタリアン",
+    "gloss": [
+      "Italian",
+      "Italian food; Italian cuisine"
+    ]
+  },
+  {
+    "count": 5,
+    "reading": "寿司 【すし】",
+    "gloss": [
+      "sushi; range of dishes made with vinegared rice combined with fish, vegetables, egg, etc."
+    ]
+  },
+  {
+    "count": 5,
+    "reading": "設定 【せってい】",
+    "gloss": [
+      "establishment; creation; posing (a problem); setting (movie, novel, etc.); scene",
+      "options setting; preference settings; configuration; setup"
+    ]
+  },
+  {
+    "count": 5,
+    "reading": "半格 【はんかく】",
+    "gloss": [
+      "en quad"
+    ]
+  },
+  {
+    "count": 4,
+    "reading": "吸う 【すう】"
+  },
+  {
+    "count": 4,
+    "reading": "足の裏 【あしのうら】",
+    "gloss": [
+      "sole of foot"
+    ]
+  },
+  {
+    "count": 4,
+    "reading": "無くなった 【なくなった】"
+  },
+  {
+    "count": 4,
+    "reading": "タクシー",
+    "gloss": [
+      "taxi"
+    ]
+  },
+  {
+    "count": 4,
+    "reading": "かもしれない",
+    "gloss": [
+      "may; might; perhaps; may be; possibly"
+    ]
+  },
+  {
+    "count": 4,
+    "reading": "何も 【なにも】",
+    "gloss": [
+      "(not) anything; (nothing) at all; (not) any; nothing",
+      "and everything else; and all",
+      "(not) at all; (not) in the least; (not) especially; (not) to that extent"
+    ]
+  },
+  {
+    "count": 4,
+    "reading": "ボディガード",
+    "gloss": [
+      "bodyguard"
+    ]
+  },
+  {
+    "count": 4,
+    "reading": "一人 【ひとり】",
+    "gloss": [
+      "one person",
+      "being alone; being by oneself",
+      "being single; being unmarried",
+      "by oneself; alone",
+      "just; only; simply"
+    ]
+  },
+  {
+    "count": 4,
+    "reading": "他 【た】"
+  },
+  {
+    "count": 4,
+    "reading": "他 【ほか】"
+  },
+  {
+    "count": 4,
+    "reading": "ために",
+    "gloss": [
+      "for; for the sake of; to one's advantage; in favor of; in favour of; on behalf of",
+      "because of; as a result of"
+    ]
+  },
+  {
+    "count": 4,
+    "reading": "とい"
+  },
+  {
+    "count": 4,
+    "reading": "理由 【りゆう】",
+    "gloss": [
+      "reason; pretext; motive"
+    ]
+  },
+  {
+    "count": 4,
+    "reading": "すぐ",
+    "gloss": [
+      "immediately; at once; right away; directly",
+      "soon; before long; shortly",
+      "easily; readily; without difficulty",
+      "right (near); nearby; just (handy)",
+      "honest; upright; frank; straightforward"
+    ]
+  },
+  {
+    "count": 4,
+    "reading": "してた"
+  },
+  {
+    "count": 4,
+    "reading": "すっごい",
+    "gloss": [
+      "terrible; dreadful",
+      "amazing (e.g. of strength); great (e.g. of skills); wonderful; terrific",
+      "to a great extent; vast (in numbers)"
+    ]
+  },
+  {
+    "count": 4,
+    "reading": "海 【うみ】",
+    "gloss": [
+      "sea; ocean; waters"
+    ]
+  },
+  {
+    "count": 4,
+    "reading": "罪 【つみ】",
+    "gloss": [
+      "crime; sin; wrongdoing; indiscretion",
+      "penalty; sentence; punishment",
+      "fault; responsibility; culpability",
+      "thoughtlessness; lack of consideration"
+    ]
+  },
+  {
+    "count": 4,
+    "reading": "来てる 【きてる】"
+  },
+  {
+    "count": 4,
+    "reading": "来てない 【きてない】"
+  },
+  {
+    "count": 4,
+    "reading": "すぐに",
+    "gloss": [
+      "immediately; right away; at once; instantly"
+    ]
+  },
+  {
+    "count": 4,
+    "reading": "最近 【さいきん】",
+    "gloss": [
+      "recently; lately; these days; nowadays; right now",
+      "nearest; closest"
+    ]
+  },
+  {
+    "count": 4,
+    "reading": "企画 【きかく】",
+    "gloss": [
+      "planning; plan; project; arrangements"
+    ]
+  },
+  {
+    "count": 4,
+    "reading": "ごめんなさい",
+    "gloss": [
+      "I'm sorry; my apologies; excuse me; pardon me"
+    ]
+  },
+  {
+    "count": 4,
+    "reading": "多い 【おおい】"
+  },
+  {
+    "count": 4,
+    "reading": "元 【もと】"
+  },
+  {
+    "count": 4,
+    "reading": "良い 【よい】"
+  },
+  {
+    "count": 4,
+    "reading": "太る 【ふとる】",
+    "gloss": [
+      "plump; fat; chubby; stout"
+    ]
+  },
+  {
+    "count": 4,
+    "reading": "うつ"
+  },
+  {
+    "count": 4,
+    "reading": "そってた"
+  },
+  {
+    "count": 4,
+    "reading": "数字 【すうじ】",
+    "gloss": [
+      "numeral; figure; digit; numeric character"
+    ]
+  },
+  {
+    "count": 4,
+    "reading": "連携 【れんけい】",
+    "gloss": [
+      "cooperation; coordination; link",
+      "integration"
+    ]
+  },
+  {
+    "count": 4,
+    "reading": "オン",
+    "gloss": [
+      "(switched) on",
+      "being on the green (of one's ball)"
+    ]
+  },
+  {
+    "count": 4,
+    "reading": "すん",
+    "gloss": [
+      "sun (approx. 3 cm)",
+      "length; measurement",
+      "shortness; tininess"
+    ]
+  },
+  {
+    "count": 4,
+    "reading": "想定 【そうてい】",
+    "gloss": [
+      "hypothesis; supposition; assumption; expectation; anticipation"
+    ]
+  },
+  {
+    "count": 4,
+    "reading": "セキュリティ",
+    "gloss": [
+      "security"
+    ]
+  },
+  {
+    "count": 4,
+    "reading": "凄い 【すごい】"
+  },
+  {
+    "count": 4,
+    "reading": "ポト"
+  },
+  {
+    "count": 4,
+    "reading": "引く 【ひく】",
+    "gloss": [
+      "to pull; to tug; to lead (e.g. a horse)",
+      "to draw (attention, sympathy, etc.); to attract (e.g. interest)",
+      "to draw back (e.g. one's hand); to draw in (one's chin, stomach, etc.); to pull in",
+      "to draw (a card, mahjong tile, etc.)",
+      "to draw (a line, plan, etc.)",
+      "to catch (a cold)",
+      "to play (a stringed or keyboard instrument)",
+      "to look up (in a dictionary, phone book, etc.); to consult; to check",
+      "to haul; to pull (vehicles)",
+      "to subtract; to deduct",
+      "to recede; to ebb; to fade",
+      "to be descend from; to inherit (a characteristic)",
+      "to quote; to cite; to raise (as evidence)",
+      "to lay on (electricity, gas, etc.); to install (e.g. a telephone); to supply (e.g. water)",
+      "to hold (e.g. a note)",
+      "to apply (e.g. lipstick); to oil (e.g. a pan); to wax (e.g. a floor)",
+      "to move back; to draw back; to recede",
+      "to lessen; to subside; to ebb; to go down (e.g. of swelling)",
+      "to resign; to retire; to quit"
+    ]
+  },
+  {
+    "count": 4,
+    "reading": "匿名 【とくめい】",
+    "gloss": [
+      "anonymity; using an assumed name"
+    ]
+  },
+  {
+    "count": 4,
+    "reading": "キツイ"
+  },
+  {
+    "count": 4,
+    "reading": "方 【ほう】"
+  },
+  {
+    "count": 4,
+    "reading": "方 【かた】"
+  },
+  {
+    "count": 4,
+    "reading": "自分 【じぶん】",
+    "gloss": [
+      "myself; yourself; oneself; himself; herself",
+      "I; me",
+      "you"
+    ]
+  },
+  {
+    "count": 4,
+    "reading": "お金 【おかね】",
+    "gloss": [
+      "money"
+    ]
+  },
+  {
+    "count": 4,
+    "reading": "時間 【じかん】",
+    "gloss": [
+      "time",
+      "hour",
+      "period; class; lesson",
+      "hours (period of)"
+    ]
+  },
+  {
+    "count": 4,
+    "reading": "重い 【おもい】",
+    "gloss": [
+      "chief; main; principal; important",
+      "main secondary or supporting role (in kyogen)"
+    ]
+  },
+  {
+    "count": 4,
+    "reading": "電話 【でんわ】",
+    "gloss": [
+      "telephone call; phone call",
+      "telephone (device); phone"
+    ]
+  },
+  {
+    "count": 4,
+    "reading": "っ"
+  },
+  {
+    "count": 4,
+    "reading": "うち"
+  },
+  {
+    "count": 4,
+    "reading": "気づく 【きづく】"
+  },
+  {
+    "count": 4,
+    "reading": "症候群 【しょうこうぐん】",
+    "gloss": [
+      "syndrome"
+    ]
+  },
+  {
+    "count": 4,
+    "reading": "胃カメラ 【いカメラ】",
+    "gloss": [
+      "endoscope; gastrocamera"
+    ]
+  },
+  {
+    "count": 4,
+    "reading": "打つ 【うつ】"
+  },
+  {
+    "count": 4,
+    "reading": "決意 【けつい】",
+    "gloss": [
+      "decision; determination; resolution"
+    ]
+  },
+  {
+    "count": 4,
+    "reading": "新幹線 【しんかんせん】",
+    "gloss": [
+      "Shinkansen; bullet train"
+    ]
+  },
+  {
+    "count": 4,
+    "reading": "火入れ 【ひいれ】",
+    "gloss": [
+      "fire pan",
+      "heating",
+      "first lighting (e.g. furnace); firing (e.g. forest); kindling; igniting",
+      "pasteurization"
+    ]
+  },
+  {
+    "count": 4,
+    "reading": "犬 【いぬ】",
+    "gloss": [
+      "dog (Canis (lupus) familiaris)",
+      "squealer; rat; snitch; informer; informant; spy",
+      "loser; asshole",
+      "counterfeit; inferior; useless; wasteful"
+    ]
+  },
+  {
+    "count": 4,
+    "reading": "煽る 【あおる】",
+    "gloss": [
+      "gust (of wind); blast",
+      "influence; impact",
+      "instigation; agitation; incitement",
+      "tailgating",
+      "low angle (photo or drawing)"
+    ]
+  },
+  {
+    "count": 4,
+    "reading": "千人 【せんにん】",
+    "gloss": [
+      "counter for people"
+    ]
+  },
+  {
+    "count": 4,
+    "reading": "設定する 【せってい する】"
+  },
+  {
+    "count": 4,
+    "reading": "すせ"
+  },
+  {
+    "count": 4,
+    "reading": "焼肉 【やきにく】",
+    "gloss": [
+      "yakiniku; Japanese dish of grilled meat similar to Korean barbecue",
+      "roasted meat; grill"
+    ]
+  },
+  {
+    "count": 4,
+    "reading": "漢字 【かんじ】",
+    "gloss": [
+      "kanji; Chinese character"
+    ]
+  },
+  {
+    "count": 4,
+    "reading": "見つける 【みつける】"
+  },
+  {
+    "count": 4,
+    "reading": "こんな",
+    "gloss": [
+      "this sort of; this kind of; like this; such"
+    ]
+  },
+  {
+    "count": 4,
+    "reading": "ロ"
+  },
+  {
+    "count": 3,
+    "reading": "時 【じ】"
+  },
+  {
+    "count": 3,
+    "reading": "お家 【おうち】",
+    "gloss": [
+      "your home; your family; their home; their family",
+      "(my) home"
+    ]
+  },
+  {
+    "count": 3,
+    "reading": "もうい",
+    "gloss": [
+      "fury; power; menace"
+    ]
+  },
+  {
+    "count": 3,
+    "reading": "パトカー",
+    "gloss": [
+      "patrol car; police car; squad car; cruiser"
+    ]
+  },
+  {
+    "count": 3,
+    "reading": "情報 【じょうほう】",
+    "gloss": [
+      "information; news; report; intelligence",
+      "information (data contained in characters, signals, code, etc.)"
+    ]
+  },
+  {
+    "count": 3,
+    "reading": "付ける 【つける】"
+  },
+  {
+    "count": 3,
+    "reading": "点ける 【つける】"
+  },
+  {
+    "count": 3,
+    "reading": "漬ける 【つける】"
+  },
+  {
+    "count": 3,
+    "reading": "どうせ",
+    "gloss": [
+      "anyhow; in any case; at any rate; after all; at all; no matter what",
+      "at best; at most"
+    ]
+  },
+  {
+    "count": 3,
+    "reading": "嫌う 【きらう】",
+    "gloss": [
+      "disliked; hated; disagreeable",
+      "tendency; smack (of); touch (of)",
+      "distinction; discrimination"
+    ]
+  },
+  {
+    "count": 3,
+    "reading": "女の子 【おんなのこ】",
+    "gloss": [
+      "girl; daughter; baby girl",
+      "young woman"
+    ]
+  },
+  {
+    "count": 3,
+    "reading": "為れる 【される】"
+  },
+  {
+    "count": 3,
+    "reading": "つまんない",
+    "gloss": [
+      "dull; boring"
+    ]
+  },
+  {
+    "count": 3,
+    "reading": "どこ",
+    "gloss": [
+      "where; what place",
+      "how much (long, far); what extent"
+    ]
+  },
+  {
+    "count": 3,
+    "reading": "上位 【じょうい】",
+    "gloss": [
+      "superior (in rank); top; ranking",
+      "higher order (e.g. byte)",
+      "host computer (of connected device)"
+    ]
+  },
+  {
+    "count": 3,
+    "reading": "ただ",
+    "gloss": [
+      "ordinary; common; usual",
+      "free of charge",
+      "unaffected; as is; safe",
+      "only; merely; just; simply",
+      "but; however; nevertheless"
+    ]
+  },
+  {
+    "count": 3,
+    "reading": "もう一回 【もういっかい】",
+    "gloss": [
+      "one more time; once more; once again"
+    ]
+  },
+  {
+    "count": 3,
+    "reading": "されてる"
+  },
+  {
+    "count": 3,
+    "reading": "止める 【やめる】"
+  },
+  {
+    "count": 3,
+    "reading": "場所 【ばしょ】",
+    "gloss": [
+      "place; location; spot; position",
+      "room; space",
+      "basho; wrestling tournament"
+    ]
+  },
+  {
+    "count": 3,
+    "reading": "バレる"
+  },
+  {
+    "count": 3,
+    "reading": "来れちゃう 【こられちゃう】"
+  },
+  {
+    "count": 3,
+    "reading": "見てる 【みてる】"
+  },
+  {
+    "count": 3,
+    "reading": "がい"
+  },
+  {
+    "count": 3,
+    "reading": "誰 【だれ】",
+    "gloss": [
+      "who"
+    ]
+  },
+  {
+    "count": 3,
+    "reading": "別に 【べつに】",
+    "gloss": [
+      "(not) particularly; (not) especially; (not) specially",
+      "separately; apart; additionally; extra"
+    ]
+  },
+  {
+    "count": 3,
+    "reading": "たまに",
+    "gloss": [
+      "occasionally; once in a while; now and then"
+    ]
+  },
+  {
+    "count": 3,
+    "reading": "毎回 【まいかい】",
+    "gloss": [
+      "every time; each round"
+    ]
+  },
+  {
+    "count": 3,
+    "reading": "知ってる 【しってる】"
+  },
+  {
+    "count": 3,
+    "reading": "動画 【どうが】",
+    "gloss": [
+      "video (esp. digital); video clip; clip",
+      "animation; animated cartoon",
+      "in-betweens (animation)"
+    ]
+  },
+  {
+    "count": 3,
+    "reading": "どうやって",
+    "gloss": [
+      "how; in what way; by what means"
+    ]
+  },
+  {
+    "count": 3,
+    "reading": "とかしてる"
+  },
+  {
+    "count": 3,
+    "reading": "やりたい"
+  },
+  {
+    "count": 3,
+    "reading": "したい"
+  },
+  {
+    "count": 3,
+    "reading": "したかった"
+  },
+  {
+    "count": 3,
+    "reading": "してて"
+  },
+  {
+    "count": 3,
+    "reading": "悪い 【わるい】",
+    "gloss": [
+      "bad; poor; undesirable",
+      "poor (quality); inferior; insufficient",
+      "evil; sinful",
+      "ugly; not beautiful",
+      "at fault; to blame; in the wrong",
+      "bad (at doing something)",
+      "unprofitable; unbeneficial",
+      "sorry; (my) bad; unforgivable"
+    ]
+  },
+  {
+    "count": 3,
+    "reading": "危険 【きけん】",
+    "gloss": [
+      "danger; peril; hazard",
+      "risk"
+    ]
+  },
+  {
+    "count": 3,
+    "reading": "沖縄 【おきなわ】",
+    "gloss": [
+      "Okinawa Prefecture",
+      "Okinawa (city), Okinawa Prefecture"
+    ]
+  },
+  {
+    "count": 3,
+    "reading": "撮る 【とる】"
+  },
+  {
+    "count": 3,
+    "reading": "いけない",
+    "gloss": [
+      "bad; wrong; naughty",
+      "must not (do, be); should not; ought not to",
+      "useless; no good; bad",
+      "hopeless; beyond hope",
+      "unfortunate; a shame; a pity",
+      "unable to drink (alcohol)",
+      "so as not to ...; so that ... (won't); in case ...; for fear that ...; lest ..."
+    ]
+  },
+  {
+    "count": 3,
+    "reading": "前 【まえ】"
+  },
+  {
+    "count": 3,
+    "reading": "前 【ぜん】"
+  },
+  {
+    "count": 3,
+    "reading": "タイプ",
+    "gloss": [
+      "type; kind; sort; style",
+      "type (of person); (ideal) type; one's type",
+      "typewriter",
+      "typing"
+    ]
+  },
+  {
+    "count": 3,
+    "reading": "まさか",
+    "gloss": [
+      "by no means; never!; well, I never!; you don't say!; certainly (not)",
+      "something unexpected; emergency",
+      "currently; for the time being; presently; for now",
+      "indeed; really; truly; unexpectedly"
+    ]
+  },
+  {
+    "count": 3,
+    "reading": "どんな",
+    "gloss": [
+      "what kind of; what sort of; what",
+      "no matter what (kind of); whatever; any; all"
+    ]
+  },
+  {
+    "count": 3,
+    "reading": "一つ 【ひとつ】",
+    "gloss": [
+      "one",
+      "for one thing",
+      "only",
+      "(not) even",
+      "just (e.g. \"just try it\")",
+      "some kind of; one type of"
+    ]
+  },
+  {
+    "count": 3,
+    "reading": "自分の力 【じぶんのちから】",
+    "gloss": [
+      "one's own strength or effort; (by) oneself"
+    ]
+  },
+  {
+    "count": 3,
+    "reading": "行きたかった 【いきたかった】"
+  },
+  {
+    "count": 3,
+    "reading": "ふぅ"
+  },
+  {
+    "count": 3,
+    "reading": "ショック",
+    "gloss": [
+      "shock (psychological)",
+      "crisis (esp. financial); event that rattles the markets",
+      "shock (physical, mechanical)",
+      "shock (e.g. due to lack of blood flow); trauma"
+    ]
+  },
+  {
+    "count": 3,
+    "reading": "復活 【ふっかつ】",
+    "gloss": [
+      "revival (of an old system, custom, fashion, etc.); restoration; return; comeback",
+      "resurrection; rebirth"
+    ]
+  },
+  {
+    "count": 3,
+    "reading": "バグ",
+    "gloss": [
+      "(computer) bug"
+    ]
+  },
+  {
+    "count": 3,
+    "reading": "自分で 【じぶんで】",
+    "gloss": [
+      "by myself; in person; by oneself"
+    ]
+  },
+  {
+    "count": 3,
+    "reading": "代表 【だいひょう】",
+    "gloss": [
+      "representation; representative; delegate; delegation",
+      "exemplification; typification; being representative of; being typical of; representative example; exemplar; model",
+      "leader",
+      "switchboard number; main number"
+    ]
+  },
+  {
+    "count": 3,
+    "reading": "ー"
+  },
+  {
+    "count": 3,
+    "reading": "次 【つぎ】",
+    "gloss": [
+      "next; following; subsequent",
+      "stage; station"
+    ]
+  },
+  {
+    "count": 3,
+    "reading": "豪華 【ごうか】",
+    "gloss": [
+      "extravagant; lavish; opulent; luxurious; magnificent; splendid; fancy; gorgeous"
+    ]
+  },
+  {
+    "count": 3,
+    "reading": "裏切り者 【うらぎりもの】",
+    "gloss": [
+      "betrayer; traitor; turncoat; informer"
+    ]
+  },
+  {
+    "count": 3,
+    "reading": "要 【かなめ】",
+    "gloss": [
+      "pivot",
+      "vital point; cornerstone; keystone",
+      "Japanese photinia"
+    ]
+  },
+  {
+    "count": 3,
+    "reading": "ごめん",
+    "gloss": [
+      "I'm sorry; my apologies; excuse me; pardon me",
+      "may I come in?",
+      "permission; leave; license",
+      "dismissal; discharge",
+      "not wanting; objecting to; being fed up with; wishing to avoid"
+    ]
+  },
+  {
+    "count": 3,
+    "reading": "進撃の巨人 【しんげきのきょじん】",
+    "gloss": [
+      "Attack on Titan (manga, anime)"
+    ]
+  },
+  {
+    "count": 3,
+    "reading": "長い 【ながい】",
+    "gloss": [
+      "long (distance, length)",
+      "long (time); protracted; prolonged"
+    ]
+  },
+  {
+    "count": 3,
+    "reading": "力 【ちから】"
+  },
+  {
+    "count": 3,
+    "reading": "力 【りょく】"
+  },
+  {
+    "count": 3,
+    "reading": "よっちゃん",
+    "gloss": [
+      "Yotchan (food company); Yocchan"
+    ]
+  },
+  {
+    "count": 3,
+    "reading": "感謝してる 【かんしゃ してる】"
+  },
+  {
+    "count": 3,
+    "reading": "ついてる",
+    "gloss": [
+      "to be lucky; to be in luck",
+      "to be attached; to have; to be included; to come with; to contain; to be in a state"
+    ]
+  },
+  {
+    "count": 3,
+    "reading": "イベント",
+    "gloss": [
+      "event"
+    ]
+  },
+  {
+    "count": 3,
+    "reading": "びっくりした",
+    "gloss": [
+      "oh my god!; oh my gosh!; you got me!; wow!"
+    ]
+  },
+  {
+    "count": 3,
+    "reading": "まだ",
+    "gloss": [
+      "still; as yet; only",
+      "(not) yet",
+      "more; (more) still",
+      "at least; comparatively; relatively",
+      "unfinished; incomplete; not yet done"
+    ]
+  },
+  {
+    "count": 3,
+    "reading": "天 【てん】",
+    "gloss": [
+      "sky",
+      "heaven",
+      "God",
+      "svarga (heaven-like realm visited as a stage of death and rebirth)",
+      "deva (divine being of Buddhism)",
+      "top (of a book)",
+      "sole (of a Japanese sandal)",
+      "beginning; start",
+      "tempura",
+      "India"
+    ]
+  },
+  {
+    "count": 3,
+    "reading": "何人 【なにびと】"
+  },
+  {
+    "count": 3,
+    "reading": "何人 【なんにん】"
+  },
+  {
+    "count": 3,
+    "reading": "よく"
+  },
+  {
+    "count": 3,
+    "reading": "来てた 【きてた】"
+  },
+  {
+    "count": 3,
+    "reading": "乾く 【かわく】"
+  },
+  {
+    "count": 3,
+    "reading": "渇く 【かわく】"
+  },
+  {
+    "count": 3,
+    "reading": "シャツ",
+    "gloss": [
+      "shirt (undergarment); undershirt; singlet",
+      "shirt (outerwear; usu. with collar and buttons)"
+    ]
+  },
+  {
+    "count": 3,
+    "reading": "カウント",
+    "gloss": [
+      "count; counting",
+      "count of balls and strikes",
+      "count (after a knock-down in boxing)",
+      "count (of radioactivity)"
+    ]
+  },
+  {
+    "count": 3,
+    "reading": "ダウン",
+    "gloss": [
+      "fall; decrease; drop; going down",
+      "knocking down (in boxing); flooring; being knocked down; being floored",
+      "being out of action (due to illness, exhaustion, etc.); being down (e.g. with a cold); being knocked out (from alcohol); being out of it; collapsing",
+      "going down (of a computer system, server, etc.); crashing",
+      "(number of) outs",
+      "being down (in points, games, etc.); behind behind; trailing",
+      "down (American football)",
+      "down (feathers)"
+    ]
+  },
+  {
+    "count": 3,
+    "reading": "ビブス",
+    "gloss": [
+      "training bib; team bib; team vest; scrimmage vest"
+    ]
+  },
+  {
+    "count": 3,
+    "reading": "方がいい 【ほうがいい】",
+    "gloss": [
+      "had better ...",
+      "had better not ..."
+    ]
+  },
+  {
+    "count": 3,
+    "reading": "原因 【げんいん】",
+    "gloss": [
+      "cause; origin; source"
+    ]
+  },
+  {
+    "count": 3,
+    "reading": "四国 【しこく】",
+    "gloss": [
+      "Shikoku (smallest of the four main islands of Japan)"
+    ]
+  },
+  {
+    "count": 3,
+    "reading": "ホルダー",
+    "gloss": [
+      "holder"
+    ]
+  },
+  {
+    "count": 3,
+    "reading": "入ってない 【はいってない】"
+  },
+  {
+    "count": 3,
+    "reading": "入ってない 【いってない】"
+  },
+  {
+    "count": 3,
+    "reading": "ショートメール",
+    "gloss": [
+      "SMS; short message service"
+    ]
+  },
+  {
+    "count": 3,
+    "reading": "時差 【じさ】",
+    "gloss": [
+      "time difference"
+    ]
+  },
+  {
+    "count": 3,
+    "reading": "試す 【ためす】"
+  },
+  {
+    "count": 3,
+    "reading": "では"
+  },
+  {
+    "count": 3,
+    "reading": "何回も 【なんかいも】",
+    "gloss": [
+      "time and time again; many times; a number of times"
+    ]
+  },
+  {
+    "count": 3,
+    "reading": "クーラー",
+    "gloss": [
+      "air conditioner",
+      "cooler"
+    ]
+  },
+  {
+    "count": 3,
+    "reading": "入ってる 【はいってる】"
+  },
+  {
+    "count": 3,
+    "reading": "入ってる 【いってる】"
+  },
+  {
+    "count": 3,
+    "reading": "覚えてない 【おぼえてない】"
+  },
+  {
+    "count": 3,
+    "reading": "意味 【いみ】",
+    "gloss": [
+      "meaning; significance; sense"
+    ]
+  },
+  {
+    "count": 3,
+    "reading": "酸っぱい 【すっぱい】",
+    "gloss": [
+      "sour; acid"
+    ]
+  },
+  {
+    "count": 3,
+    "reading": "ンセ"
+  },
+  {
+    "count": 3,
+    "reading": "痛くなる 【いたくなる】"
+  },
+  {
+    "count": 3,
+    "reading": "一生 【いっしょう】",
+    "gloss": [
+      "whole life; a lifetime; all through life; one existence; a generation; an age; the whole world; the era",
+      "(the only, the greatest, etc.) of one's life"
+    ]
+  },
+  {
+    "count": 3,
+    "reading": "意識 【いしき】",
+    "gloss": [
+      "consciousness",
+      "becoming aware (of); awareness; sense",
+      "mano-vijnana (mental consciousness, cognizer of sensory information)"
+    ]
+  },
+  {
+    "count": 3,
+    "reading": "鎖骨 【さこつ】",
+    "gloss": [
+      "collarbone; clavicle"
+    ]
+  },
+  {
+    "count": 3,
+    "reading": "書く 【かく】"
+  },
+  {
+    "count": 3,
+    "reading": "すげ",
+    "gloss": [
+      "sedge (Cyperaceae spp., esp. members of genus Carex)"
+    ]
+  },
+  {
+    "count": 3,
+    "reading": "バグる"
+  },
+  {
+    "count": 3,
+    "reading": "嬉しい 【うれしい】",
+    "gloss": [
+      "happy; glad; pleased; delighted; overjoyed",
+      "joyful; delightful; gratifying; pleasant"
+    ]
+  },
+  {
+    "count": 3,
+    "reading": "無人島 【むじんとう】",
+    "gloss": [
+      "uninhabited island; desert island"
+    ]
+  },
+  {
+    "count": 3,
+    "reading": "火事 【かじ】",
+    "gloss": [
+      "fire; conflagration"
+    ]
+  },
+  {
+    "count": 3,
+    "reading": "当てる 【あてる】"
+  },
+  {
+    "count": 3,
+    "reading": "分離 【ぶんり】",
+    "gloss": [
+      "separation; partition; detachment; segregation; isolation"
+    ]
+  },
+  {
+    "count": 3,
+    "reading": "調味料 【ちょうみりょう】",
+    "gloss": [
+      "seasoning; flavoring; flavouring; condiment"
+    ]
+  },
+  {
+    "count": 3,
+    "reading": "使ってる 【つかってる】"
+  },
+  {
+    "count": 3,
+    "reading": "ソルト",
+    "gloss": [
+      "Strategic Arms Limitation Talks; SALT",
+      "salt"
+    ]
+  },
+  {
+    "count": 3,
+    "reading": "イタリア",
+    "gloss": [
+      "Italy"
+    ]
+  },
+  {
+    "count": 3,
+    "reading": "アメリカン",
+    "gloss": [
+      "American",
+      "American-style (weak) drip coffee"
+    ]
+  },
+  {
+    "count": 3,
+    "reading": "くー"
+  },
+  {
+    "count": 3,
+    "reading": "三大 【さんだい】",
+    "gloss": [
+      "the big three ..."
+    ]
+  },
+  {
+    "count": 3,
+    "reading": "中華 【ちゅうか】",
+    "gloss": [
+      "China",
+      "Chinese food"
+    ]
+  },
+  {
+    "count": 3,
+    "reading": "フレンチ",
+    "gloss": [
+      "French",
+      "French food; French cuisine"
+    ]
+  },
+  {
+    "count": 3,
+    "reading": "似てる 【にてる】"
+  },
+  {
+    "count": 3,
+    "reading": "ユーザー",
+    "gloss": [
+      "user"
+    ]
+  },
+  {
+    "count": 3,
+    "reading": "入力 【にゅうりょく】",
+    "gloss": [
+      "input; (data) entry"
+    ]
+  },
+  {
+    "count": 3,
+    "reading": "わけないでしょ"
+  },
+  {
+    "count": 3,
+    "reading": "アットマーク",
+    "gloss": [
+      "@ sign; at sign; at symbol"
+    ]
+  },
+  {
+    "count": 3,
+    "reading": "何これ 【なにこれ】",
+    "gloss": [
+      "what the?; what's going on?; what's this?"
+    ]
+  },
+  {
+    "count": 3,
+    "reading": "にー"
+  },
+  {
+    "count": 3,
+    "reading": "優しい 【やさしい】"
+  },
+  {
+    "count": 2,
+    "reading": "やろう",
+    "gloss": [
+      "guy; fellow; chap; buddy",
+      "bastard; asshole; arsehole; son of a bitch"
+    ]
+  },
+  {
+    "count": 2,
+    "reading": "いやー"
+  },
+  {
+    "count": 2,
+    "reading": "無事 【ぶじ】",
+    "gloss": [
+      "safety; security; peace; quiet",
+      "safely; without incident; successfully",
+      "good health",
+      "inaction; ennui"
+    ]
+  },
+  {
+    "count": 2,
+    "reading": "すいません"
+  },
+  {
+    "count": 2,
+    "reading": "お茶 【おちゃ】",
+    "gloss": [
+      "tea (usu. green)",
+      "tea break (at work)",
+      "tea ceremony"
+    ]
+  },
+  {
+    "count": 2,
+    "reading": "血だらけ 【ちだらけ】",
+    "gloss": [
+      "covered in blood; bloodstained; bloody; gory"
+    ]
+  },
+  {
+    "count": 2,
+    "reading": "ガチで",
+    "gloss": [
+      "truly; in earnest"
+    ]
+  },
+  {
+    "count": 2,
+    "reading": "見せる 【みせる】"
+  },
+  {
+    "count": 2,
+    "reading": "アドレナリン",
+    "gloss": [
+      "adrenalin"
+    ]
+  },
+  {
+    "count": 2,
+    "reading": "して"
+  },
+  {
+    "count": 2,
+    "reading": "代わり 【かわり】",
+    "gloss": [
+      "substitute; replacement; substituting; replacing",
+      "stand-in; proxy; alternate; deputy; relief; successor",
+      "compensation; exchange; return",
+      "another helping; second helping; seconds; refill",
+      "upcoming program; upcoming programme"
+    ]
+  },
+  {
+    "count": 2,
+    "reading": "その人 【そのひと】",
+    "gloss": [
+      "the person in question",
+      "prominent figure; distinguished person",
+      "that person"
+    ]
+  },
+  {
+    "count": 2,
+    "reading": "いたって",
+    "gloss": [
+      "very much; exceedingly; extremely"
+    ]
+  },
+  {
+    "count": 2,
+    "reading": "逮捕 【たいほ】",
+    "gloss": [
+      "arrest; apprehension; capture"
+    ]
+  },
+  {
+    "count": 2,
+    "reading": "出てない 【でてない】"
+  },
+  {
+    "count": 2,
+    "reading": "突く 【つく】"
+  },
+  {
+    "count": 2,
+    "reading": "仕方ない 【しかたない】",
+    "gloss": [
+      "there's no (other) way",
+      "cannot be helped; unavoidable; inevitable; (there's) nothing one can do; having no choice",
+      "it's no use (doing); pointless; useless; no good; insufficient; not enough",
+      "hopeless (person); annoying; troublesome; awful",
+      "cannot stand it; unbearable; cannot help (doing, feeling); dying (to do)"
+    ]
+  },
+  {
+    "count": 2,
+    "reading": "謎い 【なぞい】",
+    "gloss": [
+      "riddle; puzzle; enigma; mystery",
+      "enigmatic; mysterious"
+    ]
+  },
+  {
+    "count": 2,
+    "reading": "むこ",
+    "gloss": [
+      "husband; groom",
+      "(one's) son-in-law"
+    ]
+  },
+  {
+    "count": 2,
+    "reading": "意味ない 【いみない】",
+    "gloss": [
+      "meaningless; pointless"
+    ]
+  },
+  {
+    "count": 2,
+    "reading": "配信してる 【はいしん してる】"
+  },
+  {
+    "count": 2,
+    "reading": "トーク",
+    "gloss": [
+      "talk (esp. by a talk-show host, or by a stage musician to the audience between songs); banter; chat",
+      "talk show",
+      "toque"
+    ]
+  },
+  {
+    "count": 2,
+    "reading": "着る 【きる】"
+  },
+  {
+    "count": 2,
+    "reading": "きない"
+  },
+  {
+    "count": 2,
+    "reading": "切る 【きる】"
+  },
+  {
+    "count": 2,
+    "reading": "っぽい"
+  },
+  {
+    "count": 2,
+    "reading": "遠い 【とおい】",
+    "gloss": [
+      "far away; distant place; a (great) distance; a long way off; afar",
+      "long ago; far back; far (into the future)",
+      "by far"
+    ]
+  },
+  {
+    "count": 2,
+    "reading": "出てくる 【でてくる】"
+  },
+  {
+    "count": 2,
+    "reading": "もうちょっと",
+    "gloss": [
+      "a bit more; a bit longer"
+    ]
+  },
+  {
+    "count": 2,
+    "reading": "積む 【つむ】"
+  },
+  {
+    "count": 2,
+    "reading": "要点 【ようてん】",
+    "gloss": [
+      "gist; main point"
+    ]
+  },
+  {
+    "count": 2,
+    "reading": "問う 【とう】"
+  },
+  {
+    "count": 2,
+    "reading": "だめ",
+    "gloss": [
+      "no good; not serving its purpose; useless; broken",
+      "hopeless; wasted; in vain; purposeless",
+      "cannot; must not; not allowed",
+      "neutral point; intersection owned by neither player at the end of a game",
+      "no!; stop!"
+    ]
+  },
+  {
+    "count": 2,
+    "reading": "してきた"
+  },
+  {
+    "count": 2,
+    "reading": "ちくる"
+  },
+  {
+    "count": 2,
+    "reading": "なってて"
+  },
+  {
+    "count": 2,
+    "reading": "空手 【からて】",
+    "gloss": [
+      "karate",
+      "being empty-handed; having nothing in one's hands"
+    ]
+  },
+  {
+    "count": 2,
+    "reading": "よい"
+  },
+  {
+    "count": 2,
+    "reading": "もし",
+    "gloss": [
+      "if; in case; supposing"
+    ]
+  },
+  {
+    "count": 2,
+    "reading": "誰も 【だれも】",
+    "gloss": [
+      "everyone; anyone",
+      "no one; nobody"
+    ]
+  },
+  {
+    "count": 2,
+    "reading": "切り抜き 【きりぬき】",
+    "gloss": [
+      "clipping (of newspaper article, etc.); cutting; scrap (for a scrapbook)",
+      "cut-out (picture, coloured paper, etc.)"
+    ]
+  },
+  {
+    "count": 2,
+    "reading": "ノーガード",
+    "gloss": [
+      "being off guard; being defenseless"
+    ]
+  },
+  {
+    "count": 2,
+    "reading": "お祭り 【おまつり】",
+    "gloss": [
+      "festival; feast; carnival; matsuri"
+    ]
+  },
+  {
+    "count": 2,
+    "reading": "行う 【おこなう】"
+  },
+  {
+    "count": 2,
+    "reading": "水着 【みずぎ】",
+    "gloss": [
+      "bathing suit; swimsuit; swimmers"
+    ]
+  },
+  {
+    "count": 2,
+    "reading": "これで",
+    "gloss": [
+      "here; with this"
+    ]
+  },
+  {
+    "count": 2,
+    "reading": "住所 【じゅうしょ】",
+    "gloss": [
+      "address; residence; domicile"
+    ]
+  },
+  {
+    "count": 2,
+    "reading": "一定数 【いっていすう】",
+    "gloss": [
+      "fixed number; certain number; given number; definite number"
+    ]
+  },
+  {
+    "count": 2,
+    "reading": "いい子 【いいこ】",
+    "gloss": [
+      "good boy; good girl"
+    ]
+  },
+  {
+    "count": 2,
+    "reading": "ありがたい",
+    "gloss": [
+      "grateful; thankful; welcome; appreciated; evoking gratitude"
+    ]
+  },
+  {
+    "count": 2,
+    "reading": "思ってる 【おもってる】"
+  },
+  {
+    "count": 2,
+    "reading": "ログインしよう"
+  },
+  {
+    "count": 2,
+    "reading": "誰から 【だれから】"
+  },
+  {
+    "count": 2,
+    "reading": "知ってた 【しってた】"
+  },
+  {
+    "count": 2,
+    "reading": "回ってきて 【まわってきて】"
+  },
+  {
+    "count": 2,
+    "reading": "欲しい 【ほしい】",
+    "gloss": [
+      "wanting (to have); desiring; wishing for",
+      "I want (you, them, etc.) to (do)"
+    ]
+  },
+  {
+    "count": 2,
+    "reading": "簡単 【かんたん】",
+    "gloss": [
+      "simple; easy; uncomplicated",
+      "brief; quick; light"
+    ]
+  },
+  {
+    "count": 2,
+    "reading": "なーって"
+  },
+  {
+    "count": 2,
+    "reading": "何で 【なんで】",
+    "gloss": [
+      "why?; what for?",
+      "how?; by what means?"
+    ]
+  },
+  {
+    "count": 2,
+    "reading": "クマ"
+  },
+  {
+    "count": 2,
+    "reading": "でもある"
+  },
+  {
+    "count": 2,
+    "reading": "写真 【しゃしん】",
+    "gloss": [
+      "photograph; photo; picture; snapshot; snap",
+      "moving picture; movie"
+    ]
+  },
+  {
+    "count": 2,
+    "reading": "消える 【きえる】",
+    "gloss": [
+      "to disappear; to vanish; to go out of sight; to go away; to become lost",
+      "to go out (of a fire, light, etc.); to die; to turn off (e.g. of a TV screen)",
+      "to fade (of a feeling, impression, etc.); to vanish (e.g. of hope)",
+      "to go away (e.g. of a smell, itchiness, sleepiness); to disappear; to fade away (e.g. of footsteps)",
+      "to wear away (e.g. of an inscription); to rub out (of writing); to fade (e.g. of ink)",
+      "to be lost (e.g. of a tradition); to die out; to disappear"
+    ]
+  },
+  {
+    "count": 2,
+    "reading": "良質 【りょうしつ】",
+    "gloss": [
+      "good quality; fine quality; superior quality; high quality"
+    ]
+  },
+  {
+    "count": 2,
+    "reading": "危機 【きき】",
+    "gloss": [
+      "crisis; critical situation; emergency; pinch"
+    ]
+  },
+  {
+    "count": 2,
+    "reading": "管理能力 【かんりのうりょく】",
+    "gloss": [
+      "administrative ability; managerial ability; ability to manage; administrative capacity"
+    ]
+  },
+  {
+    "count": 2,
+    "reading": "通常 【つうじょう】",
+    "gloss": [
+      "usual; ordinary; normal; regular; general; common"
+    ]
+  },
+  {
+    "count": 2,
+    "reading": "言っちゃったら 【いっちゃったら】"
+  },
+  {
+    "count": 2,
+    "reading": "自分から 【じぶんから】",
+    "gloss": [
+      "willingly; voluntarily; of one's own accord"
+    ]
+  },
+  {
+    "count": 2,
+    "reading": "トツ"
+  },
+  {
+    "count": 2,
+    "reading": "そいつ",
+    "gloss": [
+      "he; she; that person; that guy; that fellow",
+      "that; that one; that thing"
+    ]
+  },
+  {
+    "count": 2,
+    "reading": "おむつ",
+    "gloss": [
+      "diaper; nappy"
+    ]
+  },
+  {
+    "count": 2,
+    "reading": "ヨ"
+  },
+  {
+    "count": 2,
+    "reading": "ネック",
+    "gloss": [
+      "neck",
+      "bottleneck; obstruction",
+      "neckline"
+    ]
+  },
+  {
+    "count": 2,
+    "reading": "ス"
+  },
+  {
+    "count": 2,
+    "reading": "上 【かみ】"
+  },
+  {
+    "count": 2,
+    "reading": "上 【うえ】"
+  },
+  {
+    "count": 2,
+    "reading": "上 【じょう】"
+  },
+  {
+    "count": 2,
+    "reading": "うる"
+  },
+  {
+    "count": 2,
+    "reading": "テニス",
+    "gloss": [
+      "tennis"
+    ]
+  },
+  {
+    "count": 2,
+    "reading": "おめでとうございます",
+    "gloss": [
+      "congratulations"
+    ]
+  },
+  {
+    "count": 2,
+    "reading": "貰う 【もらう】"
+  },
+  {
+    "count": 2,
+    "reading": "可愛い 【かわいい】",
+    "gloss": [
+      "cute; adorable; charming; lovely; pretty",
+      "dear; precious; darling; pet",
+      "innocent; childlike; childish; lovable",
+      "dainty; little; tiny"
+    ]
+  },
+  {
+    "count": 2,
+    "reading": "まあ",
+    "gloss": [
+      "just (e.g. \"just wait here\"); come now; now, now",
+      "tolerably; passably; moderately; reasonably; fairly; rather; somewhat",
+      "well...; I think...; it would seem...; you might say...; Hmmm, I guess so...",
+      "oh!; oh dear!; oh, my!; wow!; goodness gracious!; good heavens!"
+    ]
+  },
+  {
+    "count": 2,
+    "reading": "生新しい 【なまあたらしい】",
+    "gloss": [
+      "very fresh"
+    ]
+  },
+  {
+    "count": 2,
+    "reading": "メリット",
+    "gloss": [
+      "advantage; benefit; merit; good point; plus"
+    ]
+  },
+  {
+    "count": 2,
+    "reading": "新しい 【あたらしい】",
+    "gloss": [
+      "new; novel; fresh; recent; latest; up-to-date; modern"
+    ]
+  },
+  {
+    "count": 2,
+    "reading": "たぶん",
+    "gloss": [
+      "probably; likely; perhaps; maybe",
+      "a lot of; much; many; considerable; large (amount); generous"
+    ]
+  },
+  {
+    "count": 2,
+    "reading": "この後 【このあと】",
+    "gloss": [
+      "after this; henceforth; henceforward; from now on"
+    ]
+  },
+  {
+    "count": 2,
+    "reading": "終わる 【おわる】"
+  },
+  {
+    "count": 2,
+    "reading": "社長 【しゃちょう】",
+    "gloss": [
+      "company president; manager; director"
+    ]
+  },
+  {
+    "count": 2,
+    "reading": "間違えてない 【まちがえてない】"
+  },
+  {
+    "count": 2,
+    "reading": "てか",
+    "gloss": [
+      "or rather (say); or better (say); or perhaps I should say; or, how should I put it,...; I mean"
+    ]
+  },
+  {
+    "count": 2,
+    "reading": "いつも",
+    "gloss": [
+      "always; all the time; at all times",
+      "never",
+      "usual; regular; habitual; customary"
+    ]
+  },
+  {
+    "count": 2,
+    "reading": "呪う 【のろう】",
+    "gloss": [
+      "curse; spell; malediction"
+    ]
+  },
+  {
+    "count": 2,
+    "reading": "早く 【はやく】"
+  },
+  {
+    "count": 2,
+    "reading": "早い 【はやい】"
+  },
+  {
+    "count": 2,
+    "reading": "文字 【もじ】",
+    "gloss": [
+      "letter (of alphabet); character",
+      "writing"
+    ]
+  },
+  {
+    "count": 2,
+    "reading": "流れる 【ながれる】",
+    "gloss": [
+      "flow (of a fluid or gas); stream; current",
+      "flow (of people, things); passage (of time); tide; passing; (changing) trends; tendency",
+      "course (of events); (step-by-step) procedure; process",
+      "group of people who remain together after the end of an event",
+      "descent; ancestry; school",
+      "forfeiture; foreclosure",
+      "cancellation",
+      "drifting; wandering; roaming"
+    ]
+  },
+  {
+    "count": 2,
+    "reading": "始める 【はじめる】"
+  },
+  {
+    "count": 2,
+    "reading": "始めて 【はじめて】"
+  },
+  {
+    "count": 2,
+    "reading": "いやいや",
+    "gloss": [
+      "no!; no no!; no, not at all"
+    ]
+  },
+  {
+    "count": 2,
+    "reading": "そりゃ",
+    "gloss": [
+      "very; extremely",
+      "that is"
+    ]
+  },
+  {
+    "count": 2,
+    "reading": "やろ",
+    "gloss": [
+      "seems; I think; I guess",
+      "right?; don't you agree?"
+    ]
+  },
+  {
+    "count": 2,
+    "reading": "なんだ",
+    "gloss": [
+      "it is assuredly that ...; can say with confidence that ...",
+      "did not ..."
+    ]
+  },
+  {
+    "count": 2,
+    "reading": "いらなく"
+  },
+  {
+    "count": 2,
+    "reading": "高画質 【こうがしつ】",
+    "gloss": [
+      "high image quality"
+    ]
+  },
+  {
+    "count": 2,
+    "reading": "丈夫 【じょうぶ】",
+    "gloss": [
+      "healthy; robust; strong; solid; durable"
+    ]
+  },
+  {
+    "count": 2,
+    "reading": "ギフト",
+    "gloss": [
+      "gift"
+    ]
+  },
+  {
+    "count": 2,
+    "reading": "わー"
+  },
+  {
+    "count": 2,
+    "reading": "言ってる 【いってる】"
+  },
+  {
+    "count": 2,
+    "reading": "思っちゃう 【おもっちゃう】"
+  },
+  {
+    "count": 2,
+    "reading": "晒す 【さらす】"
+  },
+  {
+    "count": 2,
+    "reading": "ネット",
+    "gloss": [
+      "network",
+      "Internet",
+      "net (e.g. hairnet, tennis net)",
+      "net (price, weight, etc.); nett"
+    ]
+  },
+  {
+    "count": 2,
+    "reading": "掏る 【する】"
+  },
+  {
+    "count": 2,
+    "reading": "擦る 【する】"
+  },
+  {
+    "count": 2,
+    "reading": "刷る 【する】"
+  },
+  {
+    "count": 2,
+    "reading": "おじさん",
+    "gloss": [
+      "uncle",
+      "old man; mister",
+      "manybar goatfish (Parupeneus multifasciatus)"
+    ]
+  },
+  {
+    "count": 2,
+    "reading": "刎ねる 【はねる】"
+  },
+  {
+    "count": 2,
+    "reading": "はね"
+  },
+  {
+    "count": 2,
+    "reading": "撥ねる 【はねる】"
+  },
+  {
+    "count": 2,
+    "reading": "跳ねる 【はねる】"
+  },
+  {
+    "count": 2,
+    "reading": "信用 【しんよう】",
+    "gloss": [
+      "confidence; trust; faith; reputation",
+      "credit (finance)"
+    ]
+  },
+  {
+    "count": 2,
+    "reading": "値する 【あたいする】"
+  },
+  {
+    "count": 2,
+    "reading": "おじ"
+  },
+  {
+    "count": 2,
+    "reading": "信用しよう 【しんよう しよう】"
+  },
+  {
+    "count": 2,
+    "reading": "先に 【さきに】",
+    "gloss": [
+      "previously; before; earlier; formerly; recently",
+      "first; before (something or someone else); ahead (of); earlier",
+      "beforehand; in advance; ahead of time"
+    ]
+  },
+  {
+    "count": 2,
+    "reading": "裏切る 【うらぎる】"
+  },
+  {
+    "count": 2,
+    "reading": "出す 【だす】"
+  },
+  {
+    "count": 2,
+    "reading": "要す 【ようす】"
+  },
+  {
+    "count": 2,
+    "reading": "謝りたかった 【あやまりたかった】"
+  },
+  {
+    "count": 2,
+    "reading": "謝りたい 【あやまりたい】"
+  },
+  {
+    "count": 2,
+    "reading": "俺たち 【おれたち】",
+    "gloss": [
+      "we; us"
+    ]
+  },
+  {
+    "count": 2,
+    "reading": "遊び場 【あそびば】",
+    "gloss": [
+      "playground"
+    ]
+  },
+  {
+    "count": 2,
+    "reading": "突如 【とつじょ】",
+    "gloss": [
+      "suddenly; all of a sudden; unexpectedly"
+    ]
+  },
+  {
+    "count": 2,
+    "reading": "奪う 【うばう】"
+  },
+  {
+    "count": 2,
+    "reading": "パクる"
+  },
+  {
+    "count": 2,
+    "reading": "頭 【あたま】",
+    "gloss": [
+      "head",
+      "hair (on one's head)",
+      "mind; brains; intellect",
+      "leader; chief; boss; captain",
+      "top; tip",
+      "beginning; start",
+      "head; person",
+      "down payment; deposit",
+      "top structural component of a kanji",
+      "pair"
+    ]
+  },
+  {
+    "count": 2,
+    "reading": "ゴミ",
+    "gloss": [
+      "rubbish; trash; garbage; refuse; litter"
+    ]
+  },
+  {
+    "count": 2,
+    "reading": "引っ越し 【ひっこし】",
+    "gloss": [
+      "moving (dwelling, office, etc.); changing residence"
+    ]
+  },
+  {
+    "count": 2,
+    "reading": "問い合わせる 【といあわせる】",
+    "gloss": [
+      "inquiry; query; enquiry"
+    ]
+  },
+  {
+    "count": 2,
+    "reading": "問い合わす 【といあわす】",
+    "gloss": [
+      "inquiry; query; enquiry"
+    ]
+  },
+  {
+    "count": 2,
+    "reading": "刺さる 【ささる】"
+  },
+  {
+    "count": 2,
+    "reading": "総合 【そうごう】",
+    "gloss": [
+      "synthesis; combination; integration; putting together",
+      "synthesis; colligation"
+    ]
+  },
+  {
+    "count": 2,
+    "reading": "動く 【うごく】"
+  },
+  {
+    "count": 2,
+    "reading": "視聴 【しちょう】",
+    "gloss": [
+      "looking and listening; (television) viewing; watching",
+      "(public) attention; interest"
+    ]
+  },
+  {
+    "count": 2,
+    "reading": "岐 【ちまた】",
+    "gloss": [
+      "the public; the street (e.g. \"word on the street\")",
+      "street; district; quarters",
+      "location (e.g. of a battle); scene (e.g. of carnage)",
+      "divide (e.g. between life and death)",
+      "fork (in a road); crossroads"
+    ]
+  },
+  {
+    "count": 2,
+    "reading": "府 【ふ】",
+    "gloss": [
+      "(metropolitan) prefecture (i.e. Osaka and Kyoto)",
+      "centre (e.g. of learning); center; seat",
+      "(government) office",
+      "fu (administrative unit in China, Korea and Vietnam)"
+    ]
+  },
+  {
+    "count": 2,
+    "reading": "現金 【げんきん】",
+    "gloss": [
+      "cash; ready money; money on hand; currency",
+      "mercenary; self-interested; calculating"
+    ]
+  },
+  {
+    "count": 2,
+    "reading": "これこれ",
+    "gloss": [
+      "this and that; such and such"
+    ]
+  },
+  {
+    "count": 2,
+    "reading": "ところで"
+  },
+  {
+    "count": 2,
+    "reading": "トツマチ",
+    "gloss": [
+      "waiting for a call (e.g. on livestream)",
+      "waiting for an assault from another party"
+    ]
+  },
+  {
+    "count": 2,
+    "reading": "聞いてない 【きいてない】"
+  },
+  {
+    "count": 2,
+    "reading": "言ってた 【いってた】"
+  },
+  {
+    "count": 2,
+    "reading": "減ってる 【へってる】"
+  },
+  {
+    "count": 2,
+    "reading": "んで"
+  },
+  {
+    "count": 2,
+    "reading": "減る 【へる】"
+  },
+  {
+    "count": 2,
+    "reading": "0"
+  },
+  {
+    "count": 2,
+    "reading": "何か 【なにか】",
+    "gloss": [
+      "something; some; any",
+      "somehow; for some reason",
+      "(so) what (are you trying to say)?; what (do you mean)?"
+    ]
+  },
+  {
+    "count": 2,
+    "reading": "バスケットボール",
+    "gloss": [
+      "basketball"
+    ]
+  },
+  {
+    "count": 2,
+    "reading": "ゼッケン",
+    "gloss": [
+      "cloth bib displaying a competitor's number; athlete's number"
+    ]
+  },
+  {
+    "count": 2,
+    "reading": "たに",
+    "gloss": [
+      "valley"
+    ]
+  },
+  {
+    "count": 2,
+    "reading": "控える 【ひかえる】"
+  },
+  {
+    "count": 2,
+    "reading": "クソ",
+    "gloss": [
+      "damn; damn it; shit; crap",
+      "feces; excrement; dung",
+      "damn; damned; blasted; stupid",
+      "very; extremely; really",
+      "terrible; awful; shit; crap",
+      "a lot",
+      "negligible; insignificant; not mattering at all; counting for nothing; hardly worth consideration; out of the question"
+    ]
+  },
+  {
+    "count": 2,
+    "reading": "雑談 【ざつだん】",
+    "gloss": [
+      "chatting; idle talk"
+    ]
+  },
+  {
+    "count": 2,
+    "reading": "もんだ"
+  },
+  {
+    "count": 2,
+    "reading": "夏い 【なつい】",
+    "gloss": [
+      "summer"
+    ]
+  },
+  {
+    "count": 2,
+    "reading": "移動する 【いどう する】"
+  },
+  {
+    "count": 2,
+    "reading": "届いてない 【とどいてない】"
+  },
+  {
+    "count": 2,
+    "reading": "投稿してた 【とうこう してた】"
+  },
+  {
+    "count": 2,
+    "reading": "やってください"
+  },
+  {
+    "count": 2,
+    "reading": "待ってて 【まってて】"
+  },
+  {
+    "count": 2,
+    "reading": "どの",
+    "gloss": [
+      "which; what (way)"
+    ]
+  },
+  {
+    "count": 2,
+    "reading": "マウント",
+    "gloss": [
+      "mount; stand; fixture",
+      "lens mount",
+      "mounting (e.g. a drive)",
+      "mounting (animal behaviour)",
+      "asserting dominance"
+    ]
+  },
+  {
+    "count": 2,
+    "reading": "掛ける 【かける】"
+  },
+  {
+    "count": 2,
+    "reading": "はい"
+  },
+  {
+    "count": 2,
+    "reading": "届いてなかった 【とどいてなかった】"
+  },
+  {
+    "count": 2,
+    "reading": "たまたま",
+    "gloss": [
+      "by chance; by accident; accidentally; happen to (be, do); unexpectedly; casually",
+      "occasionally; once in a while; now and then"
+    ]
+  },
+  {
+    "count": 2,
+    "reading": "送信 【そうしん】",
+    "gloss": [
+      "transmission; sending"
+    ]
+  },
+  {
+    "count": 2,
+    "reading": "落ち着く 【おちつく】"
+  },
+  {
+    "count": 2,
+    "reading": "3回 【さんかい】",
+    "gloss": [
+      "counter for occurrences"
+    ]
+  },
+  {
+    "count": 2,
+    "reading": "寝 【ね】"
+  },
+  {
+    "count": 2,
+    "reading": "寝る 【ねる】"
+  },
+  {
+    "count": 2,
+    "reading": "でいい"
+  },
+  {
+    "count": 2,
+    "reading": "いやでも",
+    "gloss": [
+      "whether one likes it or not; willy-nilly"
+    ]
+  },
+  {
+    "count": 2,
+    "reading": "キャスト",
+    "gloss": [
+      "cast (play, film, etc.)",
+      "cast (e.g. type conversion)"
+    ]
+  },
+  {
+    "count": 2,
+    "reading": "食らう 【くらう】",
+    "gloss": [
+      "to eat; to drink; to wolf; to knock back",
+      "to receive (e.g. a blow)",
+      "to be on the receiving end (of something undesirable); to undergo (trouble)"
+    ]
+  },
+  {
+    "count": 2,
+    "reading": "生す 【むす】"
+  },
+  {
+    "count": 2,
+    "reading": "生す 【なす】"
+  },
+  {
+    "count": 2,
+    "reading": "切れる 【きれる】"
+  },
+  {
+    "count": 2,
+    "reading": "パクパク",
+    "gloss": [
+      "repeatedly opening and closing (one's mouth); gasping",
+      "flapping (e.g. shoe sole); gaping open and shut",
+      "heartily (eating); devouring; munching; gobbling"
+    ]
+  },
+  {
+    "count": 2,
+    "reading": "4日目 【よっかめ】",
+    "gloss": [
+      "counter for days"
+    ]
+  },
+  {
+    "count": 2,
+    "reading": "3日目 【みっかめ】",
+    "gloss": [
+      "counter for days"
+    ]
+  },
+  {
+    "count": 2,
+    "reading": "楽しい 【たのしい】",
+    "gloss": [
+      "enjoyable; fun; pleasant; happy; delightful"
+    ]
+  },
+  {
+    "count": 2,
+    "reading": "空気 【くうき】",
+    "gloss": [
+      "air; atmosphere",
+      "mood; situation",
+      "someone with no presence; someone who doesn't stand out at all"
+    ]
+  },
+  {
+    "count": 2,
+    "reading": "食べてた 【たべてた】"
+  },
+  {
+    "count": 2,
+    "reading": "季節 【きせつ】",
+    "gloss": [
+      "season; time of year"
+    ]
+  },
+  {
+    "count": 2,
+    "reading": "常に 【つねに】",
+    "gloss": [
+      "always; constantly"
+    ]
+  },
+  {
+    "count": 2,
+    "reading": "この",
+    "gloss": [
+      "this",
+      "last (couple of years, etc.); these; past; this",
+      "you (as in \"you liar\")"
+    ]
+  },
+  {
+    "count": 2,
+    "reading": "この前 【このまえ】",
+    "gloss": [
+      "the other day; previously; before; earlier; recently",
+      "last time",
+      "last (Sunday, summer, etc.); previous (e.g. mayor, chapter); preceding"
+    ]
+  },
+  {
+    "count": 2,
+    "reading": "マヨ",
+    "gloss": [
+      "mayonnaise"
+    ]
+  },
+  {
+    "count": 2,
+    "reading": "菌 【きん】",
+    "gloss": [
+      "fungus",
+      "germ; bacterium; bacillus"
+    ]
+  },
+  {
+    "count": 2,
+    "reading": "触れる 【ふれる】"
+  },
+  {
+    "count": 2,
+    "reading": "触る 【さわる】"
+  },
+  {
+    "count": 2,
+    "reading": "バイオハザード"
+  },
+  {
+    "count": 2,
+    "reading": "わけない",
+    "gloss": [
+      "easy; simple",
+      "there's no way that ..."
+    ]
+  },
+  {
+    "count": 2,
+    "reading": "オート",
+    "gloss": [
+      "auto; automobile; automatic"
+    ]
+  },
+  {
+    "count": 2,
+    "reading": "なくなる"
+  },
+  {
+    "count": 2,
+    "reading": "高校生 【こうこうせい】",
+    "gloss": [
+      "senior high school student"
+    ]
+  },
+  {
+    "count": 2,
+    "reading": "何の 【なんの】",
+    "gloss": [
+      "what; what kind of; what sort of",
+      "no ...; any",
+      "adds emphasis to the preceding word",
+      "no; not at all; oh (it's nothing)"
+    ]
+  },
+  {
+    "count": 2,
+    "reading": "病院 【びょういん】",
+    "gloss": [
+      "hospital; clinic; doctor's office; doctor's surgery; infirmary"
+    ]
+  },
+  {
+    "count": 2,
+    "reading": "中 【ちゅう】"
+  },
+  {
+    "count": 2,
+    "reading": "中 【なか】"
+  },
+  {
+    "count": 2,
+    "reading": "大腸 【だいちょう】",
+    "gloss": [
+      "large intestine; large bowel; colon"
+    ]
+  },
+  {
+    "count": 2,
+    "reading": "カメラ",
+    "gloss": [
+      "camera"
+    ]
+  },
+  {
+    "count": 2,
+    "reading": "お尻 【おしり】",
+    "gloss": [
+      "bottom; buttocks"
+    ]
+  },
+  {
+    "count": 2,
+    "reading": "検査 【けんさ】",
+    "gloss": [
+      "inspection (e.g. customs, factory); examination; test; check; scan (e.g. MRI, PET); audit"
+    ]
+  },
+  {
+    "count": 2,
+    "reading": "こいつ",
+    "gloss": [
+      "he; she; this fellow; this guy; this person",
+      "this; this one; this thing",
+      "hey, you!; you bastard!; damn you!"
+    ]
+  },
+  {
+    "count": 2,
+    "reading": "恨む 【うらむ】",
+    "gloss": [
+      "to bear a grudge against; to resent; to blame; to curse; to feel bitter towards"
+    ]
+  },
+  {
+    "count": 2,
+    "reading": "食べちゃ 【たべちゃ】"
+  },
+  {
+    "count": 2,
+    "reading": "ううう"
+  },
+  {
+    "count": 2,
+    "reading": "いけん"
+  },
+  {
+    "count": 2,
+    "reading": "かう"
+  },
+  {
+    "count": 2,
+    "reading": "ほしい",
+    "gloss": [
+      "wanting (to have); desiring; wishing for",
+      "I want (you, them, etc.) to (do)"
+    ]
+  },
+  {
+    "count": 2,
+    "reading": "決める 【きめる】"
+  },
+  {
+    "count": 2,
+    "reading": "神 【かみ】",
+    "gloss": [
+      "god; deity; divinity; spirit; kami",
+      "incredible; fantastic; amazing",
+      "Emperor (of Japan)",
+      "thunder"
+    ]
+  },
+  {
+    "count": 2,
+    "reading": "お願い 【おねがい】",
+    "gloss": [
+      "request; favour (to ask); wish",
+      "please"
+    ]
+  },
+  {
+    "count": 2,
+    "reading": "トイレ",
+    "gloss": [
+      "toilet; restroom; bathroom; lavatory",
+      "going to the toilet; relieving oneself"
+    ]
+  },
+  {
+    "count": 2,
+    "reading": "その時 【そのとき】",
+    "gloss": [
+      "at that time; at that moment; then; on that occasion"
+    ]
+  },
+  {
+    "count": 2,
+    "reading": "ストレス",
+    "gloss": [
+      "stress"
+    ]
+  },
+  {
+    "count": 2,
+    "reading": "失敗 【しっぱい】",
+    "gloss": [
+      "failure; mistake; blunder"
+    ]
+  },
+  {
+    "count": 2,
+    "reading": "限界 【げんかい】",
+    "gloss": [
+      "limit; bound"
+    ]
+  },
+  {
+    "count": 2,
+    "reading": "初めて 【はじめて】",
+    "gloss": [
+      "for the first time",
+      "only after ... is it ...; only when ... do you ...; not until ... do you ...",
+      "first time; (one's) first"
+    ]
+  },
+  {
+    "count": 2,
+    "reading": "何回か 【なんかいか】",
+    "gloss": [
+      "a few times"
+    ]
+  },
+  {
+    "count": 2,
+    "reading": "なら"
+  },
+  {
+    "count": 2,
+    "reading": "だ"
+  },
+  {
+    "count": 2,
+    "reading": "距離 【きょり】",
+    "gloss": [
+      "distance; range; interval",
+      "difference (e.g. in opinion); gap; distance"
+    ]
+  },
+  {
+    "count": 2,
+    "reading": "ところが"
+  },
+  {
+    "count": 2,
+    "reading": "一個 【いっこ】",
+    "gloss": [
+      "piece; fragment; one (object)"
+    ]
+  },
+  {
+    "count": 2,
+    "reading": "生まれてきた 【うまれてきた】"
+  },
+  {
+    "count": 2,
+    "reading": "取る 【とる】"
+  },
+  {
+    "count": 2,
+    "reading": "無くなったら 【なくなったら】"
+  },
+  {
+    "count": 2,
+    "reading": "できてた"
+  },
+  {
+    "count": 2,
+    "reading": "たった",
+    "gloss": [
+      "only; merely; but; no more than"
+    ]
+  },
+  {
+    "count": 2,
+    "reading": "らん"
+  },
+  {
+    "count": 2,
+    "reading": "やだ",
+    "gloss": [
+      "not a chance; not likely; no way; no",
+      "oh no; yuck; eew"
+    ]
+  },
+  {
+    "count": 2,
+    "reading": "びっくりして"
+  },
+  {
+    "count": 2,
+    "reading": "よる"
+  },
+  {
+    "count": 2,
+    "reading": "敏感 【びんかん】",
+    "gloss": [
+      "sensitive; alert; aware; susceptible"
+    ]
+  },
+  {
+    "count": 2,
+    "reading": "小さい 【ちいさい】",
+    "gloss": [
+      "small; little; tiny",
+      "slight; below average (in degree, amount, etc.); minor; small",
+      "low (e.g. sound); soft (e.g. voice)",
+      "unimportant; petty; insignificant; trifling; trivial",
+      "young; juvenile"
+    ]
+  },
+  {
+    "count": 2,
+    "reading": "匂いがする 【においがする】",
+    "gloss": [
+      "to smell; to smell of; to have a smell"
+    ]
+  },
+  {
+    "count": 2,
+    "reading": "お母さん 【おかあさん】",
+    "gloss": [
+      "mother; mom; mum; ma",
+      "wife",
+      "you (of an elderly person older than the speaker); she; her"
+    ]
+  },
+  {
+    "count": 2,
+    "reading": "燃えてた 【もえてた】"
+  },
+  {
+    "count": 2,
+    "reading": "だいたい",
+    "gloss": [
+      "generally; on the whole; mostly; almost; nearly; approximately; roughly; about",
+      "general; rough",
+      "outline; main points; gist; substance; essence",
+      "in the first place; first and foremost; from the start; to begin with"
+    ]
+  },
+  {
+    "count": 2,
+    "reading": "ミン"
+  },
+  {
+    "count": 2,
+    "reading": "ニンニク",
+    "gloss": [
+      "garlic (Allium sativum)"
+    ]
+  },
+  {
+    "count": 2,
+    "reading": "ごま油 【ごまあぶら】",
+    "gloss": [
+      "sesame oil"
+    ]
+  },
+  {
+    "count": 2,
+    "reading": "胡椒 【こしょう】",
+    "gloss": [
+      "pepper"
+    ]
+  },
+  {
+    "count": 2,
+    "reading": "酢 【す】",
+    "gloss": [
+      "vinegar"
+    ]
+  },
+  {
+    "count": 2,
+    "reading": "ムカつく",
+    "gloss": [
+      "to feel irritated; to feel offended; to feel angry",
+      "to feel sick; to feel nauseous"
+    ]
+  },
+  {
+    "count": 2,
+    "reading": "言えてる 【いえてる】"
+  },
+  {
+    "count": 2,
+    "reading": "味噌 【みそ】",
+    "gloss": [
+      "miso; fermented condiment usu. made from soybeans",
+      "innards (from crabs, shrimps, etc.) resembling miso",
+      "key (main) point; good part (of something)",
+      "weakling; weak person",
+      "try"
+    ]
+  },
+  {
+    "count": 2,
+    "reading": "塩 【しお】",
+    "gloss": [
+      "salt; common salt; table salt; sodium chloride",
+      "hardship; toil; trouble",
+      "saltiness",
+      "cold; unwelcoming; indifferent"
+    ]
+  },
+  {
+    "count": 2,
+    "reading": "急に 【きゅうに】",
+    "gloss": [
+      "swiftly; rapidly; quickly; immediately; hastily; hurriedly",
+      "suddenly; abruptly; unexpectedly",
+      "sharply (of a slope, bend, etc.); steeply"
+    ]
+  },
+  {
+    "count": 2,
+    "reading": "得意 【とくい】",
+    "gloss": [
+      "satisfaction; pride; triumph; elation",
+      "one's strong point; one's forte; one's specialty",
+      "regular customer; regular client; patron"
+    ]
+  },
+  {
+    "count": 2,
+    "reading": "ん"
+  },
+  {
+    "count": 2,
+    "reading": "フカヒレ",
+    "gloss": [
+      "shark fin"
+    ]
+  },
+  {
+    "count": 2,
+    "reading": "ステーキ",
+    "gloss": [
+      "steak"
+    ]
+  },
+  {
+    "count": 2,
+    "reading": "そば"
+  },
+  {
+    "count": 2,
+    "reading": "和食 【わしょく】",
+    "gloss": [
+      "Japanese food; Japanese dish; Japanese cuisine"
+    ]
+  },
+  {
+    "count": 2,
+    "reading": "モン"
+  },
+  {
+    "count": 2,
+    "reading": "スト",
+    "gloss": [
+      "strike (i.e. industrial action)"
+    ]
+  },
+  {
+    "count": 2,
+    "reading": "ニンタマ"
+  },
+  {
+    "count": 2,
+    "reading": "ラン",
+    "gloss": [
+      "run",
+      "rump"
+    ]
+  },
+  {
+    "count": 2,
+    "reading": "ト"
+  },
+  {
+    "count": 2,
+    "reading": "ロー",
+    "gloss": [
+      "low",
+      "low gear"
+    ]
+  },
+  {
+    "count": 2,
+    "reading": "ゼニ",
+    "gloss": [
+      "round coin with a (square) hole in the center",
+      "coin made of non-precious materials",
+      "money"
+    ]
+  },
+  {
+    "count": 2,
+    "reading": "ヘム",
+    "gloss": [
+      "hem",
+      "heme"
+    ]
+  },
+  {
+    "count": 2,
+    "reading": "帰ってこい 【かえってこい】"
+  },
+  {
+    "count": 2,
+    "reading": "天使 【てんし】",
+    "gloss": [
+      "angel"
+    ]
+  },
+  {
+    "count": 2,
+    "reading": "サイト",
+    "gloss": [
+      "site (usu. website)",
+      "sight",
+      "payable on sight"
+    ]
+  },
+  {
+    "count": 2,
+    "reading": "こえー"
+  },
+  {
+    "count": 2,
+    "reading": "ルーキー",
+    "gloss": [
+      "rookie"
+    ]
+  },
+  {
+    "count": 2,
+    "reading": "12桁 【じゅう​にけた】",
+    "gloss": [
+      "digit; decade; order of magnitude"
+    ]
+  },
+  {
+    "count": 2,
+    "reading": "そもそも",
+    "gloss": [
+      "in the first place; to begin with; from the start; originally; ab initio",
+      "after all; anyway; actually; well, ...; ... on earth (e.g. \"what on earth?\"); ... in the world (e.g. \"why in the world?\")",
+      "beginning; start"
+    ]
+  },
+  {
+    "count": 2,
+    "reading": "行けない 【いけない】"
+  },
+  {
+    "count": 2,
+    "reading": "メールボックス",
+    "gloss": [
+      "mailbox; mail box",
+      "inbox"
+    ]
+  },
+  {
+    "count": 2,
+    "reading": "んな",
+    "gloss": [
+      "such (about the actions of the listener, or about ideas expressed or understood by the listener); like that; that sort of"
+    ]
+  },
+  {
+    "count": 2,
+    "reading": "1回 【いっかい】",
+    "gloss": [
+      "counter for occurrences"
+    ]
+  },
+  {
+    "count": 2,
+    "reading": "送る 【おくる】"
+  },
+  {
+    "count": 2,
+    "reading": "携帯 【けいたい】",
+    "gloss": [
+      "carrying (on one's person or in the hand)",
+      "mobile phone; cell phone"
+    ]
+  },
+  {
+    "count": 2,
+    "reading": "信じてる 【しんじてる】"
+  },
+  {
+    "count": 2,
+    "reading": "持ってる 【もってる】"
+  },
+  {
+    "count": 2,
+    "reading": "はあ",
+    "gloss": [
+      "yes; indeed; well",
+      "ha!",
+      "what?; huh?",
+      "sigh"
+    ]
+  },
+  {
+    "count": 2,
+    "reading": "カタカナ",
+    "gloss": [
+      "katakana; angular Japanese syllabary used primarily for loanwords"
+    ]
+  },
+  {
+    "count": 2,
+    "reading": "ハイフン",
+    "gloss": [
+      "hyphen"
+    ]
+  },
+  {
+    "count": 2,
+    "reading": "ばい"
+  },
+  {
+    "count": 1,
+    "reading": "探す 【さがす】"
+  },
+  {
+    "count": 1,
+    "reading": "してしまって"
+  },
+  {
+    "count": 1,
+    "reading": "お姉さん 【おねえさん】",
+    "gloss": [
+      "older sister; elder sister",
+      "young lady",
+      "miss",
+      "ma'am",
+      "older girl"
+    ]
+  },
+  {
+    "count": 1,
+    "reading": "いろいろあって",
+    "gloss": [
+      "what with this and that; for a number of reasons"
+    ]
+  },
+  {
+    "count": 1,
+    "reading": "大変 【たいへん】",
+    "gloss": [
+      "very; greatly; terribly; awfully",
+      "immense; enormous; great",
+      "serious; grave; dreadful; terrible",
+      "difficult; hard; challenging",
+      "major incident; disaster"
+    ]
+  },
+  {
+    "count": 1,
+    "reading": "ことになってて"
+  },
+  {
+    "count": 1,
+    "reading": "水虫 【みずむし】",
+    "gloss": [
+      "athlete's foot",
+      "water boatman (esp. species Hesperocorixa distanti)",
+      "Asellus hilgendorfi (species of aquatic sowbug)"
+    ]
+  },
+  {
+    "count": 1,
+    "reading": "ヒール",
+    "gloss": [
+      "heel (of a shoe)",
+      "heel (in pro wrestling); bad guy; player of villain roles"
+    ]
+  },
+  {
+    "count": 1,
+    "reading": "走る 【はしる】"
+  },
+  {
+    "count": 1,
+    "reading": "出過ぎる 【ですぎる】"
+  },
+  {
+    "count": 1,
+    "reading": "怪我 【けが】",
+    "gloss": [
+      "injury; wound",
+      "mistake; accident; loss"
+    ]
+  },
+  {
+    "count": 1,
+    "reading": "時に 【ときに】",
+    "gloss": [
+      "by the way; incidentally",
+      "sometimes; occasionally; on occasion",
+      "precisely (at that time); exactly; just (then); right (then)"
+    ]
+  },
+  {
+    "count": 1,
+    "reading": "ピエーン",
+    "gloss": [
+      "boohoo; boo hoo; sniff sniff; sob sob; waa waa"
+    ]
+  },
+  {
+    "count": 1,
+    "reading": "痛すぎて 【いたすぎて】"
+  },
+  {
+    "count": 1,
+    "reading": "お風呂 【おふろ】",
+    "gloss": [
+      "bath"
+    ]
+  },
+  {
+    "count": 1,
+    "reading": "泣く 【なく】"
+  },
+  {
+    "count": 1,
+    "reading": "足 【あし】",
+    "gloss": [
+      "foot; paw; arm (of an octopus, squid, etc.)",
+      "leg",
+      "gait",
+      "pace",
+      "lower radical of a kanji",
+      "means of transportation; (one's) ride",
+      "money; coin"
+    ]
+  },
+  {
+    "count": 1,
+    "reading": "そこ",
+    "gloss": [
+      "there (place relatively near listener)",
+      "there (place just mentioned); that place",
+      "then (of some incident just spoken of); that (of point just raised)",
+      "you"
+    ]
+  },
+  {
+    "count": 1,
+    "reading": "入ってきて 【はいってきて】"
+  },
+  {
+    "count": 1,
+    "reading": "入ってきて 【いってきて】"
+  },
+  {
+    "count": 1,
+    "reading": "お話し 【おはなし】",
+    "gloss": [
+      "story; tale",
+      "talk; discussion"
+    ]
+  },
+  {
+    "count": 1,
+    "reading": "遭遇 【そうぐう】",
+    "gloss": [
+      "encounter; running into; meeting with (e.g. an accident); being confronted with (e.g. a difficulty)"
+    ]
+  },
+  {
+    "count": 1,
+    "reading": "駅 【えき】",
+    "gloss": [
+      "railway station; train station",
+      "staging post on a highway (in pre-modern Japan)",
+      "counter for railway stations and bus stations"
+    ]
+  },
+  {
+    "count": 1,
+    "reading": "真ん前 【まんまえ】",
+    "gloss": [
+      "right in front; just opposite; under the nose"
+    ]
+  },
+  {
+    "count": 1,
+    "reading": "植"
+  },
+  {
+    "count": 1,
+    "reading": "出されてた 【だされてた】"
+  },
+  {
+    "count": 1,
+    "reading": "見つかる 【みつかる】"
+  },
+  {
+    "count": 1,
+    "reading": "提供してくれた 【ていきょう して くれた】"
+  },
+  {
+    "count": 1,
+    "reading": "捕まる 【つかまる】"
+  },
+  {
+    "count": 1,
+    "reading": "配信できない 【はいしん できない】"
+  },
+  {
+    "count": 1,
+    "reading": "一人で 【ひとりで】",
+    "gloss": [
+      "alone; by oneself; on one's own"
+    ]
+  },
+  {
+    "count": 1,
+    "reading": "接近禁止命令 【せっきんきんしめいれい】",
+    "gloss": [
+      "restraining order"
+    ]
+  },
+  {
+    "count": 1,
+    "reading": "ナイト",
+    "gloss": [
+      "knight"
+    ]
+  },
+  {
+    "count": 1,
+    "reading": "着く 【つく】"
+  },
+  {
+    "count": 1,
+    "reading": "点く 【つく】"
+  },
+  {
+    "count": 1,
+    "reading": "漬く 【つく】"
+  },
+  {
+    "count": 1,
+    "reading": "就ける 【つける】"
+  },
+  {
+    "count": 1,
+    "reading": "就く 【つく】"
+  },
+  {
+    "count": 1,
+    "reading": "付く 【つく】"
+  },
+  {
+    "count": 1,
+    "reading": "ていいん",
+    "gloss": [
+      "fixed number (of people); prescribed number (of regular personnel, students, etc.); quota; numerical limit; complement",
+      "capacity (of a bus, boat, theatre, etc.); seating capacity"
+    ]
+  },
+  {
+    "count": 1,
+    "reading": "ことになる",
+    "gloss": [
+      "to have been decided (so) that; to have been arranged (so) that",
+      "to be the result (of); to be the outcome",
+      "to be the reason (for)"
+    ]
+  },
+  {
+    "count": 1,
+    "reading": "はいよ",
+    "gloss": [
+      "okay; sure; okey-dokey"
+    ]
+  },
+  {
+    "count": 1,
+    "reading": "さんい",
+    "gloss": [
+      "approval; assent"
+    ]
+  },
+  {
+    "count": 1,
+    "reading": "でええ"
+  },
+  {
+    "count": 1,
+    "reading": "か弱い 【かよわい】",
+    "gloss": [
+      "weak; feeble; delicate; frail; helpless"
+    ]
+  },
+  {
+    "count": 1,
+    "reading": "につけて",
+    "gloss": [
+      "every time; whenever; as",
+      "whether; in (either case)"
+    ]
+  },
+  {
+    "count": 1,
+    "reading": "二人 【ふたり】",
+    "gloss": [
+      "two persons; two people; pair; couple"
+    ]
+  },
+  {
+    "count": 1,
+    "reading": "ボコボコ",
+    "gloss": [
+      "with a burble",
+      "hollow (sounding)",
+      "holey; full of holes or dents; lumpy; bumpy",
+      "viciously beating; hitting and kicking repeatedly"
+    ]
+  },
+  {
+    "count": 1,
+    "reading": "終わり 【おわり】",
+    "gloss": [
+      "end; ending; close; conclusion",
+      "end of (one's) life; death"
+    ]
+  },
+  {
+    "count": 1,
+    "reading": "いろいろ",
+    "gloss": [
+      "various; all sorts of; variety of",
+      "various colors (colours)"
+    ]
+  },
+  {
+    "count": 1,
+    "reading": "提供してもらって 【ていきょう して もらって】"
+  },
+  {
+    "count": 1,
+    "reading": "されてて"
+  },
+  {
+    "count": 1,
+    "reading": "できてる"
+  },
+  {
+    "count": 1,
+    "reading": "ポンコツ",
+    "gloss": [
+      "piece of junk; worn-out article",
+      "clumsy; useless; no good; unreliable",
+      "dismantled car",
+      "hitting (with fist); striking"
+    ]
+  },
+  {
+    "count": 1,
+    "reading": "勇気 【ゆうき】",
+    "gloss": [
+      "courage; bravery; valour; valor; nerve; boldness"
+    ]
+  },
+  {
+    "count": 1,
+    "reading": "出なくても 【でなくても】"
+  },
+  {
+    "count": 1,
+    "reading": "うで",
+    "gloss": [
+      "arm",
+      "skill; efforts; ability"
+    ]
+  },
+  {
+    "count": 1,
+    "reading": "人数 【にんずう】",
+    "gloss": [
+      "the number of people",
+      "many people; a large number of people"
+    ]
+  },
+  {
+    "count": 1,
+    "reading": "集まってた 【あつまってた】"
+  },
+  {
+    "count": 1,
+    "reading": "あそこ",
+    "gloss": [
+      "there; over there; that place; yonder; you-know-where",
+      "genitals; private parts; nether regions",
+      "that far; that much; that point"
+    ]
+  },
+  {
+    "count": 1,
+    "reading": "集まってたらしくて 【あつまってたらしくて】"
+  },
+  {
+    "count": 1,
+    "reading": "ワンチャン",
+    "gloss": [
+      "one chance; only opportunity",
+      "maybe; perhaps; there is a chance that",
+      "one-night stand"
+    ]
+  },
+  {
+    "count": 1,
+    "reading": "禁止 【きんし】",
+    "gloss": [
+      "prohibition; inhibition; ban"
+    ]
+  },
+  {
+    "count": 1,
+    "reading": "言ってこう 【いってこう】"
+  },
+  {
+    "count": 1,
+    "reading": "配信した 【はいしん した】"
+  },
+  {
+    "count": 1,
+    "reading": "してこないで"
+  },
+  {
+    "count": 1,
+    "reading": "た"
+  },
+  {
+    "count": 1,
+    "reading": "しばらく",
+    "gloss": [
+      "for a moment; for a minute",
+      "for a while; for some time",
+      "for the time being; for now",
+      "it's been a long time; long time no see"
+    ]
+  },
+  {
+    "count": 1,
+    "reading": "ばっ"
+  },
+  {
+    "count": 1,
+    "reading": "コラボしてても"
+  },
+  {
+    "count": 1,
+    "reading": "集結 【しゅうけつ】",
+    "gloss": [
+      "massing (of troops); gathering"
+    ]
+  },
+  {
+    "count": 1,
+    "reading": "簡潔 【かんけつ】",
+    "gloss": [
+      "concise; brief; succinct; compact (style)"
+    ]
+  },
+  {
+    "count": 1,
+    "reading": "しばらくできません"
+  },
+  {
+    "count": 1,
+    "reading": "しんどい",
+    "gloss": [
+      "tired; frazzled",
+      "tiresome; tiring; draining; bothersome; worrisome"
+    ]
+  },
+  {
+    "count": 1,
+    "reading": "通す 【とおす】"
+  },
+  {
+    "count": 1,
+    "reading": "それだけ",
+    "gloss": [
+      "that much; as much; to that extent; only that; that alone; no more than that; that is all (when finished speaking)"
+    ]
+  },
+  {
+    "count": 1,
+    "reading": "とかい",
+    "gloss": [
+      "city",
+      "Tokyo Metropolitan Assembly"
+    ]
+  },
+  {
+    "count": 1,
+    "reading": "接触してきた 【せっしょく してきた】"
+  },
+  {
+    "count": 1,
+    "reading": "対応できる 【たいおう できる】"
+  },
+  {
+    "count": 1,
+    "reading": "対処できない 【たいしょ できない】"
+  },
+  {
+    "count": 1,
+    "reading": "ちゃんと",
+    "gloss": [
+      "diligently; seriously; earnestly; reliably; steadily; legitimately",
+      "perfectly; properly; exactly; orderly; punctually; regularly; safely; in good condition",
+      "sufficiently; satisfactorily",
+      "quickly"
+    ]
+  },
+  {
+    "count": 1,
+    "reading": "団 【だん】",
+    "gloss": [
+      "body; group; party; company; troupe"
+    ]
+  },
+  {
+    "count": 1,
+    "reading": "危ない 【あぶない】",
+    "gloss": [
+      "dangerous; risky; hazardous; perilous; precarious",
+      "in danger; in jeopardy; critical; grave; at risk",
+      "uncertain; unreliable; insecure; unsteady; doubtful",
+      "close (call); narrow (escape)",
+      "look out!; watch out!; be careful!"
+    ]
+  },
+  {
+    "count": 1,
+    "reading": "片っ端から 【かたっぱしから】",
+    "gloss": [
+      "absolutely every little bit; everything from A to Z; systematically; thoroughly; one after another; successively"
+    ]
+  },
+  {
+    "count": 1,
+    "reading": "コレクター",
+    "gloss": [
+      "collector"
+    ]
+  },
+  {
+    "count": 1,
+    "reading": "習う 【ならう】"
+  },
+  {
+    "count": 1,
+    "reading": "習ってた 【ならってた】"
+  },
+  {
+    "count": 1,
+    "reading": "酔う 【よう】"
+  },
+  {
+    "count": 1,
+    "reading": "なるべく",
+    "gloss": [
+      "as (much) as possible; as (much) as one can; wherever practicable; if possible"
+    ]
+  },
+  {
+    "count": 1,
+    "reading": "ようにする",
+    "gloss": [
+      "to see to it that ...; to make sure that ...; to try to ...; to make an effort to ..."
+    ]
+  },
+  {
+    "count": 1,
+    "reading": "やめる",
+    "gloss": [
+      "to stop (an activity); to cease; to discontinue; to end; to quit",
+      "to cancel; to abandon; to give up; to abolish; to abstain; to refrain"
+    ]
+  },
+  {
+    "count": 1,
+    "reading": "2時間 【にじかん】",
+    "gloss": [
+      "hours (period of)"
+    ]
+  },
+  {
+    "count": 1,
+    "reading": "しちゃったら"
+  },
+  {
+    "count": 1,
+    "reading": "影 【かげ】",
+    "gloss": [
+      "shadow; silhouette; figure; shape",
+      "reflection; image",
+      "ominous sign",
+      "light (stars, moon)",
+      "trace; shadow (of one's former self)",
+      "behind; background; other side"
+    ]
+  },
+  {
+    "count": 1,
+    "reading": "代理人 【だいりにん】",
+    "gloss": [
+      "proxy; agent; substitute; deputy; alternate; representative; attorney"
+    ]
+  },
+  {
+    "count": 1,
+    "reading": "裏 【うら】",
+    "gloss": [
+      "opposite side; bottom; other side; side hidden from view; undersurface; reverse side",
+      "rear; back; behind",
+      "lining; inside",
+      "in the shadows; behind the scenes; offstage; behind (someone's) back",
+      "more (to something than meets the eye); hidden side (e.g. of one's personality); unknown circumstances; different side",
+      "proof",
+      "opposite (of a prediction, common sense, etc.); contrary",
+      "inverse (of a hypothesis, etc.)",
+      "bottom (of an inning); last half (of an inning)"
+    ]
+  },
+  {
+    "count": 1,
+    "reading": "送ってくれた 【おくって くれた】"
+  },
+  {
+    "count": 1,
+    "reading": "単純 【たんじゅん】",
+    "gloss": [
+      "simple; plain; uncomplicated; straightforward; simple-minded; naive"
+    ]
+  },
+  {
+    "count": 1,
+    "reading": "怖いもの知らず 【こわいものしらず】",
+    "gloss": [
+      "foolhardy; reckless; fearless"
+    ]
+  },
+  {
+    "count": 1,
+    "reading": "尊敬しちゃった 【そんけい しちゃった】"
+  },
+  {
+    "count": 1,
+    "reading": "すげー",
+    "gloss": [
+      "incredible; unbelievable; terrific; impressive"
+    ]
+  },
+  {
+    "count": 1,
+    "reading": "夏休み 【なつやすみ】",
+    "gloss": [
+      "summer vacation; summer holiday"
+    ]
+  },
+  {
+    "count": 1,
+    "reading": "行きたい 【いきたい】"
+  },
+  {
+    "count": 1,
+    "reading": "話してた 【はなしてた】"
+  },
+  {
+    "count": 1,
+    "reading": "スイカ割り 【スイカわり】",
+    "gloss": [
+      "watermelon splitting (game)"
+    ]
+  },
+  {
+    "count": 1,
+    "reading": "痛いところ 【いたいところ】",
+    "gloss": [
+      "one's weak point; one's sore spot; raw nerve"
+    ]
+  },
+  {
+    "count": 1,
+    "reading": "響いてくる 【ひびいてくる】"
+  },
+  {
+    "count": 1,
+    "reading": "バレちゃってる"
+  },
+  {
+    "count": 1,
+    "reading": "そこで",
+    "gloss": [
+      "so; accordingly; now; then; thereupon; therefore"
+    ]
+  },
+  {
+    "count": 1,
+    "reading": "繋がる 【つながる】"
+  },
+  {
+    "count": 1,
+    "reading": "包む 【くるむ】"
+  },
+  {
+    "count": 1,
+    "reading": "やっても"
+  },
+  {
+    "count": 1,
+    "reading": "ダークウェブ",
+    "gloss": [
+      "dark web"
+    ]
+  },
+  {
+    "count": 1,
+    "reading": "北海道 【ほっかいどう】",
+    "gloss": [
+      "Hokkaido (island, prefectural-level administrative unit)"
+    ]
+  },
+  {
+    "count": 1,
+    "reading": "復活した 【ふっかつ した】"
+  },
+  {
+    "count": 1,
+    "reading": "このまま",
+    "gloss": [
+      "as is; as it is; as things are; like this; this way; at this rate"
+    ]
+  },
+  {
+    "count": 1,
+    "reading": "していく"
+  },
+  {
+    "count": 1,
+    "reading": "考えてない 【かんがえてない】"
+  },
+  {
+    "count": 1,
+    "reading": "今のところ 【いまのところ】",
+    "gloss": [
+      "at present; currently; so far; for now; for the time being"
+    ]
+  },
+  {
+    "count": 1,
+    "reading": "家 【け】"
+  },
+  {
+    "count": 1,
+    "reading": "バレてて"
+  },
+  {
+    "count": 1,
+    "reading": "に対して 【にたいして】",
+    "gloss": [
+      "towards; against; regarding; in contrast with"
+    ]
+  },
+  {
+    "count": 1,
+    "reading": "さっき",
+    "gloss": [
+      "a short while ago; a moment ago; just now; some time ago"
+    ]
+  },
+  {
+    "count": 1,
+    "reading": "妙 【みょう】",
+    "gloss": [
+      "strange; weird; odd; curious",
+      "wonder; mystery; miracle; excellence",
+      "cleverness; adroitness; knack; skill"
+    ]
+  },
+  {
+    "count": 1,
+    "reading": "気 【き】",
+    "gloss": [
+      "spirit; mind; heart",
+      "nature; disposition",
+      "intention; mind; will; motivation",
+      "mood; feelings",
+      "consciousness",
+      "care; attention; consideration; worry",
+      "interest",
+      "(the) air; atmosphere",
+      "ambience; atmosphere (of); air (of); mood",
+      "fragrance; aroma; flavour; taste",
+      "qi (in traditional Chinese philosophy and medicine); chi; ki"
+    ]
+  },
+  {
+    "count": 1,
+    "reading": "ドッキリ",
+    "gloss": [
+      "feeling startled; getting a shock",
+      "prank; practical joke"
+    ]
+  },
+  {
+    "count": 1,
+    "reading": "この人 【このひと】",
+    "gloss": [
+      "this person; he; she"
+    ]
+  },
+  {
+    "count": 1,
+    "reading": "読み方 【よみかた】",
+    "gloss": [
+      "pronunciation; reading (e.g. of a kanji)",
+      "way of reading (out loud)",
+      "interpretation (e.g. of a text); reading"
+    ]
+  },
+  {
+    "count": 1,
+    "reading": "庭 【にわ】",
+    "gloss": [
+      "garden; yard; courtyard",
+      "field (of action); area"
+    ]
+  },
+  {
+    "count": 1,
+    "reading": "送ってくれてて 【おくって くれてて】"
+  },
+  {
+    "count": 1,
+    "reading": "くっついてなかった"
+  },
+  {
+    "count": 1,
+    "reading": "頭悪い 【あたまわるい】"
+  },
+  {
+    "count": 1,
+    "reading": "やめてもらっていい"
+  },
+  {
+    "count": 1,
+    "reading": "憶測 【おくそく】",
+    "gloss": [
+      "guess; speculation; supposition"
+    ]
+  },
+  {
+    "count": 1,
+    "reading": "なんとか",
+    "gloss": [
+      "something; something or other; so-and-so",
+      "somehow; anyhow; one way or another"
+    ]
+  },
+  {
+    "count": 1,
+    "reading": "頑張ってる 【がんばってる】"
+  },
+  {
+    "count": 1,
+    "reading": "気をつける 【きをつける】",
+    "gloss": [
+      "take care; be careful"
+    ]
+  },
+  {
+    "count": 1,
+    "reading": "送ってくれてた 【おくって くれてた】"
+  },
+  {
+    "count": 1,
+    "reading": "見てなくていい 【みてなくて いい】"
+  },
+  {
+    "count": 1,
+    "reading": "死ぬ 【しぬ】"
+  },
+  {
+    "count": 1,
+    "reading": "都内 【とない】",
+    "gloss": [
+      "within the (Tokyo) metropolitan area"
+    ]
+  },
+  {
+    "count": 1,
+    "reading": "たびに",
+    "gloss": [
+      "each time; every time; whenever (something happens); on the occasion of"
+    ]
+  },
+  {
+    "count": 1,
+    "reading": "撮っていく 【とっていく】"
+  },
+  {
+    "count": 1,
+    "reading": "配信したい 【はいしん したい】"
+  },
+  {
+    "count": 1,
+    "reading": "ネタ",
+    "gloss": [
+      "material (for a story, article, etc.); information; news item",
+      "joke; jest; (comedy) routine; made-up story; material",
+      "proof; evidence",
+      "(magician's) trick; secret",
+      "ingredients (esp. for sushi)",
+      "(Internet) meme"
+    ]
+  },
+  {
+    "count": 1,
+    "reading": "出会う 【であう】",
+    "gloss": [
+      "to meet (by chance); to come across; to run across; to encounter; to happen upon",
+      "to meet (e.g. of rivers, highways, etc.)",
+      "to emerge and engage (an enemy)"
+    ]
+  },
+  {
+    "count": 1,
+    "reading": "仕込む 【しこむ】"
+  },
+  {
+    "count": 1,
+    "reading": "仕込み 【じこみ】"
+  },
+  {
+    "count": 1,
+    "reading": "あまりに",
+    "gloss": [
+      "too (much); overly; excessively"
+    ]
+  },
+  {
+    "count": 1,
+    "reading": "開始 【かいし】",
+    "gloss": [
+      "start; commencement; beginning; initiation"
+    ]
+  },
+  {
+    "count": 1,
+    "reading": "開始して 【かいし して】"
+  },
+  {
+    "count": 1,
+    "reading": "繋がり 【つながり】",
+    "gloss": [
+      "connection; link; relationship"
+    ]
+  },
+  {
+    "count": 1,
+    "reading": "してくる"
+  },
+  {
+    "count": 1,
+    "reading": "でもない"
+  },
+  {
+    "count": 1,
+    "reading": "パッて"
+  },
+  {
+    "count": 1,
+    "reading": "多すぎて 【おおすぎて】"
+  },
+  {
+    "count": 1,
+    "reading": "欠 【けつ】",
+    "gloss": [
+      "lack; deficiency; vacancy",
+      "absence; non-attendance"
+    ]
+  },
+  {
+    "count": 1,
+    "reading": "変 【へん】",
+    "gloss": [
+      "strange; odd; peculiar; weird; curious; queer; eccentric; funny; suspicious; fishy",
+      "unexpected",
+      "change",
+      "incident; disturbance; disaster; accident",
+      "flat"
+    ]
+  },
+  {
+    "count": 1,
+    "reading": "手の内 【てのうち】",
+    "gloss": [
+      "palm (of one's hand)",
+      "skill",
+      "(in one's) grip; (under one's) control; (in one's) pocket",
+      "one's (concealed) intentions; one's cards; one's scheme",
+      "one's hand"
+    ]
+  },
+  {
+    "count": 1,
+    "reading": "晒してる 【さらしてる】"
+  },
+  {
+    "count": 1,
+    "reading": "ような",
+    "gloss": [
+      "like; similar to",
+      "(I) think (that); (I) have a feeling (that)",
+      "feels like; feels similar to; feels as if"
+    ]
+  },
+  {
+    "count": 1,
+    "reading": "る"
+  },
+  {
+    "count": 1,
+    "reading": "欠如してた 【けつじょ してた】"
+  },
+  {
+    "count": 1,
+    "reading": "ちゃう",
+    "gloss": [
+      "no; that's wrong; it's not like that",
+      "isn't it?; wasn't it?"
+    ]
+  },
+  {
+    "count": 1,
+    "reading": "奴 【やつ】",
+    "gloss": [
+      "fellow; guy; chap",
+      "thing; object",
+      "he; she; him; her"
+    ]
+  },
+  {
+    "count": 1,
+    "reading": "スタンガン",
+    "gloss": [
+      "stun gun"
+    ]
+  },
+  {
+    "count": 1,
+    "reading": "防犯 【ぼうはん】",
+    "gloss": [
+      "prevention of crime",
+      "security (device, camera, etc.)"
+    ]
+  },
+  {
+    "count": 1,
+    "reading": "ブザー",
+    "gloss": [
+      "buzzer; personal alarm (loud buzzer to attract attention in case of attack)"
+    ]
+  },
+  {
+    "count": 1,
+    "reading": "そうだね",
+    "gloss": [
+      "sure; yeah; I know"
+    ]
+  },
+  {
+    "count": 1,
+    "reading": "武器 【ぶき】",
+    "gloss": [
+      "weapon; arms; ordnance",
+      "weapon (something used to gain an advantage); asset"
+    ]
+  },
+  {
+    "count": 1,
+    "reading": "失ってしまった 【うしなってしまった】"
+  },
+  {
+    "count": 1,
+    "reading": "ア"
+  },
+  {
+    "count": 1,
+    "reading": "レックス",
+    "gloss": [
+      "REXX"
+    ]
+  },
+  {
+    "count": 1,
+    "reading": "なんだっけ",
+    "gloss": [
+      "what is it?"
+    ]
+  },
+  {
+    "count": 1,
+    "reading": "扮する 【ふんする】"
+  },
+  {
+    "count": 1,
+    "reading": "テニスウェア",
+    "gloss": [
+      "tennis-wear"
+    ]
+  },
+  {
+    "count": 1,
+    "reading": "頑張りたかった 【がんばりたかった】"
+  },
+  {
+    "count": 1,
+    "reading": "信者 【しんじゃ】",
+    "gloss": [
+      "believer; adherent; devotee; follower",
+      "fanboy; fanatic; superfan"
+    ]
+  },
+  {
+    "count": 1,
+    "reading": "炎上 【えんじょう】",
+    "gloss": [
+      "going up in flames; destruction by fire (esp. of a large building)",
+      "stirring up a storm of criticism online (of an article, tweet, statement, etc.); becoming the target of an Internet pitchfork mob"
+    ]
+  },
+  {
+    "count": 1,
+    "reading": "処方 【しょほう】",
+    "gloss": [
+      "prescription; formulation; formula; recipe"
+    ]
+  },
+  {
+    "count": 1,
+    "reading": "成功 【せいこう】",
+    "gloss": [
+      "success; achievement",
+      "succeeding (in life); (worldly) success; prosperity"
+    ]
+  },
+  {
+    "count": 1,
+    "reading": "あの人 【あのひと】",
+    "gloss": [
+      "he; she; that person",
+      "you"
+    ]
+  },
+  {
+    "count": 1,
+    "reading": "おかげで",
+    "gloss": [
+      "thanks to ...; owing to ...; because of ..."
+    ]
+  },
+  {
+    "count": 1,
+    "reading": "バズってて"
+  },
+  {
+    "count": 1,
+    "reading": "こ"
+  },
+  {
+    "count": 1,
+    "reading": "カオプ"
+  },
+  {
+    "count": 1,
+    "reading": "血 【ち】",
+    "gloss": [
+      "blood",
+      "blood; ancestry; lineage; stock",
+      "(the) blood; feelings; passions"
+    ]
+  },
+  {
+    "count": 1,
+    "reading": "バン",
+    "gloss": [
+      "bun (hairstyle)"
+    ]
+  },
+  {
+    "count": 1,
+    "reading": "ならない"
+  },
+  {
+    "count": 1,
+    "reading": "キモい",
+    "gloss": [
+      "gross; disgusting"
+    ]
+  },
+  {
+    "count": 1,
+    "reading": "ほうがいい",
+    "gloss": [
+      "had better ...",
+      "had better not ..."
+    ]
+  },
+  {
+    "count": 1,
+    "reading": "他にも 【ほかにも】",
+    "gloss": [
+      "furthermore; even more"
+    ]
+  },
+  {
+    "count": 1,
+    "reading": "不安 【ふあん】",
+    "gloss": [
+      "anxiety; uneasiness; worry; apprehension; fear; insecurity; suspense"
+    ]
+  },
+  {
+    "count": 1,
+    "reading": "呉れる 【くれる】"
+  },
+  {
+    "count": 1,
+    "reading": "セキュリティー",
+    "gloss": [
+      "security"
+    ]
+  },
+  {
+    "count": 1,
+    "reading": "通知して 【つうち して】"
+  },
+  {
+    "count": 1,
+    "reading": "安否確認 【あんぴかくにん】",
+    "gloss": [
+      "confirmation of someone's safety; ascertainment of someone's safety"
+    ]
+  },
+  {
+    "count": 1,
+    "reading": "連絡した 【れんらく した】"
+  },
+  {
+    "count": 1,
+    "reading": "返信 【へんしん】",
+    "gloss": [
+      "reply (e.g. email, fax, letter); answer"
+    ]
+  },
+  {
+    "count": 1,
+    "reading": "関係者 【かんけいしゃ】",
+    "gloss": [
+      "person concerned; people involved (in an event); those concerned; staff"
+    ]
+  },
+  {
+    "count": 1,
+    "reading": "ランキング",
+    "gloss": [
+      "ranking",
+      "toplist (e.g. of WWW sites)"
+    ]
+  },
+  {
+    "count": 1,
+    "reading": "いつもより",
+    "gloss": [
+      "more than usual"
+    ]
+  },
+  {
+    "count": 1,
+    "reading": "低い 【ひくい】"
+  },
+  {
+    "count": 1,
+    "reading": "ログインしてた"
+  },
+  {
+    "count": 1,
+    "reading": "流出した 【りゅうしゅつ した】"
+  },
+  {
+    "count": 1,
+    "reading": "解除した 【かいじょ した】"
+  },
+  {
+    "count": 1,
+    "reading": "犯る 【やる】"
+  },
+  {
+    "count": 1,
+    "reading": "遣られる 【やられる】"
+  },
+  {
+    "count": 1,
+    "reading": "そしたら",
+    "gloss": [
+      "then; and (then); in that case; if so"
+    ]
+  },
+  {
+    "count": 1,
+    "reading": "戻れなくなった 【もどれなくなった】"
+  },
+  {
+    "count": 1,
+    "reading": "アンドロイド",
+    "gloss": [
+      "android",
+      "Android (mobile operating system)"
+    ]
+  },
+  {
+    "count": 1,
+    "reading": "アプリ",
+    "gloss": [
+      "app; application"
+    ]
+  },
+  {
+    "count": 1,
+    "reading": "配信できる 【はいしん できる】"
+  },
+  {
+    "count": 1,
+    "reading": "様になる 【ようになる】"
+  },
+  {
+    "count": 1,
+    "reading": "復活させたい 【ふっかつ させたい】"
+  },
+  {
+    "count": 1,
+    "reading": "一気に 【いっきに】",
+    "gloss": [
+      "in one go; in one gulp; in one breath; without stopping; without pausing; without a rest; in one sitting; at a stretch",
+      "suddenly; all of a sudden; all at once"
+    ]
+  },
+  {
+    "count": 1,
+    "reading": "復活させたら 【ふっかつ させたら】"
+  },
+  {
+    "count": 1,
+    "reading": "焦る 【あせる】"
+  },
+  {
+    "count": 1,
+    "reading": "要る 【いる】"
+  },
+  {
+    "count": 1,
+    "reading": "潰れる 【つぶれる】"
+  },
+  {
+    "count": 1,
+    "reading": "笑っちゃった 【わらっちゃった】"
+  },
+  {
+    "count": 1,
+    "reading": "アクセス",
+    "gloss": [
+      "access (to a place, esp. using public transport)",
+      "access (to a website, data, etc.)"
+    ]
+  },
+  {
+    "count": 1,
+    "reading": "集中した 【しゅうちゅう した】"
+  },
+  {
+    "count": 1,
+    "reading": "ため",
+    "gloss": [
+      "good; advantage; benefit; welfare",
+      "sake; purpose; objective; aim",
+      "consequence; result; effect",
+      "affecting; regarding; concerning"
+    ]
+  },
+  {
+    "count": 1,
+    "reading": "想定外 【そうていがい】",
+    "gloss": [
+      "beyond expectations; beyond what one expected; not foreseen; exceeding assumptions"
+    ]
+  },
+  {
+    "count": 1,
+    "reading": "1本 【いっぽん】"
+  },
+  {
+    "count": 1,
+    "reading": "1本 【ひともと】"
+  },
+  {
+    "count": 1,
+    "reading": "頼り 【たより】"
+  },
+  {
+    "count": 1,
+    "reading": "頼る 【たよる】"
+  },
+  {
+    "count": 1,
+    "reading": "切ってる 【きってる】"
+  },
+  {
+    "count": 1,
+    "reading": "痛い目 【いたいめ】",
+    "gloss": [
+      "painful experience"
+    ]
+  },
+  {
+    "count": 1,
+    "reading": "見そう 【みそう】"
+  },
+  {
+    "count": 1,
+    "reading": "欠点 【けってん】",
+    "gloss": [
+      "fault; defect; flaw; weak point; weakness; shortcoming; drawback",
+      "failure (in an examination); failing grade"
+    ]
+  },
+  {
+    "count": 1,
+    "reading": "しにくい",
+    "gloss": [
+      "hard to do"
+    ]
+  },
+  {
+    "count": 1,
+    "reading": "読みにくい 【よみにくい】",
+    "gloss": [
+      "hard to read; illegible"
+    ]
+  },
+  {
+    "count": 1,
+    "reading": "還元 【かんげん】",
+    "gloss": [
+      "restoration; return",
+      "reduction; resolution; deoxidization; deoxidation"
+    ]
+  },
+  {
+    "count": 1,
+    "reading": "高い 【たかい】",
+    "gloss": [
+      "high; tall",
+      "expensive; high-priced",
+      "high (level); above average (in degree, quality, etc.)",
+      "loud",
+      "high-pitched; shrill"
+    ]
+  },
+  {
+    "count": 1,
+    "reading": "エフェクト",
+    "gloss": [
+      "effect"
+    ]
+  },
+  {
+    "count": 1,
+    "reading": "甘さ 【あまさ】"
+  },
+  {
+    "count": 1,
+    "reading": "出てけ 【でてけ】"
+  },
+  {
+    "count": 1,
+    "reading": "ねー"
+  },
+  {
+    "count": 1,
+    "reading": "カヤ",
+    "gloss": [
+      "kaya (Torreya nucifera); Japanese nutmeg tree"
+    ]
+  },
+  {
+    "count": 1,
+    "reading": "涼しい 【すずしい】",
+    "gloss": [
+      "cool; refreshing",
+      "clear (e.g. eyes); bright",
+      "clear; distinct",
+      "composed (facial expression); unruffled; unconcerned",
+      "pure; upright; innocent"
+    ]
+  },
+  {
+    "count": 1,
+    "reading": "部屋 【へや】",
+    "gloss": [
+      "room; chamber",
+      "apartment; flat; pad",
+      "stable"
+    ]
+  },
+  {
+    "count": 1,
+    "reading": "カタカタ",
+    "gloss": [
+      "clattering; rattling"
+    ]
+  },
+  {
+    "count": 1,
+    "reading": "カタ"
+  },
+  {
+    "count": 1,
+    "reading": "書きやがって 【かきやがって】"
+  },
+  {
+    "count": 1,
+    "reading": "でもないでしょ"
+  },
+  {
+    "count": 1,
+    "reading": "本名 【ほんみょう】",
+    "gloss": [
+      "real name"
+    ]
+  },
+  {
+    "count": 1,
+    "reading": "口座番号 【こうざばんごう】",
+    "gloss": [
+      "account number (bank, etc.)"
+    ]
+  },
+  {
+    "count": 1,
+    "reading": "なぜか",
+    "gloss": [
+      "somehow; for some reason; without knowing why"
+    ]
+  },
+  {
+    "count": 1,
+    "reading": "戻りたい 【もどりたい】"
+  },
+  {
+    "count": 1,
+    "reading": "やってる"
+  },
+  {
+    "count": 1,
+    "reading": "わけ",
+    "gloss": [
+      "conclusion from reasoning, judgement or calculation based on something read or heard; reason; cause; meaning; circumstances; situation"
+    ]
+  },
+  {
+    "count": 1,
+    "reading": "両立させたい 【りょうりつ させたい】"
+  },
+  {
+    "count": 1,
+    "reading": "戻りたくないです 【もどりたくない です】"
+  },
+  {
+    "count": 1,
+    "reading": "戻りたくないです 【もどりたくないです】"
+  },
+  {
+    "count": 1,
+    "reading": "当然 【とうぜん】",
+    "gloss": [
+      "natural; right; proper; just; reasonable; appropriate; deserved",
+      "naturally; as a matter of course; rightly; deservedly; justly; of course"
+    ]
+  },
+  {
+    "count": 1,
+    "reading": "されてない"
+  },
+  {
+    "count": 1,
+    "reading": "身を守る 【みをまもる】",
+    "gloss": [
+      "to defend oneself; to protect oneself"
+    ]
+  },
+  {
+    "count": 1,
+    "reading": "頭いい 【あたまいい】",
+    "gloss": [
+      "bright; intelligent"
+    ]
+  },
+  {
+    "count": 1,
+    "reading": "ガチる"
+  },
+  {
+    "count": 1,
+    "reading": "言ってて 【いってて】"
+  },
+  {
+    "count": 1,
+    "reading": "捨てる 【すてる】"
+  },
+  {
+    "count": 1,
+    "reading": "全員 【ぜんいん】",
+    "gloss": [
+      "all members; all hands; everyone; everybody; whole crew"
+    ]
+  },
+  {
+    "count": 1,
+    "reading": "お星様 【おほしさま】",
+    "gloss": [
+      "star"
+    ]
+  },
+  {
+    "count": 1,
+    "reading": "付いてる 【ついてる】"
+  },
+  {
+    "count": 1,
+    "reading": "信用してた 【しんよう してた】"
+  },
+  {
+    "count": 1,
+    "reading": "コチトラ",
+    "gloss": [
+      "I; we"
+    ]
+  },
+  {
+    "count": 1,
+    "reading": "謝ってない 【あやまってない】"
+  },
+  {
+    "count": 1,
+    "reading": "二羽 【にわ】",
+    "gloss": [
+      "counter for birds, rabbits, etc."
+    ]
+  },
+  {
+    "count": 1,
+    "reading": "思ってたら 【おもってたら】"
+  },
+  {
+    "count": 1,
+    "reading": "さんなん",
+    "gloss": [
+      "three sons",
+      "third son"
+    ]
+  },
+  {
+    "count": 1,
+    "reading": "ブロックされる"
+  },
+  {
+    "count": 1,
+    "reading": "要する 【ようする】"
+  },
+  {
+    "count": 1,
+    "reading": "見てた 【みてた】"
+  },
+  {
+    "count": 1,
+    "reading": "最後 【さいご】",
+    "gloss": [
+      "end; conclusion",
+      "last; final; latest; most recent",
+      "no sooner than; once; right after (often having negative consequences)",
+      "one's final moments"
+    ]
+  },
+  {
+    "count": 1,
+    "reading": "閉じちゃった 【とじちゃった】"
+  },
+  {
+    "count": 1,
+    "reading": "記者会見 【きしゃかいけん】",
+    "gloss": [
+      "press conference; news conference"
+    ]
+  },
+  {
+    "count": 1,
+    "reading": "やってた"
+  },
+  {
+    "count": 1,
+    "reading": "無駄 【むだ】",
+    "gloss": [
+      "futility; waste; uselessness; pointlessness; idleness"
+    ]
+  },
+  {
+    "count": 1,
+    "reading": "めでたい",
+    "gloss": [
+      "happy; auspicious; propitious; joyous",
+      "naive"
+    ]
+  },
+  {
+    "count": 1,
+    "reading": "振る 【ふる】"
+  },
+  {
+    "count": 1,
+    "reading": "あいつ",
+    "gloss": [
+      "he; she; that guy",
+      "that; that one; that thing"
+    ]
+  },
+  {
+    "count": 1,
+    "reading": "横 【よこ】",
+    "gloss": [
+      "horizontal (as opposed to vertical); lying down",
+      "side-to-side (as opposed to front-to-back); width; breadth",
+      "side (of a box, etc.)",
+      "beside; aside; next to",
+      "unconnected"
+    ]
+  },
+  {
+    "count": 1,
+    "reading": "米 【こめ】",
+    "gloss": [
+      "(husked grains of) rice",
+      "staple (product, etc.); necessity"
+    ]
+  },
+  {
+    "count": 1,
+    "reading": "パクってる"
+  },
+  {
+    "count": 1,
+    "reading": "岐阜 【ぎふ】",
+    "gloss": [
+      "Gifu Prefecture",
+      "Gifu (city), Gifu Prefecture"
+    ]
+  },
+  {
+    "count": 1,
+    "reading": "いきなり",
+    "gloss": [
+      "abruptly; suddenly; all of a sudden; without warning"
+    ]
+  },
+  {
+    "count": 1,
+    "reading": "くんない",
+    "gloss": [
+      "won't do (for me)"
+    ]
+  },
+  {
+    "count": 1,
+    "reading": "身代金 【みのしろきん】",
+    "gloss": [
+      "ransom"
+    ]
+  },
+  {
+    "count": 1,
+    "reading": "払ってて 【はらってて】"
+  },
+  {
+    "count": 1,
+    "reading": "執拗い 【しつこい】"
+  },
+  {
+    "count": 1,
+    "reading": "連絡しなかった 【れんらく しなかった】"
+  },
+  {
+    "count": 1,
+    "reading": "アパギー"
+  },
+  {
+    "count": 1,
+    "reading": "含む 【ふくむ】"
+  },
+  {
+    "count": 1,
+    "reading": "フォーム",
+    "gloss": [
+      "form"
+    ]
+  },
+  {
+    "count": 1,
+    "reading": "やってくれない"
+  },
+  {
+    "count": 1,
+    "reading": "一位 【いちい】",
+    "gloss": [
+      "first place; first rank",
+      "units position (of a number)"
+    ]
+  },
+  {
+    "count": 1,
+    "reading": "20万円 【にじゅうまんえん】",
+    "gloss": [
+      "yen (Japanese monetary unit)"
+    ]
+  },
+  {
+    "count": 1,
+    "reading": "実害 【じつがい】",
+    "gloss": [
+      "real harm; actual damage"
+    ]
+  },
+  {
+    "count": 1,
+    "reading": "えぇ"
+  },
+  {
+    "count": 1,
+    "reading": "相談 【そうだん】",
+    "gloss": [
+      "consultation; discussion; discussing; asking (someone) for advice"
+    ]
+  },
+  {
+    "count": 1,
+    "reading": "逮捕されない 【たいほ されない】"
+  },
+  {
+    "count": 1,
+    "reading": "最終手段 【さいしゅうしゅだん】",
+    "gloss": [
+      "last resort"
+    ]
+  },
+  {
+    "count": 1,
+    "reading": "信じてた 【しんじてた】"
+  },
+  {
+    "count": 1,
+    "reading": "ログインしたかった"
+  },
+  {
+    "count": 1,
+    "reading": "交番 【こうばん】",
+    "gloss": [
+      "police box; koban; small neighborhood police station",
+      "alternation",
+      "alternating (current, stress, etc.)"
+    ]
+  },
+  {
+    "count": 1,
+    "reading": "なんです",
+    "gloss": [
+      "it is assuredly that ...; can say with confidence that ..."
+    ]
+  },
+  {
+    "count": 1,
+    "reading": "わかってなくて"
+  },
+  {
+    "count": 1,
+    "reading": "撮ってる 【とってる】"
+  },
+  {
+    "count": 1,
+    "reading": "相談した 【そうだん した】"
+  },
+  {
+    "count": 1,
+    "reading": "犯人 【はんにん】",
+    "gloss": [
+      "offender; criminal; culprit"
+    ]
+  },
+  {
+    "count": 1,
+    "reading": "じゃ無い 【じゃない】"
+  },
+  {
+    "count": 1,
+    "reading": "追われてたり 【おわれてたり】"
+  },
+  {
+    "count": 1,
+    "reading": "心配してくれた 【しんぱい して くれた】"
+  },
+  {
+    "count": 1,
+    "reading": "誤解して 【ごかい して】"
+  },
+  {
+    "count": 1,
+    "reading": "ストーカー",
+    "gloss": [
+      "stalker"
+    ]
+  },
+  {
+    "count": 1,
+    "reading": "思ってて 【おもってて】"
+  },
+  {
+    "count": 1,
+    "reading": "心配してきてくれた 【しんぱい してきて くれた】"
+  },
+  {
+    "count": 1,
+    "reading": "集団 【しゅうだん】",
+    "gloss": [
+      "group; mass"
+    ]
+  },
+  {
+    "count": 1,
+    "reading": "生る 【なる】"
+  },
+  {
+    "count": 1,
+    "reading": "概念 【がいねん】",
+    "gloss": [
+      "general idea; concept; notion"
+    ]
+  },
+  {
+    "count": 1,
+    "reading": "僕たち 【ぼくたち】",
+    "gloss": [
+      "we"
+    ]
+  },
+  {
+    "count": 1,
+    "reading": "話す 【はなす】"
+  },
+  {
+    "count": 1,
+    "reading": "やっぱ",
+    "gloss": [
+      "too; also; likewise; either",
+      "still; as before",
+      "even so; either way; nonetheless; in any event; all the same",
+      "as expected"
+    ]
+  },
+  {
+    "count": 1,
+    "reading": "面白がってきた 【おもしろがってきた】"
+  },
+  {
+    "count": 1,
+    "reading": "いたらしい"
+  },
+  {
+    "count": 1,
+    "reading": "何だっけ 【なんだっけ】",
+    "gloss": [
+      "what is it?"
+    ]
+  },
+  {
+    "count": 1,
+    "reading": "わか"
+  },
+  {
+    "count": 1,
+    "reading": "若い 【わかい】"
+  },
+  {
+    "count": 1,
+    "reading": "ないよう",
+    "gloss": [
+      "contents; content; substance; matter; detail; import"
+    ]
+  },
+  {
+    "count": 1,
+    "reading": "覚える 【おぼえる】"
+  },
+  {
+    "count": 1,
+    "reading": "司祭 【しさい】",
+    "gloss": [
+      "priest; minister; pastor"
+    ]
+  },
+  {
+    "count": 1,
+    "reading": "99"
+  },
+  {
+    "count": 1,
+    "reading": "おの",
+    "gloss": [
+      "axe; ax; hatchet"
+    ]
+  },
+  {
+    "count": 1,
+    "reading": "減ってて 【へってて】"
+  },
+  {
+    "count": 1,
+    "reading": "っな"
+  },
+  {
+    "count": 1,
+    "reading": "っこ"
+  },
+  {
+    "count": 1,
+    "reading": "おに",
+    "gloss": [
+      "ogre; demon; oni",
+      "spirit of a deceased person",
+      "ogre-like person (i.e. fierce, relentless, merciless, etc.)",
+      "it (in a game of tag, hide-and-seek, etc.)",
+      "very; extremely; super-"
+    ]
+  },
+  {
+    "count": 1,
+    "reading": "凸する 【とつする】"
+  },
+  {
+    "count": 1,
+    "reading": "わからん",
+    "gloss": [
+      "I don't know; I don't understand"
+    ]
+  },
+  {
+    "count": 1,
+    "reading": "買う 【かう】"
+  },
+  {
+    "count": 1,
+    "reading": "金 【きん】"
+  },
+  {
+    "count": 1,
+    "reading": "金 【かね】"
+  },
+  {
+    "count": 1,
+    "reading": "歩いてる 【あるいてる】"
+  },
+  {
+    "count": 1,
+    "reading": "素晴らしい 【すばらしい】",
+    "gloss": [
+      "wonderful; splendid; magnificent"
+    ]
+  },
+  {
+    "count": 1,
+    "reading": "送ってもらって 【おくって もらって】"
+  },
+  {
+    "count": 1,
+    "reading": "その後 【そのあと】",
+    "gloss": [
+      "after that; afterwards; thereafter"
+    ]
+  },
+  {
+    "count": 1,
+    "reading": "凸 【とつ】"
+  },
+  {
+    "count": 1,
+    "reading": "凸 【でこ】"
+  },
+  {
+    "count": 1,
+    "reading": "事にする 【ことにする】"
+  },
+  {
+    "count": 1,
+    "reading": "居る 【おる】"
+  },
+  {
+    "count": 1,
+    "reading": "企画力 【きかくりょく】",
+    "gloss": [
+      "ability to make plans; planning ability"
+    ]
+  },
+  {
+    "count": 1,
+    "reading": "してない"
+  },
+  {
+    "count": 1,
+    "reading": "さらに",
+    "gloss": [
+      "furthermore; again; after all; more and more; moreover; even more"
+    ]
+  },
+  {
+    "count": 1,
+    "reading": "バツ",
+    "gloss": [
+      "x (mark); cross",
+      "MDMA; ecstasy; molly"
+    ]
+  },
+  {
+    "count": 1,
+    "reading": "大手 【おおて】",
+    "gloss": [
+      "major company; big company",
+      "front castle gate",
+      "force attacking the front of a castle"
+    ]
+  },
+  {
+    "count": 1,
+    "reading": "掛かってる 【かかってる】"
+  },
+  {
+    "count": 1,
+    "reading": "続く 【つづく】"
+  },
+  {
+    "count": 1,
+    "reading": "フォト",
+    "gloss": [
+      "photo"
+    ]
+  },
+  {
+    "count": 1,
+    "reading": "カー",
+    "gloss": [
+      "car"
+    ]
+  },
+  {
+    "count": 1,
+    "reading": "乗り心地 【のりごこち】",
+    "gloss": [
+      "one's feeling while riding; comfort (of a vehicle); ride quality"
+    ]
+  },
+  {
+    "count": 1,
+    "reading": "タバコ",
+    "gloss": [
+      "tobacco; cigarette; cigar",
+      "tobacco plant (Nicotiana tabacum)"
+    ]
+  },
+  {
+    "count": 1,
+    "reading": "エロい",
+    "gloss": [
+      "erotic; pornographic; obscene",
+      "perverted; horny; dirty"
+    ]
+  },
+  {
+    "count": 1,
+    "reading": "せっかく",
+    "gloss": [
+      "with trouble; at great pains",
+      "rare; valuable; precious; long-awaited",
+      "kind; generous",
+      "specially; especially; expressly"
+    ]
+  },
+  {
+    "count": 1,
+    "reading": "やりたかった"
+  },
+  {
+    "count": 1,
+    "reading": "入ってなかった 【はいってなかった】"
+  },
+  {
+    "count": 1,
+    "reading": "入ってなかった 【いってなかった】"
+  },
+  {
+    "count": 1,
+    "reading": "今から 【いまから】",
+    "gloss": [
+      "from now; from the present moment; from this time forward; henceforth"
+    ]
+  },
+  {
+    "count": 1,
+    "reading": "予定 【よてい】",
+    "gloss": [
+      "plans; arrangement; schedule; program; programme; expectation; estimate"
+    ]
+  },
+  {
+    "count": 1,
+    "reading": "プール",
+    "gloss": [
+      "(swimming) pool",
+      "pool (billiards)",
+      "pool (together)"
+    ]
+  },
+  {
+    "count": 1,
+    "reading": "水 【みず】",
+    "gloss": [
+      "water (esp. cool, fresh water, e.g. drinking water)",
+      "fluid (esp. in an animal tissue); liquid",
+      "flood; floodwaters",
+      "water offered to wrestlers just prior to a bout",
+      "break granted to wrestlers engaged in a prolonged bout"
+    ]
+  },
+  {
+    "count": 1,
+    "reading": "替わる 【かわる】"
+  },
+  {
+    "count": 1,
+    "reading": "替わり 【かわり】"
+  },
+  {
+    "count": 1,
+    "reading": "追いかける 【おいかける】"
+  },
+  {
+    "count": 1,
+    "reading": "できなくなっちゃった"
+  },
+  {
+    "count": 1,
+    "reading": "間違う 【まちがう】"
+  },
+  {
+    "count": 1,
+    "reading": "エラー",
+    "gloss": [
+      "error"
+    ]
+  },
+  {
+    "count": 1,
+    "reading": "出る 【でる】"
+  },
+  {
+    "count": 1,
+    "reading": "送信しました 【そうしん しました】"
+  },
+  {
+    "count": 1,
+    "reading": "承認 【しょうにん】",
+    "gloss": [
+      "recognition; acknowledgement; acknowledgment; approval; consent; agreement"
+    ]
+  },
+  {
+    "count": 1,
+    "reading": "なんとかかんとか",
+    "gloss": [
+      "something or other; somehow"
+    ]
+  },
+  {
+    "count": 1,
+    "reading": "待ってた 【まってた】"
+  },
+  {
+    "count": 1,
+    "reading": "姉ちゃん 【ねえちゃん】",
+    "gloss": [
+      "(one's) older sister; (one's) elder sister",
+      "girl"
+    ]
+  },
+  {
+    "count": 1,
+    "reading": "迷惑 【めいわく】",
+    "gloss": [
+      "trouble; bother; annoyance; nuisance; inconvenience",
+      "to be troubled (by); to be bothered (by); to be inconvenienced (by)"
+    ]
+  },
+  {
+    "count": 1,
+    "reading": "そうだ",
+    "gloss": [
+      "that is so; that is right; it looks to me; that's my impression",
+      "people say that; it is said that; I hear that"
+    ]
+  },
+  {
+    "count": 1,
+    "reading": "ようになってたら"
+  },
+  {
+    "count": 1,
+    "reading": "まま",
+    "gloss": [
+      "as (it is); remaining (in a state); keeping (the same); leaving (unchanged)",
+      "with (e.g. one's eyes closed, the light on); while (e.g. standing, alive); as",
+      "as (one pleases, one is told, etc.); according to"
+    ]
+  },
+  {
+    "count": 1,
+    "reading": "俺 【おれ】",
+    "gloss": [
+      "I; me"
+    ]
+  },
+  {
+    "count": 1,
+    "reading": "疑う 【うたがう】"
+  },
+  {
+    "count": 1,
+    "reading": "届いてなくて 【とどいてなくて】"
+  },
+  {
+    "count": 1,
+    "reading": "ボタン",
+    "gloss": [
+      "button (clothing)",
+      "push-button; button"
+    ]
+  },
+  {
+    "count": 1,
+    "reading": "ポチ",
+    "gloss": [
+      "lackey; minion; sycophant; errand boy"
+    ]
+  },
+  {
+    "count": 1,
+    "reading": "コメ",
+    "gloss": [
+      "comment (on a website, etc.)"
+    ]
+  },
+  {
+    "count": 1,
+    "reading": "稼ぐ 【かせぐ】",
+    "gloss": [
+      "earnings"
+    ]
+  },
+  {
+    "count": 1,
+    "reading": "遅い 【おそい】",
+    "gloss": [
+      "slow; time-consuming; sluggish",
+      "late (in the day); towards the end (of the day or night); until a time far into the day or night",
+      "later (than expected or usual); late; behind schedule; behind time; tardy; overdue; unpunctual",
+      "too late; having missed the boat",
+      "dull; stupid"
+    ]
+  },
+  {
+    "count": 1,
+    "reading": "運営 【うんえい】",
+    "gloss": [
+      "management; administration; operation"
+    ]
+  },
+  {
+    "count": 1,
+    "reading": "混み合ってる 【こみあってる】"
+  },
+  {
+    "count": 1,
+    "reading": "伝達してこない 【でんたつ してこない】"
+  },
+  {
+    "count": 1,
+    "reading": "投稿 【とうこう】",
+    "gloss": [
+      "contribution (to a newspaper, magazine, etc.); submission; post (on a blog, social media, etc.)"
+    ]
+  },
+  {
+    "count": 1,
+    "reading": "間違ってない 【まちがってない】"
+  },
+  {
+    "count": 1,
+    "reading": "安心して 【あんしん して】"
+  },
+  {
+    "count": 1,
+    "reading": "ヤフー",
+    "gloss": [
+      "Yahoo!"
+    ]
+  },
+  {
+    "count": 1,
+    "reading": "アップル",
+    "gloss": [
+      "apple"
+    ]
+  },
+  {
+    "count": 1,
+    "reading": "えー"
+  },
+  {
+    "count": 1,
+    "reading": "30分 【さんじゅっぷん】",
+    "gloss": [
+      "minute (unit of time)",
+      "fun (one tenth of a monme, 5.787 grains)"
+    ]
+  },
+  {
+    "count": 1,
+    "reading": "もしかしたら",
+    "gloss": [
+      "perhaps; maybe; perchance; by some chance; by any chance"
+    ]
+  },
+  {
+    "count": 1,
+    "reading": "あのー"
+  },
+  {
+    "count": 1,
+    "reading": "配信しないで 【はいしん しないで】"
+  },
+  {
+    "count": 1,
+    "reading": "やってたら"
+  },
+  {
+    "count": 1,
+    "reading": "あっこ",
+    "gloss": [
+      "there; over there; that place; yonder; you-know-where",
+      "that far; that much; that point"
+    ]
+  },
+  {
+    "count": 1,
+    "reading": "れ"
+  },
+  {
+    "count": 1,
+    "reading": "時間の問題 【じかんのもんだい】",
+    "gloss": [
+      "matter of time; question of time"
+    ]
+  },
+  {
+    "count": 1,
+    "reading": "メンテ",
+    "gloss": [
+      "maintenance"
+    ]
+  },
+  {
+    "count": 1,
+    "reading": "プレ",
+    "gloss": [
+      "pre-"
+    ]
+  },
+  {
+    "count": 1,
+    "reading": "役 【やく】",
+    "gloss": [
+      "role; assignment; responsibility; duty; function; job; service",
+      "position (of responsibility); post; office",
+      "part (in a play, film, etc.); role; character",
+      "scoring combination; hand; yaku; meld"
+    ]
+  },
+  {
+    "count": 1,
+    "reading": "切れてた 【きれてた】"
+  },
+  {
+    "count": 1,
+    "reading": "頑固 【がんこ】",
+    "gloss": [
+      "stubborn; obstinate; pigheaded"
+    ]
+  },
+  {
+    "count": 1,
+    "reading": "これこそ",
+    "gloss": [
+      "this (very thing); this precisely"
+    ]
+  },
+  {
+    "count": 1,
+    "reading": "積み上げる 【つみあげる】"
+  },
+  {
+    "count": 1,
+    "reading": "ぶっ壊す 【ぶっこわす】"
+  },
+  {
+    "count": 1,
+    "reading": "コミュ",
+    "gloss": [
+      "community",
+      "communication"
+    ]
+  },
+  {
+    "count": 1,
+    "reading": "おしゃべりしてる"
+  },
+  {
+    "count": 1,
+    "reading": "楽しんでる 【たのしんでる】"
+  },
+  {
+    "count": 1,
+    "reading": "言わす 【いわす】",
+    "gloss": [
+      "to get someone to say; to make someone say",
+      "to let someone say; to let someone speak out",
+      "to make a sound"
+    ]
+  },
+  {
+    "count": 1,
+    "reading": "ぞニコ"
+  },
+  {
+    "count": 1,
+    "reading": "何分 【なにぶん】",
+    "gloss": [
+      "some; any; (a) little; of some kind; of some sort",
+      "please",
+      "anyway; anyhow; at any rate; after all"
+    ]
+  },
+  {
+    "count": 1,
+    "reading": "何日 【なんにち】",
+    "gloss": [
+      "what day",
+      "how many days"
+    ]
+  },
+  {
+    "count": 1,
+    "reading": "置いていい 【おいて いい】"
+  },
+  {
+    "count": 1,
+    "reading": "明日 【あした】",
+    "gloss": [
+      "tomorrow",
+      "near future"
+    ]
+  },
+  {
+    "count": 1,
+    "reading": "持っちゃったら 【もっちゃったら】"
+  },
+  {
+    "count": 1,
+    "reading": "なっちゃう"
+  },
+  {
+    "count": 1,
+    "reading": "申し訳ない 【もうしわけない】",
+    "gloss": [
+      "I'm sorry; (it's) inexcusable; I feel regretful; I feel guilty",
+      "thank you very much (for help, etc.)"
+    ]
+  },
+  {
+    "count": 1,
+    "reading": "笑ってる 【わらってる】"
+  },
+  {
+    "count": 1,
+    "reading": "入れてって 【はいれてって】"
+  },
+  {
+    "count": 1,
+    "reading": "入れてって 【いれてって】"
+  },
+  {
+    "count": 1,
+    "reading": "ついてても"
+  },
+  {
+    "count": 1,
+    "reading": "小分けした 【こわけ した】"
+  },
+  {
+    "count": 1,
+    "reading": "入らないです 【はいらない です】"
+  },
+  {
+    "count": 1,
+    "reading": "入らないです 【いらない です】"
+  },
+  {
+    "count": 1,
+    "reading": "2日目 【ふつかめ】",
+    "gloss": [
+      "counter for days"
+    ]
+  },
+  {
+    "count": 1,
+    "reading": "食べてる 【たべてる】"
+  },
+  {
+    "count": 1,
+    "reading": "触れても 【さわれても】"
+  },
+  {
+    "count": 1,
+    "reading": "触れても 【ふれても】"
+  },
+  {
+    "count": 1,
+    "reading": "あかん",
+    "gloss": [
+      "useless; no good; hopeless",
+      "cannot; must not; not allowed"
+    ]
+  },
+  {
+    "count": 1,
+    "reading": "時点 【じてん】",
+    "gloss": [
+      "point in time; occasion"
+    ]
+  },
+  {
+    "count": 1,
+    "reading": "野菜 【やさい】",
+    "gloss": [
+      "vegetable"
+    ]
+  },
+  {
+    "count": 1,
+    "reading": "入れてたら 【はいれてたら】"
+  },
+  {
+    "count": 1,
+    "reading": "入れてたら 【いれてたら】"
+  },
+  {
+    "count": 1,
+    "reading": "玉ねぎ 【たまねぎ】",
+    "gloss": [
+      "onion (Allium cepa)"
+    ]
+  },
+  {
+    "count": 1,
+    "reading": "豚肉 【ぶたにく】",
+    "gloss": [
+      "pork"
+    ]
+  },
+  {
+    "count": 1,
+    "reading": "冬 【ふゆ】",
+    "gloss": [
+      "winter"
+    ]
+  },
+  {
+    "count": 1,
+    "reading": "生えてても 【はえてても】"
+  },
+  {
+    "count": 1,
+    "reading": "気づかなく 【きづかなく】"
+  },
+  {
+    "count": 1,
+    "reading": "普段 【ふだん】",
+    "gloss": [
+      "usual; normal; everyday; habitual; ordinary",
+      "usually; normally; generally; habitually; always"
+    ]
+  },
+  {
+    "count": 1,
+    "reading": "置いてて 【おいてて】"
+  },
+  {
+    "count": 1,
+    "reading": "そこら辺 【そこらへん】",
+    "gloss": [
+      "hereabouts; around there; that area"
+    ]
+  },
+  {
+    "count": 1,
+    "reading": "置いといたら 【おいといたら】"
+  },
+  {
+    "count": 1,
+    "reading": "入れてなくて 【はいれてなくて】"
+  },
+  {
+    "count": 1,
+    "reading": "入れてなくて 【いれてなくて】"
+  },
+  {
+    "count": 1,
+    "reading": "通常通り 【つうじょうどおり】",
+    "gloss": [
+      "as usual"
+    ]
+  },
+  {
+    "count": 1,
+    "reading": "脳みそ 【のうみそ】",
+    "gloss": [
+      "brains; brain tissue"
+    ]
+  },
+  {
+    "count": 1,
+    "reading": "スーパー",
+    "gloss": [
+      "supermarket",
+      "subtitles; telop",
+      "superheterodyne",
+      "super"
+    ]
+  },
+  {
+    "count": 1,
+    "reading": "開封してない 【かいふう してない】"
+  },
+  {
+    "count": 1,
+    "reading": "言いたい 【いいたい】"
+  },
+  {
+    "count": 1,
+    "reading": "チュー"
+  },
+  {
+    "count": 1,
+    "reading": "してたら"
+  },
+  {
+    "count": 1,
+    "reading": "う"
+  },
+  {
+    "count": 1,
+    "reading": "焼く 【やく】"
+  },
+  {
+    "count": 1,
+    "reading": "ところから",
+    "gloss": [
+      "from the place (where)",
+      "from the fact that ...; caused by the fact that ...; because"
+    ]
+  },
+  {
+    "count": 1,
+    "reading": "繁殖して 【はんしょく して】"
+  },
+  {
+    "count": 1,
+    "reading": "雑菌 【ざっきん】",
+    "gloss": [
+      "microorganisms; saprophyte; saprophytic bacteria"
+    ]
+  },
+  {
+    "count": 1,
+    "reading": "繁殖する 【はんしょく する】"
+  },
+  {
+    "count": 1,
+    "reading": "空気汚染 【くうきおせん】",
+    "gloss": [
+      "air pollution"
+    ]
+  },
+  {
+    "count": 1,
+    "reading": "真空 【しんくう】",
+    "gloss": [
+      "vacuum; hollow; empty"
+    ]
+  },
+  {
+    "count": 1,
+    "reading": "状態 【じょうたい】",
+    "gloss": [
+      "state; condition; situation; appearance; circumstances"
+    ]
+  },
+  {
+    "count": 1,
+    "reading": "真空パック 【しんくうパック】",
+    "gloss": [
+      "vacuum pack; vacuum packing"
+    ]
+  },
+  {
+    "count": 1,
+    "reading": "腐ってる 【くさってる】"
+  },
+  {
+    "count": 1,
+    "reading": "人生 【じんせい】",
+    "gloss": [
+      "(one's) life"
+    ]
+  },
+  {
+    "count": 1,
+    "reading": "一人暮らし 【ひとりぐらし】",
+    "gloss": [
+      "living by oneself; living alone"
+    ]
+  },
+  {
+    "count": 1,
+    "reading": "いつ",
+    "gloss": [
+      "when; at what time; how soon",
+      "normal times; ordinary days"
+    ]
+  },
+  {
+    "count": 1,
+    "reading": "イメージ",
+    "gloss": [
+      "image (in one's mind); impression; imagining; mental image; (forming a) mental picture",
+      "(computer) image",
+      "depiction (e.g. of a product); rendition; impression"
+    ]
+  },
+  {
+    "count": 1,
+    "reading": "消費期限 【しょうひきげん】",
+    "gloss": [
+      "expiry date (esp. on food); expiration date; use-by date"
+    ]
+  },
+  {
+    "count": 1,
+    "reading": "マヨラー",
+    "gloss": [
+      "mayonnaise lover"
+    ]
+  },
+  {
+    "count": 1,
+    "reading": "何にでも 【なんにでも】",
+    "gloss": [
+      "everything; for (to) everything; (in) anything"
+    ]
+  },
+  {
+    "count": 1,
+    "reading": "調べる 【しらべる】"
+  },
+  {
+    "count": 1,
+    "reading": "当てはまる 【あてはまる】"
+  },
+  {
+    "count": 1,
+    "reading": "1"
+  },
+  {
+    "count": 1,
+    "reading": "中 【じゅう】"
+  },
+  {
+    "count": 1,
+    "reading": "過ぎる 【すぎる】"
+  },
+  {
+    "count": 1,
+    "reading": "コロナ",
+    "gloss": [
+      "corona",
+      "coronavirus",
+      "COVID-19"
+    ]
+  },
+  {
+    "count": 1,
+    "reading": "医者 【いしゃ】",
+    "gloss": [
+      "doctor; physician"
+    ]
+  },
+  {
+    "count": 1,
+    "reading": "嘘つき 【うそつき】",
+    "gloss": [
+      "liar; fibber",
+      "lying"
+    ]
+  },
+  {
+    "count": 1,
+    "reading": "割いてくれた 【さいて くれた】"
+  },
+  {
+    "count": 1,
+    "reading": "未知の領域 【みちのりょういき】",
+    "gloss": [
+      "uncharted territory; unknown waters; unfamiliar terrain"
+    ]
+  },
+  {
+    "count": 1,
+    "reading": "行 【ぎょう】",
+    "gloss": [
+      "line (of text); row; verse",
+      "carya (austerities)",
+      "samskara (formations)",
+      "semi-cursive style (of writing Chinese characters); running style"
+    ]
+  },
+  {
+    "count": 1,
+    "reading": "ニュース",
+    "gloss": [
+      "news"
+    ]
+  },
+  {
+    "count": 1,
+    "reading": "売る 【うる】"
+  },
+  {
+    "count": 1,
+    "reading": "撃つ 【うつ】"
+  },
+  {
+    "count": 1,
+    "reading": "討つ 【うつ】"
+  },
+  {
+    "count": 1,
+    "reading": "注射 【ちゅうしゃ】",
+    "gloss": [
+      "injection; jab; shot"
+    ]
+  },
+  {
+    "count": 1,
+    "reading": "切り傷 【きりきず】",
+    "gloss": [
+      "cut; gash; incision"
+    ]
+  },
+  {
+    "count": 1,
+    "reading": "念 【ねん】",
+    "gloss": [
+      "sense; idea; thought; feeling",
+      "desire; concern",
+      "attention; care"
+    ]
+  },
+  {
+    "count": 1,
+    "reading": "我慢できる 【がまん できる】"
+  },
+  {
+    "count": 1,
+    "reading": "鈍い 【にぶい】"
+  },
+  {
+    "count": 1,
+    "reading": "鈍い 【のろい】"
+  },
+  {
+    "count": 1,
+    "reading": "裂く 【さく】",
+    "gloss": [
+      "to tear; to rip up",
+      "to cut up; to cleave; to cut open (esp. the abdomen)",
+      "to forcibly separate (e.g. two lovers)",
+      "to have a tattoo in the corner of one's eye"
+    ]
+  },
+  {
+    "count": 1,
+    "reading": "体験した 【たいけん した】"
+  },
+  {
+    "count": 1,
+    "reading": "ことはない",
+    "gloss": [
+      "there is no need to ...",
+      "never happens; there is never a time when"
+    ]
+  },
+  {
+    "count": 1,
+    "reading": "耐える 【たえる】"
+  },
+  {
+    "count": 1,
+    "reading": "検査した 【けんさ した】"
+  },
+  {
+    "count": 1,
+    "reading": "ノロウイルス",
+    "gloss": [
+      "norovirus"
+    ]
+  },
+  {
+    "count": 1,
+    "reading": "うう"
+  },
+  {
+    "count": 1,
+    "reading": "綿棒 【めんぼう】",
+    "gloss": [
+      "cotton swab"
+    ]
+  },
+  {
+    "count": 1,
+    "reading": "喉 【のど】",
+    "gloss": [
+      "throat",
+      "singing voice",
+      "gutter (inner margins of a book)"
+    ]
+  },
+  {
+    "count": 1,
+    "reading": "ううっみ"
+  },
+  {
+    "count": 1,
+    "reading": "穴 【あな】",
+    "gloss": [
+      "hole; opening; orifice; perforation",
+      "pit; hollow; cavity; hole (e.g. in the ground)",
+      "burrow; den; lair; holt; hole",
+      "deficit; shortage; (financial) hole; loss",
+      "gap (left by a missing employee, team member, etc.); vacancy; opening",
+      "flaw; fault; defect; weak point; hole (in a theory, plan, etc.); loophole",
+      "good place not many people know about; well-kept secret",
+      "upset victory (with a large payoff); long shot; dark horse",
+      "(partitioned) box (type of floor seating in a traditional Japanese theatre)",
+      "hiding place; hideout"
+    ]
+  },
+  {
+    "count": 1,
+    "reading": "割いてくれ 【さいて くれ】"
+  },
+  {
+    "count": 1,
+    "reading": "割く 【さく】"
+  },
+  {
+    "count": 1,
+    "reading": "行ってない 【おこなってない】"
+  },
+  {
+    "count": 1,
+    "reading": "行ってない 【いってない】"
+  },
+  {
+    "count": 1,
+    "reading": "何なのか 【なんなのか】",
+    "gloss": [
+      "what is it (that); the meaning of something; what something is about"
+    ]
+  },
+  {
+    "count": 1,
+    "reading": "風邪 【かぜ】",
+    "gloss": [
+      "(common) cold; influenza; flu; ague; inflammatory respiratory system illness (in general)"
+    ]
+  },
+  {
+    "count": 1,
+    "reading": "ではある",
+    "gloss": [
+      "to be (in contrast to something that is not the case)"
+    ]
+  },
+  {
+    "count": 1,
+    "reading": "ラチオウツコ"
+  },
+  {
+    "count": 1,
+    "reading": "女子会 【じょしかい】",
+    "gloss": [
+      "girls-only gathering"
+    ]
+  },
+  {
+    "count": 1,
+    "reading": "頼んでた 【たのんでた】"
+  },
+  {
+    "count": 1,
+    "reading": "こうやって",
+    "gloss": [
+      "thus; in this way"
+    ]
+  },
+  {
+    "count": 1,
+    "reading": "構える 【かまえる】"
+  },
+  {
+    "count": 1,
+    "reading": "涙 【なみだ】",
+    "gloss": [
+      "tear; tears; lachrymal secretion",
+      "sympathy"
+    ]
+  },
+  {
+    "count": 1,
+    "reading": "流す 【ながす】",
+    "gloss": [
+      "sink (e.g. in a kitchen)",
+      "cruising (e.g. taxi); strolling (entertainer, musician, etc.)",
+      "washing area (in a Japanese-style bath)",
+      "back-washing service (in a public bath)",
+      "floating (something on water); setting adrift; washing away"
+    ]
+  },
+  {
+    "count": 1,
+    "reading": "祈ってた 【いのってた】"
+  },
+  {
+    "count": 1,
+    "reading": "うわぁ"
+  },
+  {
+    "count": 1,
+    "reading": "同志 【どうし】",
+    "gloss": [
+      "like-mindedness; (being of the) same mind; shared sentiment",
+      "comrade; fellow; kindred soul"
+    ]
+  },
+  {
+    "count": 1,
+    "reading": "もうすぐ",
+    "gloss": [
+      "soon; shortly; before long; nearly; almost"
+    ]
+  },
+  {
+    "count": 1,
+    "reading": "飲んでた 【のんでた】"
+  },
+  {
+    "count": 1,
+    "reading": "鳥肌 【とりはだ】",
+    "gloss": [
+      "gooseflesh; goose pimples; goose bumps"
+    ]
+  },
+  {
+    "count": 1,
+    "reading": "アルコール",
+    "gloss": [
+      "alcohol",
+      "alcoholic drink; alcohol",
+      "(alcohol-based) hand sanitizer"
+    ]
+  },
+  {
+    "count": 1,
+    "reading": "消毒 【しょうどく】",
+    "gloss": [
+      "disinfection; sterilization; sterilisation"
+    ]
+  },
+  {
+    "count": 1,
+    "reading": "意思 【いし】",
+    "gloss": [
+      "intention; wish; purpose; mind (to do)"
+    ]
+  },
+  {
+    "count": 1,
+    "reading": "トラウマ",
+    "gloss": [
+      "trauma (usu. psychological)"
+    ]
+  },
+  {
+    "count": 1,
+    "reading": "毎日 【まいにち】",
+    "gloss": [
+      "every day"
+    ]
+  },
+  {
+    "count": 1,
+    "reading": "ゲロる"
+  },
+  {
+    "count": 1,
+    "reading": "去る 【さる】"
+  },
+  {
+    "count": 1,
+    "reading": "あんまり",
+    "gloss": [
+      "(not) very; (not) much",
+      "too much; excessively; overly",
+      "extreme; great; severe; tremendous; terrible"
+    ]
+  },
+  {
+    "count": 1,
+    "reading": "鮮明 【せんめい】",
+    "gloss": [
+      "vivid; clear; distinct"
+    ]
+  },
+  {
+    "count": 1,
+    "reading": "経験を得る 【けいけんをえる】"
+  },
+  {
+    "count": 1,
+    "reading": "美しい 【うつくしい】",
+    "gloss": [
+      "beautiful; pretty; lovely; sweet; pure (heart, friendship, etc.)"
+    ]
+  },
+  {
+    "count": 1,
+    "reading": "経験する 【けいけん する】"
+  },
+  {
+    "count": 1,
+    "reading": "雑い 【ざつい】",
+    "gloss": [
+      "rough; crude; sloppy; messy",
+      "miscellaneous"
+    ]
+  },
+  {
+    "count": 1,
+    "reading": "盛り上がる 【もりあがる】",
+    "gloss": [
+      "to swell; to rise; to bulge; to be piled up",
+      "to rouse; to get excited"
+    ]
+  },
+  {
+    "count": 1,
+    "reading": "ぞって"
+  },
+  {
+    "count": 1,
+    "reading": "どこか",
+    "gloss": [
+      "somewhere",
+      "in some respects; in some way"
+    ]
+  },
+  {
+    "count": 1,
+    "reading": "働いてないでしょ 【はたらいてない でしょ】"
+  },
+  {
+    "count": 1,
+    "reading": "こんなに",
+    "gloss": [
+      "so; like this; in this way"
+    ]
+  },
+  {
+    "count": 1,
+    "reading": "頭の悪い 【あたまのわるい】",
+    "gloss": [
+      "slow; weak-headed"
+    ]
+  },
+  {
+    "count": 1,
+    "reading": "働いてる 【はたらいてる】"
+  },
+  {
+    "count": 1,
+    "reading": "おはよう",
+    "gloss": [
+      "good morning"
+    ]
+  },
+  {
+    "count": 1,
+    "reading": "働く 【はたらく】"
+  },
+  {
+    "count": 1,
+    "reading": "働いてない 【はたらいてない】"
+  },
+  {
+    "count": 1,
+    "reading": "チャリ",
+    "gloss": [
+      "bicycle"
+    ]
+  },
+  {
+    "count": 1,
+    "reading": "電車 【でんしゃ】",
+    "gloss": [
+      "train; electric train"
+    ]
+  },
+  {
+    "count": 1,
+    "reading": "千円 【せんえん】",
+    "gloss": [
+      "1000 yen"
+    ]
+  },
+  {
+    "count": 1,
+    "reading": "倍 【ばい】",
+    "gloss": [
+      "double; twice (as much)",
+      "times (as much); -fold",
+      "1-nth; 1 to n; 1 in n"
+    ]
+  },
+  {
+    "count": 1,
+    "reading": "ゼロ",
+    "gloss": [
+      "zero; 0; nought; nil",
+      "nothing; zilch"
+    ]
+  },
+  {
+    "count": 1,
+    "reading": "足りる 【たりる】",
+    "gloss": [
+      "insufficient; not enough; lacking",
+      "dim-witted; slow; one brick short of a full load"
+    ]
+  },
+  {
+    "count": 1,
+    "reading": "お疲れ様 【おつかれさま】",
+    "gloss": [
+      "thank you (for your hard work); good work",
+      "see you; goodbye; goodnight"
+    ]
+  },
+  {
+    "count": 1,
+    "reading": "命 【いのち】",
+    "gloss": [
+      "life; life force",
+      "lifetime; lifespan",
+      "most important thing; foundation; core",
+      "paired tattoos of the \"life\" kanji on the upper arms of a man and woman (indicating unwavering love)",
+      "fate; destiny; karma"
+    ]
+  },
+  {
+    "count": 1,
+    "reading": "賭ける 【かける】"
+  },
+  {
+    "count": 1,
+    "reading": "駆ける 【かける】"
+  },
+  {
+    "count": 1,
+    "reading": "掻く 【かく】"
+  },
+  {
+    "count": 1,
+    "reading": "欠ける 【かける】"
+  },
+  {
+    "count": 1,
+    "reading": "欠く 【かく】"
+  },
+  {
+    "count": 1,
+    "reading": "一週間 【いっしゅうかん】",
+    "gloss": [
+      "one week"
+    ]
+  },
+  {
+    "count": 1,
+    "reading": "食う 【くう】",
+    "gloss": [
+      "to eat",
+      "to live; to make a living; to survive",
+      "to bite; to sting (as insects do)",
+      "to tease; to torment; to taunt; to make light of; to make fun of",
+      "to encroach on; to eat into; to consume",
+      "to defeat a superior; to threaten a position",
+      "to consume time and-or resources",
+      "to receive something (usu. an unfavourable event)",
+      "to have sexual relations with a woman, esp. for the first time"
+    ]
+  },
+  {
+    "count": 1,
+    "reading": "ルー",
+    "gloss": [
+      "roux",
+      "(Japanese) curry sauce"
+    ]
+  },
+  {
+    "count": 1,
+    "reading": "温める 【あたためる】",
+    "gloss": [
+      "to warm (up); to heat (up)",
+      "to sit on (an idea, plan, etc.); to keep to oneself; to nurse; to mull over",
+      "to renew (an old friendship)",
+      "to take for oneself"
+    ]
+  },
+  {
+    "count": 1,
+    "reading": "下痢 【げり】",
+    "gloss": [
+      "diarrhea; diarrhoea"
+    ]
+  },
+  {
+    "count": 1,
+    "reading": "難しい 【むずかしい】"
+  },
+  {
+    "count": 1,
+    "reading": "下痢する 【げり する】"
+  },
+  {
+    "count": 1,
+    "reading": "募集しろ 【ぼしゅう しろ】"
+  },
+  {
+    "count": 1,
+    "reading": "すると",
+    "gloss": [
+      "thereupon; hereupon"
+    ]
+  },
+  {
+    "count": 1,
+    "reading": "空く 【すく】"
+  },
+  {
+    "count": 1,
+    "reading": "食べてない 【たべてない】"
+  },
+  {
+    "count": 1,
+    "reading": "さあ",
+    "gloss": [
+      "come (on); come now; come along; here",
+      "all right; right; okay; now; here goes",
+      "well; hmm; uh; let's see; I'm not sure",
+      "here; now; there (we go); ah; oh",
+      "about that, ...; actually, ..."
+    ]
+  },
+  {
+    "count": 1,
+    "reading": "頻度 【ひんど】",
+    "gloss": [
+      "frequency (of occurrence)"
+    ]
+  },
+  {
+    "count": 1,
+    "reading": "ガタ落ちしそう 【ガタおち しそう】"
+  },
+  {
+    "count": 1,
+    "reading": "全い 【まったい】",
+    "gloss": [
+      "really; truly; entirely; completely; wholly; perfectly",
+      "indeed",
+      "good grief"
+    ]
+  },
+  {
+    "count": 1,
+    "reading": "企画しない 【きかく しない】"
+  },
+  {
+    "count": 1,
+    "reading": "そうすると",
+    "gloss": [
+      "having done that; if that is done; if it is done in that way"
+    ]
+  },
+  {
+    "count": 1,
+    "reading": "嫌になってく 【いやになってく】"
+  },
+  {
+    "count": 1,
+    "reading": "義務 【ぎむ】",
+    "gloss": [
+      "duty; obligation; responsibility"
+    ]
+  },
+  {
+    "count": 1,
+    "reading": "楽しむ 【たのしむ】"
+  },
+  {
+    "count": 1,
+    "reading": "大切 【たいせつ】",
+    "gloss": [
+      "important; significant; serious; crucial",
+      "precious; valuable; dear; cherished; beloved",
+      "careful"
+    ]
+  },
+  {
+    "count": 1,
+    "reading": "失う 【うしなう】"
+  },
+  {
+    "count": 1,
+    "reading": "気分 【きぶん】",
+    "gloss": [
+      "feeling; mood"
+    ]
+  },
+  {
+    "count": 1,
+    "reading": "気になってなかった 【きになってなかった】"
+  },
+  {
+    "count": 1,
+    "reading": "見てくれてる 【みて くれてる】"
+  },
+  {
+    "count": 1,
+    "reading": "ツイ",
+    "gloss": [
+      "Twitter",
+      "tweet"
+    ]
+  },
+  {
+    "count": 1,
+    "reading": "感覚 【かんかく】",
+    "gloss": [
+      "sense; sensation; feeling; intuition"
+    ]
+  },
+  {
+    "count": 1,
+    "reading": "もういい",
+    "gloss": [
+      "skip it; drop it",
+      "I've had enough (e.g. when offered something); that's enough"
+    ]
+  },
+  {
+    "count": 1,
+    "reading": "言われちゃう 【いわれちゃう】"
+  },
+  {
+    "count": 1,
+    "reading": "楽 【らく】",
+    "gloss": [
+      "comfort; ease; relief; (at) peace; relaxation",
+      "easy; simple; without trouble; without hardships",
+      "(economically) comfortable",
+      "raku pottery",
+      "sukha (happiness)"
+    ]
+  },
+  {
+    "count": 1,
+    "reading": "喋ってる 【しゃべってる】"
+  },
+  {
+    "count": 1,
+    "reading": "これから",
+    "gloss": [
+      "from now on; after this; in the future; in future",
+      "from here; from this point"
+    ]
+  },
+  {
+    "count": 1,
+    "reading": "一十百千万 【ひゃくおく】"
+  },
+  {
+    "count": 1,
+    "reading": "一万円 【いちまんえん】",
+    "gloss": [
+      "10,000 yen"
+    ]
+  },
+  {
+    "count": 1,
+    "reading": "となる",
+    "gloss": [
+      "to become; to be"
+    ]
+  },
+  {
+    "count": 1,
+    "reading": "元気出して 【げんきだして】",
+    "gloss": [
+      "keep up your strength; chin up!"
+    ]
+  },
+  {
+    "count": 1,
+    "reading": "練る 【ねる】"
+  },
+  {
+    "count": 1,
+    "reading": "一万人 【いちまんにん】",
+    "gloss": [
+      "counter for people"
+    ]
+  },
+  {
+    "count": 1,
+    "reading": "一応 【いちおう】",
+    "gloss": [
+      "more or less; though not quite satisfactorily; after a fashion; pretty much; roughly; so far as it goes; technically",
+      "tentatively; for the time being",
+      "just in case",
+      "once"
+    ]
+  },
+  {
+    "count": 1,
+    "reading": "教える 【おしえる】"
+  },
+  {
+    "count": 1,
+    "reading": "段階 【だんかい】",
+    "gloss": [
+      "stage; step; phase",
+      "level; rank; grade; gradation",
+      "order",
+      "stairs"
+    ]
+  },
+  {
+    "count": 1,
+    "reading": "入れても 【はいれても】"
+  },
+  {
+    "count": 1,
+    "reading": "入れても 【いれても】"
+  },
+  {
+    "count": 1,
+    "reading": "太さ 【ふとさ】"
+  },
+  {
+    "count": 1,
+    "reading": "直 【じき】"
+  },
+  {
+    "count": 1,
+    "reading": "直 【ちょく】"
+  },
+  {
+    "count": 1,
+    "reading": "連絡する 【れんらく する】"
+  },
+  {
+    "count": 1,
+    "reading": "苦手 【にがて】",
+    "gloss": [
+      "poor (at); weak (in); not very good (at)",
+      "not one's cup of tea; not one's favorite"
+    ]
+  },
+  {
+    "count": 1,
+    "reading": "ようになってた"
+  },
+  {
+    "count": 1,
+    "reading": "やってみる",
+    "gloss": [
+      "to have a go; to try and do (something); to take a chance with something"
+    ]
+  },
+  {
+    "count": 1,
+    "reading": "人間 【にんげん】",
+    "gloss": [
+      "human being; human; person; man; mankind; humankind",
+      "character (of a person)"
+    ]
+  },
+  {
+    "count": 1,
+    "reading": "生配信 【なまはいしん】",
+    "gloss": [
+      "live (internet) broadcast; live stream"
+    ]
+  },
+  {
+    "count": 1,
+    "reading": "持ってける 【もってける】"
+  },
+  {
+    "count": 1,
+    "reading": "持ってきたい 【もってきたい】"
+  },
+  {
+    "count": 1,
+    "reading": "昨日 【きのう】",
+    "gloss": [
+      "yesterday"
+    ]
+  },
+  {
+    "count": 1,
+    "reading": "持ってく 【もってく】"
+  },
+  {
+    "count": 1,
+    "reading": "サバイバル",
+    "gloss": [
+      "survival"
+    ]
+  },
+  {
+    "count": 1,
+    "reading": "ナイフ",
+    "gloss": [
+      "knife"
+    ]
+  },
+  {
+    "count": 1,
+    "reading": "持っていきたい 【もっていきたい】"
+  },
+  {
+    "count": 1,
+    "reading": "路上 【ろじょう】",
+    "gloss": [
+      "on the road; on the street; in the street",
+      "on the way"
+    ]
+  },
+  {
+    "count": 1,
+    "reading": "草むら 【くさむら】",
+    "gloss": [
+      "the grass; grassy place (esp. with long dense grass)"
+    ]
+  },
+  {
+    "count": 1,
+    "reading": "生活 【せいかつ】",
+    "gloss": [
+      "life; living",
+      "livelihood; (one's) living"
+    ]
+  },
+  {
+    "count": 1,
+    "reading": "カニ",
+    "gloss": [
+      "crab"
+    ]
+  },
+  {
+    "count": 1,
+    "reading": "手掴み 【てづかみ】",
+    "gloss": [
+      "grasping (with one's bare hands); holding; grabbing; seizing; catching"
+    ]
+  },
+  {
+    "count": 1,
+    "reading": "炙ってた 【あぶってた】"
+  },
+  {
+    "count": 1,
+    "reading": "スタイル",
+    "gloss": [
+      "(one's) figure; build; physique; shape",
+      "style"
+    ]
+  },
+  {
+    "count": 1,
+    "reading": "知らない 【しらない】"
+  },
+  {
+    "count": 1,
+    "reading": "切れ 【ぎれ】"
+  },
+  {
+    "count": 1,
+    "reading": "ゴキブリ",
+    "gloss": [
+      "cockroach"
+    ]
+  },
+  {
+    "count": 1,
+    "reading": "掴む 【つかむ】",
+    "gloss": [
+      "to seize; to catch; to grasp; to grip; to grab; to clutch; to hold; to catch hold of; to lay one's hands on",
+      "to obtain; to acquire; to get; to win; to capture",
+      "to understand; to grasp; to comprehend"
+    ]
+  },
+  {
+    "count": 1,
+    "reading": "シュールストレミング",
+    "gloss": [
+      "surströmming; Swedish dish of fermented herring"
+    ]
+  },
+  {
+    "count": 1,
+    "reading": "缶詰 【かんづめ】",
+    "gloss": [
+      "canned food; tinned food",
+      "confining someone (e.g. so they can concentrate on work)",
+      "being stuck in a confined space"
+    ]
+  },
+  {
+    "count": 1,
+    "reading": "平気 【へいき】",
+    "gloss": [
+      "cool; calm; composed; unconcerned; nonchalant; unmoved; indifferent",
+      "all right; fine; OK; okay"
+    ]
+  },
+  {
+    "count": 1,
+    "reading": "チャレンジする"
+  },
+  {
+    "count": 1,
+    "reading": "優れてる 【すぐれてる】"
+  },
+  {
+    "count": 1,
+    "reading": "あんな",
+    "gloss": [
+      "that sort of; that kind of; like that; such; so"
+    ]
+  },
+  {
+    "count": 1,
+    "reading": "信じてもらえない 【しんじて もらえない】"
+  },
+  {
+    "count": 1,
+    "reading": "昔 【むかし】",
+    "gloss": [
+      "the old days; the past; former times; a long time ago",
+      "the past ten years; the past decade"
+    ]
+  },
+  {
+    "count": 1,
+    "reading": "隣町 【となりまち】",
+    "gloss": [
+      "neighboring town; neighbouring town; adjacent town"
+    ]
+  },
+  {
+    "count": 1,
+    "reading": "起きてる 【おきてる】"
+  },
+  {
+    "count": 1,
+    "reading": "日 【ひ】"
+  },
+  {
+    "count": 1,
+    "reading": "日 【にち】"
+  },
+  {
+    "count": 1,
+    "reading": "全焼 【ぜんしょう】",
+    "gloss": [
+      "total destruction by fire; being burned down"
+    ]
+  },
+  {
+    "count": 1,
+    "reading": "真っ黒い 【まっくろい】",
+    "gloss": [
+      "pitch black"
+    ]
+  },
+  {
+    "count": 1,
+    "reading": "焦げる 【こげる】",
+    "gloss": [
+      "scorching; scorch; burn",
+      "scorched rice (at the bottom of the pot); crispy rice; crunchy rice",
+      "part of ceramic glaze that has become dark or darkish-brown during firing"
+    ]
+  },
+  {
+    "count": 1,
+    "reading": "感じがする 【かんじがする】",
+    "gloss": [
+      "to have a feeling (that); to have a sensation (that)"
+    ]
+  },
+  {
+    "count": 1,
+    "reading": "うんこ",
+    "gloss": [
+      "poop; poo; faeces; feces",
+      "crap; trash; garbage"
+    ]
+  },
+  {
+    "count": 1,
+    "reading": "漏らしてた 【もらしてた】"
+  },
+  {
+    "count": 1,
+    "reading": "嘘 【うそ】",
+    "gloss": [
+      "lie; fib; falsehood; untruth",
+      "mistake; error",
+      "unwise move; bad decision",
+      "no way!; unbelievable!; really?!"
+    ]
+  },
+  {
+    "count": 1,
+    "reading": "炭 【すみ】",
+    "gloss": [
+      "charcoal",
+      "charred remains"
+    ]
+  },
+  {
+    "count": 1,
+    "reading": "治"
+  },
+  {
+    "count": 1,
+    "reading": "特技 【とくぎ】",
+    "gloss": [
+      "special skill"
+    ]
+  },
+  {
+    "count": 1,
+    "reading": "ケーキ",
+    "gloss": [
+      "cake"
+    ]
+  },
+  {
+    "count": 1,
+    "reading": "分離できる 【ぶんり できる】"
+  },
+  {
+    "count": 1,
+    "reading": "話にならない 【はなしにならない】",
+    "gloss": [
+      "not worth considering; out of the question"
+    ]
+  },
+  {
+    "count": 1,
+    "reading": "例えば 【たとえば】",
+    "gloss": [
+      "for example; for instance; e.g."
+    ]
+  },
+  {
+    "count": 1,
+    "reading": "スパイス",
+    "gloss": [
+      "spice"
+    ]
+  },
+  {
+    "count": 1,
+    "reading": "予想できる 【よそう できる】"
+  },
+  {
+    "count": 1,
+    "reading": "生姜焼き 【しょうがやき】",
+    "gloss": [
+      "pork fried with ginger"
+    ]
+  },
+  {
+    "count": 1,
+    "reading": "粗挽き 【あらびき】",
+    "gloss": [
+      "coarsely ground (e.g. coffee, grain); minced (e.g. meat)"
+    ]
+  },
+  {
+    "count": 1,
+    "reading": "ポン酢 【ポンず】",
+    "gloss": [
+      "juice pressed from a bitter orange",
+      "ponzu (Japanese sauce made primarily of soy sauce and citrus juice)"
+    ]
+  },
+  {
+    "count": 1,
+    "reading": "ラーメン屋 【ラーメンや】",
+    "gloss": [
+      "ramen restaurant; noodle restaurant"
+    ]
+  },
+  {
+    "count": 1,
+    "reading": "スープ",
+    "gloss": [
+      "(Western) soup"
+    ]
+  },
+  {
+    "count": 1,
+    "reading": "真似できる 【まね できる】"
+  },
+  {
+    "count": 1,
+    "reading": "こういう",
+    "gloss": [
+      "such; this sort of; like this"
+    ]
+  },
+  {
+    "count": 1,
+    "reading": "言葉にする 【ことばにする】",
+    "gloss": [
+      "to put into words; to give expression (to); to state"
+    ]
+  },
+  {
+    "count": 1,
+    "reading": "むずい",
+    "gloss": [
+      "difficult"
+    ]
+  },
+  {
+    "count": 1,
+    "reading": "草 【くさ】",
+    "gloss": [
+      "grass; weed; herb; thatch",
+      "ninja",
+      "marijuana; cannabis",
+      "not genuine; substandard",
+      "LOL; haha"
+    ]
+  },
+  {
+    "count": 1,
+    "reading": "砂糖 【さとう】",
+    "gloss": [
+      "sugar"
+    ]
+  },
+  {
+    "count": 1,
+    "reading": "せ"
+  },
+  {
+    "count": 1,
+    "reading": "完璧 【かんぺき】",
+    "gloss": [
+      "perfect; complete; flawless"
+    ]
+  },
+  {
+    "count": 1,
+    "reading": "2回 【にかい】",
+    "gloss": [
+      "counter for occurrences"
+    ]
+  },
+  {
+    "count": 1,
+    "reading": "伸す 【のす】"
+  },
+  {
+    "count": 1,
+    "reading": "乗せる 【のせる】"
+  },
+  {
+    "count": 1,
+    "reading": "乗す 【のす】"
+  },
+  {
+    "count": 1,
+    "reading": "意味不 【いみふ】",
+    "gloss": [
+      "of uncertain meaning; ambiguous; cryptic; nonsensical; incomprehensible; perplexing"
+    ]
+  },
+  {
+    "count": 1,
+    "reading": "なすぎて"
+  },
+  {
+    "count": 1,
+    "reading": "切れそう 【きれそう】"
+  },
+  {
+    "count": 1,
+    "reading": "せう"
+  },
+  {
+    "count": 1,
+    "reading": "茹でる 【ゆでる】"
+  },
+  {
+    "count": 1,
+    "reading": "腹立つ 【はらだつ】"
+  },
+  {
+    "count": 1,
+    "reading": "させる"
+  },
+  {
+    "count": 1,
+    "reading": "さす"
+  },
+  {
+    "count": 1,
+    "reading": "うゆ"
+  },
+  {
+    "count": 1,
+    "reading": "言い換えてる 【いいかえてる】"
+  },
+  {
+    "count": 1,
+    "reading": "そ"
+  },
+  {
+    "count": 1,
+    "reading": "和 【わ】",
+    "gloss": [
+      "sum",
+      "harmony; peace",
+      "Japan; Japanese-style"
+    ]
+  },
+  {
+    "count": 1,
+    "reading": "不得意 【ふとくい】",
+    "gloss": [
+      "one's weak point"
+    ]
+  },
+  {
+    "count": 1,
+    "reading": "いよいよ",
+    "gloss": [
+      "more and more; all the more; increasingly",
+      "at last; finally; beyond doubt",
+      "(at the) last moment; worst possible time"
+    ]
+  },
+  {
+    "count": 1,
+    "reading": "食べたくても 【たべたくても】"
+  },
+  {
+    "count": 1,
+    "reading": "美味しい 【おいしい】",
+    "gloss": [
+      "good(-tasting); nice; delicious; tasty",
+      "attractive (offer, opportunity, etc.); appealing; convenient; favorable; desirable; profitable"
+    ]
+  },
+  {
+    "count": 1,
+    "reading": "英語 【えいご】",
+    "gloss": [
+      "English (language)"
+    ]
+  },
+  {
+    "count": 1,
+    "reading": "そういうことか",
+    "gloss": [
+      "I got it; I see; I now know; So that's the reason"
+    ]
+  },
+  {
+    "count": 1,
+    "reading": "なるほど",
+    "gloss": [
+      "I see; that's right; indeed"
+    ]
+  },
+  {
+    "count": 1,
+    "reading": "イングリッシュ",
+    "gloss": [
+      "English (language)",
+      "English"
+    ]
+  },
+  {
+    "count": 1,
+    "reading": "よく言う 【よくいう】",
+    "gloss": [
+      "to say enough (as much as required); to say plenty",
+      "to say well; to say cleverly; to say elegantly",
+      "to say often; to say frequently",
+      "to say without shame; to say impudently"
+    ]
+  },
+  {
+    "count": 1,
+    "reading": "言わないじゃ 【いわないじゃ】"
+  },
+  {
+    "count": 1,
+    "reading": "ハンバーガー",
+    "gloss": [
+      "hamburger (on a bun)"
+    ]
+  },
+  {
+    "count": 1,
+    "reading": "思い 【おもい】",
+    "gloss": [
+      "thought",
+      "imagination; mind; heart",
+      "desire; wish; hope; expectation",
+      "love; affection",
+      "feelings; emotion; sentiment; experience"
+    ]
+  },
+  {
+    "count": 1,
+    "reading": "浮かぶ 【うかぶ】"
+  },
+  {
+    "count": 1,
+    "reading": "アメリカ",
+    "gloss": [
+      "(United States of) America; United States; US; USA",
+      "America (land mass); the Americas"
+    ]
+  },
+  {
+    "count": 1,
+    "reading": "トリュフ",
+    "gloss": [
+      "truffle"
+    ]
+  },
+  {
+    "count": 1,
+    "reading": "フォアグラ",
+    "gloss": [
+      "foie gras"
+    ]
+  },
+  {
+    "count": 1,
+    "reading": "中卒 【ちゅうそつ】",
+    "gloss": [
+      "having graduated from junior high school (as one's highest completed level of education); having completed no schooling beyond junior high school; middle school graduate"
+    ]
+  },
+  {
+    "count": 1,
+    "reading": "合ってる 【あってる】"
+  },
+  {
+    "count": 1,
+    "reading": "自信 【じしん】",
+    "gloss": [
+      "self-confidence; confidence (in oneself)"
+    ]
+  },
+  {
+    "count": 1,
+    "reading": "ドラえもん",
+    "gloss": [
+      "Doraemon (manga by Fujiko F. Fujio; media franchise)"
+    ]
+  },
+  {
+    "count": 1,
+    "reading": "珍味 【ちんみ】",
+    "gloss": [
+      "delicacy; dainties"
+    ]
+  },
+  {
+    "count": 1,
+    "reading": "好む 【このむ】",
+    "gloss": [
+      "liking; taste; fancy; fondness",
+      "wish; desire; choice; preference"
+    ]
+  },
+  {
+    "count": 1,
+    "reading": "気がする 【きがする】",
+    "gloss": [
+      "to feel (as if); to have a feeling (that); to have a hunch (that); to get a sense (that)",
+      "to feel like doing; to want to do"
+    ]
+  },
+  {
+    "count": 1,
+    "reading": "うどん",
+    "gloss": [
+      "udon; thick Japanese wheat noodles"
+    ]
+  },
+  {
+    "count": 1,
+    "reading": "天ぷら 【てんぷら】",
+    "gloss": [
+      "tempura; deep-fried fish and vegetables in a light batter"
+    ]
+  },
+  {
+    "count": 1,
+    "reading": "ハンバーグ",
+    "gloss": [
+      "Hamburg steak; hamburger steak"
+    ]
+  },
+  {
+    "count": 1,
+    "reading": "ラーメン",
+    "gloss": [
+      "ramen; Chinese-style noodles"
+    ]
+  },
+  {
+    "count": 1,
+    "reading": "珍しい 【めずらしい】",
+    "gloss": [
+      "unusual; rare; curious",
+      "new; novel",
+      "fine (e.g. gift)"
+    ]
+  },
+  {
+    "count": 1,
+    "reading": "チンジャオロース",
+    "gloss": [
+      "Chinese-style stir-fry containing green peppers and meat; pepper steak (US)"
+    ]
+  },
+  {
+    "count": 1,
+    "reading": "でもいい"
+  },
+  {
+    "count": 1,
+    "reading": "それでも",
+    "gloss": [
+      "but (still); and yet; nevertheless; even so; notwithstanding"
+    ]
+  },
+  {
+    "count": 1,
+    "reading": "探してくれる 【さがして くれる】"
+  },
+  {
+    "count": 1,
+    "reading": "必ず 【かならず】",
+    "gloss": [
+      "always; without exception; necessarily; certainly; without fail; positively; invariably"
+    ]
+  },
+  {
+    "count": 1,
+    "reading": "始まる 【はじまる】",
+    "gloss": [
+      "to begin; to start; to commence",
+      "to happen (again); to begin (anew)",
+      "to date (from); to originate (in)"
+    ]
+  },
+  {
+    "count": 1,
+    "reading": "一連 【いちれん】",
+    "gloss": [
+      "series; chain; sequence",
+      "two reams (i.e. 1000 sheets of paper)",
+      "verse; stanza"
+    ]
+  },
+  {
+    "count": 1,
+    "reading": "返す 【かえす】"
+  },
+  {
+    "count": 1,
+    "reading": "今 【こん】"
+  },
+  {
+    "count": 1,
+    "reading": "どうにかして"
+  },
+  {
+    "count": 1,
+    "reading": "心配 【しんぱい】",
+    "gloss": [
+      "worry; concern; anxiety; uneasiness; fear",
+      "care; help; aid; assistance"
+    ]
+  },
+  {
+    "count": 1,
+    "reading": "返信してくれて 【へんしん して くれて】"
+  },
+  {
+    "count": 1,
+    "reading": "感動しました 【かんどう しました】"
+  },
+  {
+    "count": 1,
+    "reading": "こちらこそ",
+    "gloss": [
+      "it is I who should say so"
+    ]
+  },
+  {
+    "count": 1,
+    "reading": "どうにか",
+    "gloss": [
+      "in some way or other; one way or another; somehow; only just; barely"
+    ]
+  },
+  {
+    "count": 1,
+    "reading": "チ"
+  },
+  {
+    "count": 1,
+    "reading": "クラン",
+    "gloss": [
+      "clan"
+    ]
+  },
+  {
+    "count": 1,
+    "reading": "上げてくれて 【あげて くれて】"
+  },
+  {
+    "count": 1,
+    "reading": "見つかってくれない 【みつかって くれない】"
+  },
+  {
+    "count": 1,
+    "reading": "ツイートする"
+  },
+  {
+    "count": 1,
+    "reading": "とりあえず",
+    "gloss": [
+      "first of all; at once; right away",
+      "for now; for the time being"
+    ]
+  },
+  {
+    "count": 1,
+    "reading": "よっか",
+    "gloss": [
+      "4th day of the month",
+      "four days"
+    ]
+  },
+  {
+    "count": 1,
+    "reading": "怒る 【おこる】"
+  },
+  {
+    "count": 1,
+    "reading": "なってる"
+  },
+  {
+    "count": 1,
+    "reading": "リセットされた"
+  },
+  {
+    "count": 1,
+    "reading": "設定しなきゃ 【せってい しなきゃ】"
+  },
+  {
+    "count": 1,
+    "reading": "キャスミン"
+  },
+  {
+    "count": 1,
+    "reading": "ブロックしてください"
+  },
+  {
+    "count": 1,
+    "reading": "ぜひぜひ",
+    "gloss": [
+      "certainly; by all means"
+    ]
+  },
+  {
+    "count": 1,
+    "reading": "フォローしてくれる"
+  },
+  {
+    "count": 1,
+    "reading": "設定できない 【せってい できない】"
+  },
+  {
+    "count": 1,
+    "reading": "覚えてる 【おぼえてる】"
+  },
+  {
+    "count": 1,
+    "reading": "作り直す 【つくりなおす】"
+  },
+  {
+    "count": 1,
+    "reading": "めちゃくちゃ",
+    "gloss": [
+      "absurd; unreasonable; nonsensical; preposterous; incoherent",
+      "extreme; senseless; reckless; wanton",
+      "disorderly; chaotic; confused; messy",
+      "incredibly; really; so; super"
+    ]
+  },
+  {
+    "count": 1,
+    "reading": "持つ 【もつ】",
+    "gloss": [
+      "to hold (in one's hand); to take; to carry",
+      "to possess; to have; to own",
+      "to maintain; to keep",
+      "to last; to be durable; to keep; to survive",
+      "to take charge of; to be in charge of",
+      "to hold (meeting, etc.); to have (opportunity, etc.)",
+      "to have \"it\"; to have that special something; to be blessed with good luck"
+    ]
+  },
+  {
+    "count": 1,
+    "reading": "事になる 【ことになる】"
+  },
+  {
+    "count": 1,
+    "reading": "設定しない 【せってい しない】"
+  },
+  {
+    "count": 1,
+    "reading": "怒"
+  },
+  {
+    "count": 1,
+    "reading": "言っていい 【いって いい】"
+  },
+  {
+    "count": 1,
+    "reading": "寝ぼける 【ねぼける】",
+    "gloss": [
+      "being still half asleep; being half awake; being not yet quite awake"
+    ]
+  },
+  {
+    "count": 1,
+    "reading": "または",
+    "gloss": [
+      "or; either ... or ..."
+    ]
+  },
+  {
+    "count": 1,
+    "reading": "躾ける 【しつける】",
+    "gloss": [
+      "discipline; training; teaching manners"
+    ]
+  },
+  {
+    "count": 1,
+    "reading": "幼稚園児 【ようちえんじ】",
+    "gloss": [
+      "kindergartener; preschooler"
+    ]
+  },
+  {
+    "count": 1,
+    "reading": "何かと 【なにかと】",
+    "gloss": [
+      "one way or another; in many ways; in various ways"
+    ]
+  },
+  {
+    "count": 1,
+    "reading": "勘違いしてる 【かんちがい してる】"
+  },
+  {
+    "count": 1,
+    "reading": "間違いない 【まちがいない】",
+    "gloss": [
+      "certain; sure; no doubt",
+      "reliable; dependable"
+    ]
+  },
+  {
+    "count": 1,
+    "reading": "いい加減にする 【いいかげんにする】"
+  },
+  {
+    "count": 1,
+    "reading": "クソガキ",
+    "gloss": [
+      "stupid brat; son of a bitch"
+    ]
+  },
+  {
+    "count": 1,
+    "reading": "新 【しん】",
+    "gloss": [
+      "new; neo-",
+      "newness; novelty",
+      "Gregorian calendar",
+      "Xin dynasty (of China; 9-23 CE); Hsin dynasty"
+    ]
+  },
+  {
+    "count": 1,
+    "reading": "設定し 【せってい し】"
+  },
+  {
+    "count": 1,
+    "reading": "ないといけない",
+    "gloss": [
+      "have to (verb); must (verb)",
+      "is indispensable; absolutely necessary"
+    ]
+  },
+  {
+    "count": 1,
+    "reading": "設定してない 【せってい してない】"
+  },
+  {
+    "count": 1,
+    "reading": "リンク",
+    "gloss": [
+      "link; linking; linkage",
+      "link (on a website); hyperlink",
+      "(golf) links"
+    ]
+  },
+  {
+    "count": 1,
+    "reading": "最低 【さいてい】",
+    "gloss": [
+      "least; lowest; minimum",
+      "worst",
+      "awful; horrible; nasty; disgusting",
+      "at the very least"
+    ]
+  },
+  {
+    "count": 1,
+    "reading": "なんだって",
+    "gloss": [
+      "what?!; what did you say?!",
+      "why?; what for?; for what reason?",
+      "anyone; anything"
+    ]
+  },
+  {
+    "count": 1,
+    "reading": "設定した 【せってい した】"
+  },
+  {
+    "count": 1,
+    "reading": "全部 【ぜんぶ】",
+    "gloss": [
+      "all; entire; whole; altogether"
+    ]
+  },
+  {
+    "count": 1,
+    "reading": "アルファベット",
+    "gloss": [
+      "alphabet"
+    ]
+  },
+  {
+    "count": 1,
+    "reading": "ふざけんな",
+    "gloss": [
+      "stop messing around!; get real!; stop screwing around!; screw you!"
+    ]
+  },
+  {
+    "count": 1,
+    "reading": "入力した 【にゅうりょく した】"
+  },
+  {
+    "count": 1,
+    "reading": "かの",
+    "gloss": [
+      "that well-known ..."
+    ]
+  },
+  {
+    "count": 1,
+    "reading": "苛める 【いじめる】",
+    "gloss": [
+      "bullying; teasing"
+    ]
+  },
+  {
+    "count": 1,
+    "reading": "錯覚 【さっかく】",
+    "gloss": [
+      "optical illusion; hallucination",
+      "misapprehension; delusion"
+    ]
+  },
+  {
+    "count": 1,
+    "reading": "とさ",
+    "gloss": [
+      "apparently; from what I have heard; they say; you know; I hear"
+    ]
+  },
+  {
+    "count": 1,
+    "reading": "ほら",
+    "gloss": [
+      "look!; see!; here!; there!; hey!"
+    ]
+  },
+  {
+    "count": 1,
+    "reading": "カカカカカって"
+  },
+  {
+    "count": 1,
+    "reading": "勘弁 【かんべん】",
+    "gloss": [
+      "pardon; forgiveness; forbearance"
+    ]
+  },
+  {
+    "count": 1,
+    "reading": "カカ"
+  },
+  {
+    "count": 1,
+    "reading": "ちっちゃい",
+    "gloss": [
+      "tiny; little; wee"
+    ]
+  },
+  {
+    "count": 1,
+    "reading": "何にも 【なんにも】",
+    "gloss": [
+      "(not) anything; (nothing) at all; (not) any"
+    ]
+  },
+  {
+    "count": 1,
+    "reading": "違わないじゃ 【ちがわないじゃ】"
+  },
+  {
+    "count": 1,
+    "reading": "見た目 【みため】",
+    "gloss": [
+      "appearance; look"
+    ]
+  },
+  {
+    "count": 1,
+    "reading": "一緒 【いっしょ】",
+    "gloss": [
+      "together",
+      "at the same time",
+      "same; identical"
+    ]
+  },
+  {
+    "count": 1,
+    "reading": "本 【ほん】"
+  },
+  {
+    "count": 1,
+    "reading": "本 【もと】"
+  },
+  {
+    "count": 1,
+    "reading": "なってた"
+  },
+  {
+    "count": 1,
+    "reading": "実は 【じつ​‌は】",
+    "gloss": [
+      "as a matter of fact; by the way; to tell you the truth; to be honest; frankly"
+    ]
+  },
+  {
+    "count": 1,
+    "reading": "できてない"
+  },
+  {
+    "count": 1,
+    "reading": "はぁ"
+  },
+  {
+    "count": 1,
+    "reading": "ログインできる"
+  },
+  {
+    "count": 1,
+    "reading": "ちょっと見 【ちょっとみ】",
+    "gloss": [
+      "look; glance; (at first) sight"
+    ]
+  },
+  {
+    "count": 1,
+    "reading": "連携してた 【れんけい してた】"
+  },
+  {
+    "count": 1,
+    "reading": "そのまま",
+    "gloss": [
+      "without change; as is",
+      "just like; extremely similar",
+      "immediately; just after; without a pause"
+    ]
+  },
+  {
+    "count": 1,
+    "reading": "飛ぶ 【とぶ】"
+  },
+  {
+    "count": 1,
+    "reading": "ログインして"
+  },
+  {
+    "count": 1,
+    "reading": "ログインしても"
+  },
+  {
+    "count": 1,
+    "reading": "問題 【もんだい】",
+    "gloss": [
+      "question (e.g. on a test); problem",
+      "problem (e.g. societal, political); question; issue; subject (e.g. of research); case; matter",
+      "question (i.e. doubt)",
+      "public discussion; controversy",
+      "trouble; problem; inconvenience; difficulty"
+    ]
+  },
+  {
+    "count": 1,
+    "reading": "いやす",
+    "gloss": [
+      "to heal; to cure; to satisfy (e.g. hunger, thirst); to alleviate (e.g. sorrow, fatigue)"
+    ]
+  },
+  {
+    "count": 1,
+    "reading": "待ってます 【まってます】"
+  },
+  {
+    "count": 1,
+    "reading": "リプしてた"
+  },
+  {
+    "count": 1,
+    "reading": "見逃す 【みのがす】"
+  },
+  {
+    "count": 1,
+    "reading": "待っててください 【まってて ください】"
+  },
+  {
+    "count": 1,
+    "reading": "ばーい"
+  },
+  {
+    "count": 1,
+    "reading": "あキャスミン"
+  },
+  {
+    "count": 1,
+    "reading": "ありがとうございました",
+    "gloss": [
+      "thank you"
+    ]
+  }
+]
