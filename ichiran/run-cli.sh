@@ -1,0 +1,1 @@
+./ichiran-cli -f "$(cat textFile.txt)" | jq . > output.json
