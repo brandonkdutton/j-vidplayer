@@ -8,8 +8,9 @@
       "name": "Python Debugger: Current File",
       "type": "debugpy",
       "request": "launch",
-      "program": "ichiran/parse_ichiran.py",
-      "console": "integratedTerminal"
+      "program": "parse_srt_file.py",
+      "console": "integratedTerminal",
+      "cwd": "/Users/brandondutton/Documents/vidplayer/ichiran"
     }
   ]
 }

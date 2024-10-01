@@ -1,0 +1,4 @@
+pip install yt-dlp
+
+ffmpeg -i corrupted.mp4 -c copy -map 0 -movflags +faststart fixed.mp4
+ffmpeg -i input.mp4 -c copy -movflags +faststart output.mp4
