@@ -162,3 +162,9 @@ cython_debug/
 #.idea/
 
 dl
+ichiran-cli
+**.mp4
+**.srt
+**.subtitles
+**.json
+videos
