@@ -3,7 +3,7 @@
 import { Grid, Typography, Button, IconButton, styled } from "@mui/material";
 import { parse } from "@plussub/srt-vtt-parser";
 import { useState, useRef, ChangeEvent, useEffect } from "react";
-
+import Glossary from "./glossary";
 import FastForwardIcon from "@mui/icons-material/FastForward";
 import FastRewindIcon from "@mui/icons-material/FastRewind";
 import PauseIcon from "@mui/icons-material/Pause";
@@ -25,11 +25,18 @@ enum FileType {
   VID = "VID",
 }
 
+type Glossary = { reading: string; glossary: string }[];
+
+type SubTextGroup = {
+  from: number;
+  to: number;
+  text: string;
+  glossary: Glossary;
+};
+
 export default function Home() {
-  const [subText, setSubText] = useState<ReturnType<typeof parse>["entries"]>(
-    []
-  );
-  const [subLines, setSubLines] = useState<string>("subtitles");
+  const [subText, setSubText] = useState<SubTextGroup[]>([]);
+  const [subLines, setSubLines] = useState<[string, Glossary]>(["", []]);
   const [hideFileInputs, setHideFileInputs] = useState<boolean>(false);
   const [videoFile, setVideoFile] = useState<string>();
   const videoRef = useRef<HTMLVideoElement>(null);
@@ -47,10 +54,10 @@ export default function Home() {
         const newText = subText[m].text;
         found = true;
         setSubLines((old) => {
-          if (newText === old) {
+          if (newText === old[0]) {
             return old;
           }
-          return newText;
+          return [newText, subText[m].glossary];
         });
         break;
       } else if (time > subText[m].to) {
@@ -60,7 +67,7 @@ export default function Home() {
       }
     }
     if (!found) {
-      setSubLines("");
+      setSubLines(["", []]);
     }
   };
 
@@ -69,9 +76,35 @@ export default function Home() {
       value
         .text()
         .then((text) => {
-          const parsed = parse(text).entries;
-          setSubText(parsed);
-          console.log(parsed);
+          const textLines = text.split("\n");
+          const subTextGroups: SubTextGroup[] = [];
+          let group: Record<string, any> = {};
+          for (let i = 0; i < textLines.length; i++) {
+            const line = textLines[i];
+            switch (i % 4) {
+              case 0:
+                group.from = parseInt(line);
+                break;
+              case 1:
+                group.to = parseInt(line);
+                break;
+              case 2:
+                group.text = line;
+                break;
+              case 3:
+                group.glossary = JSON.parse(line);
+                group.glossary.sort(
+                  (a: any, b: any) => b.reading.length - a.reading.length
+                );
+
+                subTextGroups.push(group as SubTextGroup);
+                group = {};
+                break;
+            }
+          }
+
+          setSubText(subTextGroups);
+          console.log(subTextGroups);
         })
         .catch((e) => alert("error"));
     });
@@ -147,6 +180,7 @@ export default function Home() {
       container
       direction="column"
       alignItems="center"
+      spacing={2}
       justifyContent="space-between"
       sx={{ width: "100%", height: "100%", minHeight: "80vh" }}
     >
@@ -154,7 +188,7 @@ export default function Home() {
         <Grid item>
           <video
             id="video"
-            style={{ width: "100%" }}
+            style={{ width: "100%", maxHeight: 500 }}
             ref={videoRef}
             onTimeUpdate={() => onTimeUpdate()}
             webkit-playsinline
@@ -162,6 +196,7 @@ export default function Home() {
             autoPlay
             src={videoFile}
             controls
+            muted={false}
           />
         </Grid>
         <Grid
@@ -173,10 +208,11 @@ export default function Home() {
           spacing={1}
         >
           <Grid item>
-            <Typography sx={{ textAlign: "center" }}>{subLines}</Typography>
+            <Typography sx={{ textAlign: "center" }}>{subLines[0]}</Typography>
           </Grid>
         </Grid>
       </Grid>
+
       {!hideFileInputs && (
         <Grid item container justifyContent="space-evenly">
           <Grid item>
@@ -194,7 +230,7 @@ export default function Home() {
               Subtitles file
               <VisuallyHiddenInput
                 type="file"
-                accept=".srt"
+                accept=".subtitles"
                 onChange={(e) => handleFileChange(e as any, FileType.SUB)}
               />
             </Button>
@@ -222,6 +258,9 @@ export default function Home() {
             <FastForwardIcon fontSize="inherit" />
           </IconButton>
         </Grid>
+      </Grid>
+      <Grid item>
+        <Glossary glossary={subLines[1]} />
       </Grid>
     </Grid>
   );
