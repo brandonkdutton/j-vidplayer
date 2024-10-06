@@ -1,11 +1,15 @@
-def extract_conj(alts: list) -> list[tuple[str, str]]:
+def extract_conj(alts: list, use_first_alt: bool) -> list[tuple[str, str]]:
     keys = []
 
     for a in alts:
         text = a["text"]
         if not ("conj" in a and len(a["conj"]) > 0):
             keys.append((a["reading"], text))
-            continue
+
+            if use_first_alt:
+                return keys
+            else:
+                continue
 
         x = a["conj"]
 
@@ -16,10 +20,16 @@ def extract_conj(alts: list) -> list[tuple[str, str]]:
                 keys.extend([(x["reading"], text) for x in y["via"]])
             else:
                 raise ValueError("ooops")
+
+        if use_first_alt:
+            return keys
+
     return keys
 
 
-def handle_ichiran_parse(ichiran_json: list) -> list[tuple[str, str, str]]:
+def handle_ichiran_parse(
+    ichiran_json: list, use_first_alt=False, exclude_particles_and_copulas=False
+) -> list[tuple[str, str, str]]:
     mappings = []
 
     for p in ichiran_json:
@@ -27,40 +37,45 @@ def handle_ichiran_parse(ichiran_json: list) -> list[tuple[str, str, str]]:
             for x in p[0][0]:
                 data = x[1]
 
-                # try:
-                #     for gloss in data["gloss"]:
-                #         pos = gloss["pos"]
-                #         for s in ("prt", "suf", "cop", "cop-da"):
-                #             if s in pos:
-                #                 raise StopIteration()
-                # except (KeyError, IndexError):
-                #     pass
-                # except StopIteration:
-                #     continue
+                if exclude_particles_and_copulas:
+                    try:
+                        for gloss in data["gloss"]:
+                            pos = gloss["pos"]
+                            for s in ("prt", "suf", "cop", "cop-da"):
+                                if s in pos:
+                                    raise StopIteration()
+                    except (KeyError, IndexError):
+                        pass
+                    except StopIteration:
+                        continue
 
-                # try:
-                #     for conj in data["conj"]:
-                #         for prop in conj["prop"]:
-                #             pos = prop["pos"]
-                #             for s in ["cop"]:
-                #                 if s in pos:
-                #                     raise StopIteration()
-                # except (KeyError, IndexError):
-                #     pass
-                # except StopIteration:
-                #     continue
+                    try:
+                        for conj in data["conj"]:
+                            for prop in conj["prop"]:
+                                pos = prop["pos"]
+                                for s in ["cop"]:
+                                    if s in pos:
+                                        raise StopIteration()
+                    except (KeyError, IndexError):
+                        pass
+                    except StopIteration:
+                        continue
 
                 if "conj" in data and len(data["conj"]) > 0:
-                    entries = extract_conj([data])
+                    entries = extract_conj([data], use_first_alt)
                 elif "alternative" in data and "conj" in data["alternative"][0]:
-                    entries = extract_conj(data["alternative"])
+                    entries = extract_conj(data["alternative"], use_first_alt)
                 else:
                     try:
                         entries = [(data["reading"], data["text"])]
                     except KeyError:
-                        entries = [
-                            (x["reading"], x["text"]) for x in data["alternative"]
-                        ]
+                        if use_first_alt:
+                            x = data["alternative"][0]
+                            entries = [(x["reading"], x["text"])]
+                        else:
+                            entries = [
+                                (x["reading"], x["text"]) for x in data["alternative"]
+                            ]
                     except Exception:
                         print("ooops")
 
