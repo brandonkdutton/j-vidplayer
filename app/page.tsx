@@ -3,7 +3,7 @@
 import { Grid, Typography, Button, IconButton, styled } from "@mui/material";
 import { parse } from "@plussub/srt-vtt-parser";
 import { useState, useRef, ChangeEvent, useEffect } from "react";
-import Glossary from "./glossary";
+import ReadingsList, { Reading } from "./ReadingsList";
 import FastForwardIcon from "@mui/icons-material/FastForward";
 import FastRewindIcon from "@mui/icons-material/FastRewind";
 import PauseIcon from "@mui/icons-material/Pause";
@@ -25,18 +25,16 @@ enum FileType {
   VID = "VID",
 }
 
-type Glossary = { reading: string; glossary: string }[];
-
 type SubTextGroup = {
   from: number;
   to: number;
   text: string;
-  glossary: Glossary;
+  readings: Reading[];
 };
 
 export default function Home() {
   const [subText, setSubText] = useState<SubTextGroup[]>([]);
-  const [subLines, setSubLines] = useState<[string, Glossary]>(["", []]);
+  const [subLines, setSubLines] = useState<[string, Reading[]]>(["", []]);
   const [hideFileInputs, setHideFileInputs] = useState<boolean>(false);
   const [videoFile, setVideoFile] = useState<string>();
   const videoRef = useRef<HTMLVideoElement>(null);
@@ -57,7 +55,7 @@ export default function Home() {
           if (newText === old[0]) {
             return old;
           }
-          return [newText, subText[m].glossary];
+          return [newText, subText[m].readings];
         });
         break;
       } else if (time > subText[m].to) {
@@ -78,7 +76,8 @@ export default function Home() {
         .then((text) => {
           const textLines = text.split("\n");
           const subTextGroups: SubTextGroup[] = [];
-          let group: Record<string, any> = {};
+          let group: Partial<SubTextGroup> = {};
+
           for (let i = 0; i < textLines.length; i++) {
             const line = textLines[i];
             switch (i % 4) {
@@ -92,11 +91,7 @@ export default function Home() {
                 group.text = line;
                 break;
               case 3:
-                group.glossary = JSON.parse(line);
-                group.glossary.sort(
-                  (a: any, b: any) => b.reading.length - a.reading.length
-                );
-
+                group.readings = JSON.parse(line);
                 subTextGroups.push(group as SubTextGroup);
                 group = {};
                 break;
@@ -260,7 +255,7 @@ export default function Home() {
         </Grid>
       </Grid>
       <Grid item>
-        <Glossary glossary={subLines[1]} />
+        <ReadingsList readings={subLines[1]} />
       </Grid>
     </Grid>
   );
