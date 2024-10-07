@@ -1,7 +1,5 @@
 "use client";
 
-import type { Metadata } from "next";
-import { Inter } from "next/font/google";
 import { ThemeProvider, createTheme } from "@mui/material/styles";
 import CssBaseline from "@mui/material/CssBaseline";
 
@@ -18,10 +16,12 @@ export default function RootLayout({
 }>) {
   return (
     <html lang="en">
-      <body>
+      <body style={{ width: "100%", display: "inline-block" }}>
         <ThemeProvider theme={darkTheme}>
           <CssBaseline />
-          <main>{children}</main>
+          <main style={{ width: "100%", display: "inline-block" }}>
+            {children}
+          </main>
         </ThemeProvider>
       </body>
     </html>
