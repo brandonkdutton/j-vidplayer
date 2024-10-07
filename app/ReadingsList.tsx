@@ -1,11 +1,32 @@
-import { FC } from "react";
+"use client";
+
+import { FC, useState, useEffect } from "react";
 import Chip from "@mui/material/Chip";
-import { styled } from "@mui/material/styles";
-import List from "@mui/material/List";
-import ListItem from "@mui/material/ListItem";
-import ListItemText from "@mui/material/ListItemText";
 import Grid from "@mui/material/Grid";
-import Typography from "@mui/material/Typography";
+import { DateTime } from "luxon";
+
+const useIsTouchDevice = () => {
+  const [isTouchDevice, setIsTouchDevice] = useState(false);
+
+  useEffect(() => {
+    const checkTouchDevice = () => {
+      if ("ontouchstart" in window || navigator.maxTouchPoints > 0) {
+        setIsTouchDevice(true);
+      } else {
+        setIsTouchDevice(false);
+      }
+    };
+
+    checkTouchDevice();
+    window.addEventListener("resize", checkTouchDevice);
+
+    return () => {
+      window.removeEventListener("resize", checkTouchDevice);
+    };
+  }, []);
+
+  return isTouchDevice;
+};
 
 export type Reading = {
   indices: [number, number][];
@@ -15,10 +36,47 @@ export type Reading = {
 
 type Props = {
   readings: Reading[];
+  setSelectedIndices: (indices: [number, number][]) => void;
+  setSelectedKanji: (kanji: string) => void;
+  setJishoOpen: (open: boolean) => void;
 };
 
-const ReadingsList: FC<Props> = ({ readings }) => {
-  const handleReadingPressed = (reading: Reading): void => {};
+const holdThresholdMilliseconds = 250;
+
+const ReadingsList: FC<Props> = ({
+  readings,
+  setSelectedIndices,
+  setSelectedKanji,
+  setJishoOpen,
+}) => {
+  const [touchStartTime, setTouchStartTime] = useState<DateTime>();
+
+  const handleTouchStart = (reading: Reading) => {
+    setTouchStartTime(DateTime.utc());
+    setSelectedIndices(reading.indices);
+  };
+
+  const handleTouchEnd = (reading: Reading) => {
+    if (!touchStartTime) return;
+
+    const diff = touchStartTime.diffNow().toMillis();
+
+    if (-diff >= holdThresholdMilliseconds) {
+      setSelectedIndices([]);
+    } else {
+      setJishoOpen(true);
+      setSelectedKanji(reading.kanji);
+    }
+
+    setTouchStartTime(undefined);
+  };
+
+  const isTouchScreen = useIsTouchDevice();
+
+  const handleClick = (reading: Reading) => {
+    if (isTouchScreen) return;
+    setSelectedIndices(reading.indices);
+  };
 
   return (
     <Grid
@@ -48,10 +106,13 @@ const ReadingsList: FC<Props> = ({ readings }) => {
             <Grid item key={`${r.reading}:${JSON.stringify(r.indices)}`}>
               <Chip
                 label={r.kanji}
-                onMouseDown={() => 0}
-                onMouseUp={() => 0}
+                onTouchStart={() => handleTouchStart(r)}
+                onMouseEnter={() => setSelectedIndices(r.indices)}
+                onTouchEnd={() => handleTouchEnd(r)}
+                onMouseLeave={() => setSelectedIndices([])}
+                onContextMenu={(e) => e.preventDefault()}
                 variant="outlined"
-                onClick={() => handleReadingPressed(r)}
+                onClick={() => handleClick(r)}
               />
             </Grid>
           );
