@@ -1,7 +1,8 @@
 "use client";
 
-import { FC, useState } from "react";
+import { FC, useEffect, useState } from "react";
 import { SwipeableDrawer, Button, Box, Paper } from "@mui/material";
+import { DateTime } from "luxon";
 
 type Anchor = "top" | "left" | "bottom" | "right";
 
@@ -12,27 +13,26 @@ type Props = {
 };
 
 const Jisho: FC<Props> = ({ kanji, open, setOpen }) => {
-  const toggleDrawer =
-    (anchor: Anchor, open: boolean) =>
-    (event: React.KeyboardEvent | React.MouseEvent) => {
-      if (
-        event &&
-        event.type === "keydown" &&
-        ((event as React.KeyboardEvent).key === "Tab" ||
-          (event as React.KeyboardEvent).key === "Shift")
-      ) {
-        return;
-      }
-      setOpen(open);
-    };
+  const [openTime, setOpenTime] = useState<number>(Infinity);
+
+  useEffect(() => {
+    if (open) {
+      setOpenTime(DateTime.now().toMillis());
+    }
+  }, [open]);
 
   return (
     <div>
       <SwipeableDrawer
         anchor="bottom"
         open={open && Boolean(kanji)}
-        onClose={toggleDrawer("bottom", false)}
-        onOpen={toggleDrawer("bottom", true)}
+        onClose={() => {
+          const now = DateTime.now().toMillis();
+          if (now - 250 > openTime) {
+            setOpen(false);
+          }
+        }}
+        onOpen={() => undefined}
       >
         <Box
           sx={{
@@ -42,8 +42,6 @@ const Jisho: FC<Props> = ({ kanji, open, setOpen }) => {
           }}
           component={Paper}
           role="presentation"
-          onClick={toggleDrawer("bottom", false)}
-          onKeyDown={toggleDrawer("bottom", false)}
         >
           <iframe
             src={`https://jisho.org/search/${kanji}`}

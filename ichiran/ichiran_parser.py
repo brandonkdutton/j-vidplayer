@@ -1,3 +1,29 @@
+import json
+from dataclasses import dataclass
+
+
+@dataclass
+class IchiranReading:
+    kanji: str
+    reading: str
+
+
+@dataclass
+class ParsedIchiranOutput:
+    text: str
+    readings: list[IchiranReading]
+
+    @property
+    def __dict__(self):
+        return {"text": self.text, "readings": [r.__dict__ for r in self.readings]}
+
+    @staticmethod
+    def from_json(json: dict):
+        return ParsedIchiranOutput(
+            text=json["text"], readings=[IchiranReading(**j) for j in json["readings"]]
+        )
+
+
 def extract_conj(alts: list, use_first_alt: bool) -> list[tuple[str, str]]:
     keys = []
 
@@ -29,7 +55,7 @@ def extract_conj(alts: list, use_first_alt: bool) -> list[tuple[str, str]]:
 
 def handle_ichiran_parse(
     ichiran_json: list, use_first_alt=False, exclude_particles_and_copulas=False
-) -> list[tuple[str, str, str]]:
+) -> list[dict]:
     mappings = []
 
     for p in ichiran_json:
@@ -79,7 +105,21 @@ def handle_ichiran_parse(
                     except Exception:
                         print("ooops")
 
-                for reading, text in entries:
-                    mappings.append((text, reading, reading.split(" ")[0]))
+                mappings.append(
+                    ParsedIchiranOutput(
+                        text=entries[0][1],
+                        readings=[
+                            IchiranReading(reading=reading, kanji=reading.split(" ")[0])
+                            for reading, text in entries
+                        ],
+                    ).__dict__
+                )
 
     return mappings
+
+
+if __name__ == "__main__":
+    with open("./何.json", "r") as f:
+        data = json.load(f)
+        result = handle_ichiran_parse(data, False, False)
+        print("done")
