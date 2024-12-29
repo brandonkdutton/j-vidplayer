@@ -6,7 +6,7 @@ from dataclasses import dataclass, field
 
 import pysrt
 
-from ichiran_parser import handle_ichiran_parse
+from ichiran_parser import handle_ichiran_parse, ParsedIchiranOutput
 
 
 @dataclass
@@ -48,7 +48,7 @@ class Line:
         self.readings = new_readings
 
 
-def ichiran_parse(textLines: list[str]) -> list[tuple[str, str, str]]:
+def ichiran_parse(textLines: list[str]) -> list[dict]:
     results = []
 
     for text in textLines:
@@ -61,6 +61,7 @@ def ichiran_parse(textLines: list[str]) -> list[tuple[str, str, str]]:
 
         if bool(process_result):
             ichiran_json = json.loads(process_result)
+
             mappings = handle_ichiran_parse(
                 ichiran_json, use_first_alt=True, exclude_particles_and_copulas=False
             )
@@ -76,8 +77,7 @@ def execute_function(func, args):
 def map_text_to_readings(text_data: list[str], use_fake=False):
     if use_fake:
         with open("./fake.json", "r") as f:
-            j: list[tuple[str, str, str]] = json.load(f)
-            return j
+            return [ParsedIchiranOutput.from_json(j) for j in json.load(f)]
 
     max_subprocesses = min(64, len(text_data))
     items_per_process = len(text_data) // max_subprocesses
@@ -98,7 +98,7 @@ def map_text_to_readings(text_data: list[str], use_fake=False):
         with open("./fake.json", "w") as f:
             json.dump(result, f, ensure_ascii=False)
 
-    return result
+    return [ParsedIchiranOutput.from_json(j) for j in result]
 
 
 def write_subtitles_file(results: list[Line]):
@@ -120,7 +120,7 @@ def write_subtitles_file(results: list[Line]):
             )
 
 
-def read_readings(readings: list[tuple[str, str, str, str]]):
+def read_readings(readings: list[ParsedIchiranOutput]):
     reading_index = 0
 
     def at(k: int):
@@ -129,15 +129,13 @@ def read_readings(readings: list[tuple[str, str, str, str]]):
         if reading_index >= len(readings):
             return 0, None, None, None
 
-        if k >= len(readings[reading_index][0]):
+        if k >= len(readings[reading_index].text):
             reading_index += 1
             k = 0
             if reading_index >= len(readings):
-                return 0, None, None, None
+                return 0, None
 
-        text, reading, kanji = readings[reading_index]
-
-        return k, text, reading, kanji
+        return k, readings[reading_index]
 
     return at
 
@@ -151,20 +149,20 @@ def merge_lines_and_text(lines: list[Line], text_data: list[str], use_fake=False
 
     get_reading_with_index = read_readings(map_text_to_readings(text_data, use_fake))
 
-    for line in lines:
+    for line_num, line in enumerate(lines):
         i, j = 0, 0
 
         line_offset = 0
         current_line = line.text
 
         while i < len(current_line):
-            k, text, reading, kanji = get_reading_with_index(k)
+            k, obj = get_reading_with_index(k)
 
-            if reading is None:
+            if obj is None:
                 break
 
-            if text[k] == current_line[i]:
-                if (i - j) + 1 == len(text) - carried_over_length:
+            if obj.text[k] == current_line[i]:
+                if (i - j) + 1 == len(obj.text) - carried_over_length:
                     if carry_over_line is not None:
 
                         original_carried_over_text = carry_over_line.text
@@ -174,16 +172,19 @@ def merge_lines_and_text(lines: list[Line], text_data: list[str], use_fake=False
 
                         end_offset = carried_over_length + ((i - j) + 1)
 
-                        carry_over_line.readings.append(
-                            Reading(
-                                [
-                                    (
-                                        len(carry_over_line.text) - end_offset,
-                                        len(carry_over_line.text) - 1,
-                                    )
-                                ],
-                                reading,
-                                kanji,
+                        carry_over_line.readings.extend(
+                            (
+                                Reading(
+                                    [
+                                        (
+                                            len(carry_over_line.text) - end_offset,
+                                            len(carry_over_line.text) - 1,
+                                        )
+                                    ],
+                                    reading.reading,
+                                    reading.kanji,
+                                )
+                                for reading in obj.readings
                             )
                         )
 
@@ -192,16 +193,19 @@ def merge_lines_and_text(lines: list[Line], text_data: list[str], use_fake=False
                         )
                         line_offset = carried_over_length
 
-                    line.readings.append(
-                        Reading(
-                            [
-                                (
-                                    0 if j == 0 else line_offset + j,
-                                    line_offset + i,
-                                )
-                            ],
-                            reading,
-                            kanji,
+                    line.readings.extend(
+                        (
+                            Reading(
+                                [
+                                    (
+                                        0 if j == 0 else line_offset + j,
+                                        line_offset + i,
+                                    )
+                                ],
+                                reading.reading,
+                                reading.kanji,
+                            )
+                            for reading in obj.readings
                         )
                     )
 
@@ -225,8 +229,8 @@ def merge_lines_and_text(lines: list[Line], text_data: list[str], use_fake=False
 
 
 if __name__ == "__main__":
-    srt_file_path = "./videos/x/x.srt"
-    txt_file_path = "./videos/x/x.txt"
+    srt_file_path = "./videos/ADHDすぎてパスポート取ろうとしたら絶望【スーパートラブルVlog】/ADHDすぎてパスポート取ろうとしたら絶望【スーパートラブルVlog】.srt"
+    txt_file_path = "./videos/ADHDすぎてパスポート取ろうとしたら絶望【スーパートラブルVlog】/ADHDすぎてパスポート取ろうとしたら絶望【スーパートラブルVlog】.txt"
 
     lines = [
         Line(start=r.start.ordinal, end=r.end.ordinal, text=r.text)
@@ -234,7 +238,7 @@ if __name__ == "__main__":
     ]
 
     with open(txt_file_path, "r") as f:
-        split_text = re.split("[。、？?]", f.read())
+        split_text = re.split("[。、？? ]", f.read())
         text_data = [part.strip() for part in split_text if part.strip()]
 
     merge_lines_and_text(lines, text_data, use_fake=True)

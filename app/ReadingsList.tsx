@@ -75,7 +75,8 @@ const ReadingsList: FC<Props> = ({
 
   const handleClick = (reading: Reading) => {
     if (isTouchScreen) return;
-    setSelectedIndices(reading.indices);
+    setJishoOpen(true);
+    setSelectedKanji(reading.kanji);
   };
 
   return (
@@ -110,7 +111,10 @@ const ReadingsList: FC<Props> = ({
                 onMouseEnter={() => setSelectedIndices(r.indices)}
                 onTouchEnd={() => handleTouchEnd(r)}
                 onMouseLeave={() => setSelectedIndices([])}
-                onContextMenu={(e) => e.preventDefault()}
+                onContextMenu={(e) => {
+                  e.preventDefault();
+                  navigator.clipboard.writeText(r.kanji);
+                }}
                 variant="outlined"
                 onClick={() => handleClick(r)}
               />

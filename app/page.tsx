@@ -1,7 +1,7 @@
 "use client";
 
 import { Grid } from "@mui/material";
-import { useState, useRef, useEffect } from "react";
+import { useState, useRef, useEffect, useCallback } from "react";
 import ReadingsList, { Reading } from "./ReadingsList";
 import Controls from "./Controls";
 import Subtitles from "./Subtitles";
@@ -16,6 +16,8 @@ type SubTextGroup = {
 };
 
 export default function Home() {
+  const [videoControlsVisible, setVideoControlsVisible] =
+    useState<boolean>(false);
   const [subText, setSubText] = useState<SubTextGroup[]>([]);
   const [subLines, setSubLines] = useState<[string, Reading[]]>(["", []]);
   const [videoFile, setVideoFile] = useState<string>();
@@ -57,6 +59,14 @@ export default function Home() {
     }
   };
 
+  const onSkip = useCallback(() => {
+    setSelectedIndices([]);
+  }, []);
+
+  useEffect(() => {
+    onSkip();
+  }, [subLines, onSkip]);
+
   return (
     <>
       <Grid container direction="column" alignItems="center" spacing={3}>
@@ -71,14 +81,19 @@ export default function Home() {
               playsInline
               autoPlay
               src={videoFile}
-              controls={false}
-              muted={false}
+              controls={videoControlsVisible}
+              muted={true}
             />
           </Grid>
           <Subtitles line={subLines[0]} highlightedIndices={selectedIndices} />
         </Grid>
         <Files setSubtitleTextGroups={setSubText} setVideoSrc={setVideoFile} />
-        <Controls videoRef={videoRef} onTimeUpdate={onTimeUpdate} />
+        <Controls
+          videoRef={videoRef}
+          onTimeUpdate={onTimeUpdate}
+          onSkip={onSkip}
+          setVideoControlsVisible={setVideoControlsVisible}
+        />
         <Grid item>
           <ReadingsList
             readings={subLines[1]}
