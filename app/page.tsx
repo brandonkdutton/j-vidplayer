@@ -23,6 +23,7 @@ export default function Home() {
   const [videoFile, setVideoFile] = useState<string>();
   const [jishoKanji, setJishoKanji] = useState<string>();
   const [jishoOpen, setJishoOpen] = useState<boolean>(false);
+  const [fileControlsHidden, setFileControlsHidden] = useState<boolean>(false);
   const [selectedIndices, setSelectedIndices] = useState<[number, number][]>(
     []
   );
@@ -83,16 +84,30 @@ export default function Home() {
               src={videoFile}
               controls={videoControlsVisible}
               muted={true}
+              onContextMenu={(e) => {
+                e.preventDefault();
+                setVideoControlsVisible((visible) => {
+                  if (!visible) {
+                    videoRef.current?.focus();
+                  }
+                  return !visible;
+                });
+              }}
             />
           </Grid>
           <Subtitles line={subLines[0]} highlightedIndices={selectedIndices} />
         </Grid>
-        <Files setSubtitleTextGroups={setSubText} setVideoSrc={setVideoFile} />
+        <Files
+          setSubtitleTextGroups={setSubText}
+          setVideoSrc={setVideoFile}
+          hidden={fileControlsHidden}
+          setHidden={setFileControlsHidden}
+        />
         <Controls
           videoRef={videoRef}
           onTimeUpdate={onTimeUpdate}
           onSkip={onSkip}
-          setVideoControlsVisible={setVideoControlsVisible}
+          setFileControlsVisible={setFileControlsHidden}
         />
         <Grid item>
           <ReadingsList

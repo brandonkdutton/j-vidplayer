@@ -1,7 +1,7 @@
 "use client";
 
 import { Grid, Button, styled } from "@mui/material";
-import { useState, ChangeEvent, FC } from "react";
+import { ChangeEvent, FC, Dispatch, SetStateAction } from "react";
 import { Reading } from "./ReadingsList";
 
 const VisuallyHiddenInput = styled("input")({
@@ -31,11 +31,16 @@ type SubTextGroup = {
 type Props = {
   setSubtitleTextGroups: (groups: SubTextGroup[]) => void;
   setVideoSrc: (src: string) => void;
+  hidden: boolean;
+  setHidden: Dispatch<SetStateAction<boolean>>;
 };
 
-const Files: FC<Props> = ({ setSubtitleTextGroups, setVideoSrc }) => {
-  const [hidden, setHidden] = useState<boolean>(false);
-
+const Files: FC<Props> = ({
+  setSubtitleTextGroups,
+  setVideoSrc,
+  hidden,
+  setHidden,
+}) => {
   const loadSubFile = (url: string) => {
     fetch(url).then((value) => {
       value

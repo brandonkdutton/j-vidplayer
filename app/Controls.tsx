@@ -12,14 +12,14 @@ type Props = {
   videoRef: RefObject<HTMLVideoElement>;
   onTimeUpdate: (time: number) => void;
   onSkip: () => void;
-  setVideoControlsVisible: Dispatch<SetStateAction<boolean>>;
+  setFileControlsVisible: Dispatch<SetStateAction<boolean>>;
 };
 
 const Controls: FC<Props> = ({
   videoRef,
   onTimeUpdate,
   onSkip,
-  setVideoControlsVisible,
+  setFileControlsVisible,
 }) => {
   const [paused, setPaused] = useState<boolean>(false);
 
@@ -93,12 +93,7 @@ const Controls: FC<Props> = ({
           onClick={pause}
           onContextMenu={(e) => {
             e.preventDefault();
-            setVideoControlsVisible((visible) => {
-              if (!visible) {
-                videoRef.current?.focus();
-              }
-              return !visible;
-            });
+            setFileControlsVisible((visible) => !visible);
           }}
         >
           {paused ? (
